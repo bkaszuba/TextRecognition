@@ -1,4 +1,4 @@
-package Reuters.Controller;
+package Reuters.Extraction;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -76,8 +76,10 @@ public class ExtractReuters {
                         outBuffer.append(System.lineSeparator()).append(System.lineSeparator());
                     }
                     if(tempValues.size() == 2)
-                        if(!tempValues.get(0).contains("<D>"))
-                            articles.add(new Article(tempValues.get(0), tempValues.get(1)));
+                        if(!tempValues.get(0).contains("<D>")) {
+                            String tmp = replaceNeceserry(tempValues.get(1));
+                            articles.add(new Article(tempValues.get(0), tmp));
+                        }
                         else
                             er++;
                     else{
@@ -113,5 +115,15 @@ public class ExtractReuters {
         extractor.extract();
 
         Files.move(outputDir, Paths.get(args[1]), StandardCopyOption.ATOMIC_MOVE);
+    }
+
+    public String replace(String text, String replace, String replacement){
+        return text = text.replace(replace, replacement);
+    }
+
+    public String replaceNeceserry(String text){
+        text = replace(text, "Reuter &#3;", "");
+        text = replace(text,"    ", "  ");
+        return text = replace(text, "  ", "");
     }
 }

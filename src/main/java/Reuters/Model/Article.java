@@ -11,6 +11,7 @@ public class Article {
         this.label = label;
         this.body = body;
     }
+    public Article() {};
 
     public Article(String label){
         this.label = label;

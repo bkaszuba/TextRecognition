@@ -1,8 +1,8 @@
 package Reuters.CLI;
 
 
-import Reuters.Controller.ExtractReuters;
-import Reuters.Controller.ExtractedModifier;
+import Reuters.Extraction.ExtractReuters;
+import Reuters.Extraction.ExtractedModifier;
 import Reuters.Model.Article;
 
 import java.io.IOException;

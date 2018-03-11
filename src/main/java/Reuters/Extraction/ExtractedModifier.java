@@ -1,7 +1,11 @@
-package Reuters.Controller;
+package Reuters.Extraction;
 
 import Reuters.Model.Article;
 
+import java.beans.XMLEncoder;
+import java.io.BufferedOutputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,6 +19,7 @@ public class ExtractedModifier {
     public ExtractedModifier(List<Article> articles) {
         this.articles = articles;
     }
+    public ExtractedModifier() {}
 
     public void getOnlyRequiredPlaces(){
         for (Article art : new ArrayList<>(articles)) {
@@ -25,6 +30,14 @@ public class ExtractedModifier {
             if(art.getBody() == null)
                 articles.remove(art);
         }
+        XMLEncoder encoder=null;
+        try{
+            encoder=new XMLEncoder(new BufferedOutputStream(new FileOutputStream("articles.xml")));
+        }catch(FileNotFoundException fileNotFound){
+            System.out.println("ERROR: While Creating or Opening the File dvd.xml");
+        }
+        encoder.writeObject(articles);
+        encoder.close();
         getNumberOfRequiredPlaces();
     }
     public void getNumberOfRequiredPlaces() {
