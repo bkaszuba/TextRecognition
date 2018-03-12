@@ -1,4 +1,4 @@
-package Reuters;
+package TextRecognition;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

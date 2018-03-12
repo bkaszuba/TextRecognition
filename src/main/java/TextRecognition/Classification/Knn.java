@@ -1,4 +1,4 @@
-package Reuters.Model;
+package TextRecognition.Classification;
 
 import java.util.List;
 

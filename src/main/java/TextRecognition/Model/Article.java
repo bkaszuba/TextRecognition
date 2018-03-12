@@ -1,4 +1,4 @@
-package Reuters.Model;
+package TextRecognition.Model;
 
 /**
  * Created by Kaszuba on 02.03.2018.

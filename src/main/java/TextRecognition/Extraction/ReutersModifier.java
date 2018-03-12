@@ -1,6 +1,6 @@
-package Reuters.Extraction;
+package TextRecognition.Extraction;
 
-import Reuters.Model.Article;
+import TextRecognition.Model.Article;
 
 import java.beans.XMLEncoder;
 import java.io.BufferedOutputStream;
@@ -12,14 +12,14 @@ import java.util.List;
 /**
  * Created by Kaszuba on 02.03.2018.
  */
-public class ExtractedModifier {
+public class ReutersModifier {
 
     public List<Article> articles;
 
-    public ExtractedModifier(List<Article> articles) {
+    public ReutersModifier(List<Article> articles) {
         this.articles = articles;
     }
-    public ExtractedModifier() {}
+    public ReutersModifier() {}
 
     public void getOnlyRequiredPlaces(){
         for (Article art : new ArrayList<>(articles)) {
@@ -30,14 +30,6 @@ public class ExtractedModifier {
             if(art.getBody() == null)
                 articles.remove(art);
         }
-        XMLEncoder encoder=null;
-        try{
-            encoder=new XMLEncoder(new BufferedOutputStream(new FileOutputStream("articles.xml")));
-        }catch(FileNotFoundException fileNotFound){
-            System.out.println("ERROR: While Creating or Opening the File dvd.xml");
-        }
-        encoder.writeObject(articles);
-        encoder.close();
         getNumberOfRequiredPlaces();
     }
     public void getNumberOfRequiredPlaces() {
@@ -55,5 +47,15 @@ public class ExtractedModifier {
         }
         System.out.println("USA: " + places[0] + " West-Germany: " + places[1]
                 + " France: " + places[2] + " Japan: " + places[3] + " UK: " + places[4] + " Canada: " + places[5]);
+    }
+    public void saveArticlesToXML(){
+        XMLEncoder encoder=null;
+        try{
+            encoder=new XMLEncoder(new BufferedOutputStream(new FileOutputStream("articles.xml")));
+        }catch(FileNotFoundException fileNotFound){
+            System.out.println("ERROR: While Creating or Opening the File dvd.xml");
+        }
+        encoder.writeObject(articles);
+        encoder.close();
     }
 }

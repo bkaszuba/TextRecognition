@@ -1,4 +1,4 @@
-package Reuters.Model;
+package TextRecognition.Classification;
 
 /**
  * Created by Kaszuba on 10.03.2018.
