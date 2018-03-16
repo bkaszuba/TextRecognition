@@ -16,7 +16,6 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import TextRecognition.Classification.TextFeaturesCreator;
 import TextRecognition.Model.Article;
 
 public class ReutersParser {
@@ -138,7 +137,8 @@ public class ReutersParser {
 
     private void fillNoValueList() throws FileNotFoundException {
         this.noValueWords = new ArrayList<>();
-        Scanner read = new Scanner(new File("resources\\noValueWords.txt"));
+        String dir = "resources" + File.separator + "noValueWords.txt"; // because of Windows and Unix systems
+        Scanner read = new Scanner(new File(dir));
         read.useDelimiter(",");
         while(read.hasNext()){
             noValueWords.add(read.next());
