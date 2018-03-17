@@ -114,7 +114,7 @@ public class Knn {
             String v3 = String.format("%1$-10s %2$10d", "Fail", (percentage.get(mentry.getKey())[1] - percentage.get(mentry.getKey())[0]));
             String v4 = String.format("%1$-10s %2$10d", "RESULT", percentage.get(mentry.getKey())[0]*100/percentage.get(mentry.getKey())[1]);
             v4 +="%";
-            detailedAnswers.add(v1+"\n");detailedAnswers.add(v1+"\n");detailedAnswers.add(v3+"\n");detailedAnswers.add(v4+"\n");
+            detailedAnswers.add(v1);detailedAnswers.add(v2);detailedAnswers.add(v3);detailedAnswers.add(v4+"\n");
         }
         System.out.println("\nClassification succeded in "+ succeded*100/all+"%");
         saveDetailedResultToFile(detailedAnswers);
@@ -132,6 +132,8 @@ public class Knn {
             for (String s :results) {
                 out.println(s);
             }
+            out.close();
+            System.out.println("Detailed results saved to -> "+ "detailedResult.txt");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
