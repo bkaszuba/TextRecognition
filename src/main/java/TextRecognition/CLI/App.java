@@ -42,8 +42,10 @@ public class App {
         exm.getOnlyRequiredPlaces();
         System.out.println("Articles with required chosen: " + reutersArticles.size());
         exm.saveArticlesToXML();
-        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,9000));
-        List<Article> classify = new ArrayList<>(exm.getArticles().subList(9000,13441));
+         List<Article> test = new ArrayList<>(exm.getArticles().subList(0,80));
+         List<Article> classify = new ArrayList<>(exm.getArticles().subList(80,120));
+//        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,9000));
+//        List<Article> classify = new ArrayList<>(exm.getArticles().subList(9000,13441));
         Knn knn = new Knn(test, classify, "reuters", metric);
         System.out.println("=======================================\nStarted classification!");
         knn.classify(k);

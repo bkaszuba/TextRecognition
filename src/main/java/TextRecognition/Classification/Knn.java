@@ -15,6 +15,7 @@ public class Knn {
     private HashMap<Double, String> results;
     private HashMap<String, int[]> percentage;
     private String method;
+    private List<List<String>> articlesWords = null;
 
     public Knn(List<Article> testingValues, List<Article> classificationValues, String whatToClassify, String method) {
         this.testingArticles = testingValues;
@@ -29,6 +30,16 @@ public class Knn {
         this.method = method;
         this.percentage = new HashMap<>();
         initializePercentage();
+        extractArticlesWords(classificationArticles);
+
+    }
+    private void extractArticlesWords(List<Article> articles) {
+        articlesWords = new ArrayList<>();
+        for (Article article : articles) {
+            String[] words = article.getBody().split("\\s+");
+            List<String> listOfWords = Arrays.asList(words);
+            articlesWords.add(listOfWords);
+        }
     }
 
     public void classify(int k) {
@@ -38,27 +49,33 @@ public class Knn {
             if (all % 250 == 0)
                 System.out.println(".");
             results = new HashMap<>();
-            CountVectorizer countVectorizer = new CountVectorizer(classifyArt);
+            TFIDFCalculator tfidfCalculator = new TFIDFCalculator(articlesWords, classifyArt);
             for (Article testArt : testingArticles) {
-                countVectorizer.vectorizeArticle(testArt);
-                countVectorizer.countWords();
-                switch (method) {
-                    case "euclidean": {
-                        results.put(euclideanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
-                        break;
-                    }
-                    case "chebyshev": {
-                        results.put(chebyshevMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
-                        break;
-                    }
-                    case "manhattan": {
-                        results.put(manhattanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
-                        break;
-                    }
-                }
-
-
+                tfidfCalculator.vectorizeArticle(testArt);
+                tfidfCalculator.calculateTFIDF();
+                results.put(chebyshevMetric(tfidfCalculator.getWordsCounter()), testArt.getLabel());
             }
+//            CountVectorizer countVectorizer = new CountVectorizer(classifyArt);
+//            for (Article testArt : testingArticles) {
+//                countVectorizer.vectorizeArticle(testArt);
+//                countVectorizer.countWords();
+//                switch (method) {
+//                    case "euclidean": {
+//                        results.put(euclideanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+//                        break;
+//                    }
+//                    case "chebyshev": {
+//                        results.put(chebyshevMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+//                        break;
+//                    }
+//                    case "manhattan": {
+//                        results.put(manhattanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+//                        break;
+//                    }
+//                }
+//
+//
+//            }
 
             Map<Double, String> map = new TreeMap<>(results);
             List<String> labels = new ArrayList<>();
@@ -103,14 +120,20 @@ public class Knn {
         }
         return result;
     }
-
-    private double chebyshevMetric(int[][] values) {
-        List<Integer> tempResults = new ArrayList<>();
-        for (int i = 0; i < values.length; i++) {
+    private double chebyshevMetric(double[][] values){
+        List<Double> tempResults = new ArrayList<>();
+        for (int i=0; i<values.length; i++){
             tempResults.add(Math.abs(values[i][0] - values[i][1]));
         }
         return Collections.max(tempResults);
     }
+//    private double chebyshevMetric(int[][] values) {
+//        List<Integer> tempResults = new ArrayList<>();
+//        for (int i = 0; i < values.length; i++) {
+//            tempResults.add(Math.abs(values[i][0] - values[i][1]));
+//        }
+//        return Collections.max(tempResults);
+//    }
 
 
     // METHODS FOR SHOWING RESULTS AND SAVING DETAILED RESULTS TO FILE
