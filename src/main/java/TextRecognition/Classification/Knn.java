@@ -58,7 +58,7 @@ public class Knn {
                     for (Article testArt : testingArticles) {
                         countVectorizer.vectorizeArticle(testArt);
                         countVectorizer.countWords();
-                        methodMenu(countVectorizer, testArt);
+                        methodMenu(countVectorizer,classifyArt, testArt);
                     }
                     break;
                 }
@@ -67,7 +67,7 @@ public class Knn {
                     for (Article testArt : testingArticles) {
                         tfidfCalculator.vectorizeArticle(testArt);
                         tfidfCalculator.calculateTFIDF();
-                        methodMenu(tfidfCalculator, testArt);
+                        methodMenu(tfidfCalculator,classifyArt, testArt);
                     }
                     break;
                 }
@@ -123,18 +123,28 @@ public class Knn {
         return Collections.max(tempResults);
     }
 
-    public void methodMenu(Extractor extractor, Article article){
+    public void methodMenu(Extractor extractor, Article classifyArt, Article testArt){
         switch (method) {
             case "euclidean": {
-                results.put(euclideanMetric(extractor.getWordsCounter()), article.getLabel());
+                results.put(euclideanMetric(extractor.getWordsCounter()), testArt.getLabel());
                 break;
             }
             case "chebyshev": {
-                results.put(chebyshevMetric(extractor.getWordsCounter()), article.getLabel());
+                results.put(chebyshevMetric(extractor.getWordsCounter()), testArt.getLabel());
                 break;
             }
             case "manhattan": {
-                results.put(manhattanMetric(extractor.getWordsCounter()), article.getLabel());
+                results.put(manhattanMetric(extractor.getWordsCounter()), testArt.getLabel());
+                break;
+            }
+            case "levenshtein": {
+                SimpleExtractor simpleExtractor = new SimpleExtractor();
+                results.put(simpleExtractor.getLevenshteinDistance(classifyArt, testArt), testArt.getLabel());
+                break;
+            }
+            case "ngram": {
+                SimpleExtractor simpleExtractor = new SimpleExtractor();
+                results.put(simpleExtractor.getNGramDistance(classifyArt, testArt, 5), testArt.getLabel());
                 break;
             }
         }

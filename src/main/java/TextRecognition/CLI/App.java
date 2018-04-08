@@ -24,11 +24,17 @@ public class App {
         String euclideanMetric = "euclidean";
         String chebyshevMetric = "chebyshev";
         String manhattanMetric = "manhattan";
-        runReuters(3, euclideanMetric);
+        String levenshteinDistance = "levenshtein";
+        String nGramDistance = "ngram";
+
+        String countVectorizerExtractor = "CountVectorizer";
+        String tfidfExtractor = "TFIDF";
+
+        runReuters(3, nGramDistance, countVectorizerExtractor);
         //runOwnText(3, true,euclideanMetric);
     }
 
-    static void runReuters(int k, String metric) throws IOException {
+    static void runReuters(int k, String metric, String extractor) throws IOException {
         Path x = Paths.get("resources" + File.separator + "reuters21578");
         List<Article> reutersArticles;
         ReutersParser ex = new ReutersParser(x);
@@ -42,25 +48,25 @@ public class App {
         exm.getOnlyRequiredPlaces();
         System.out.println("Articles with required chosen: " + reutersArticles.size());
         exm.saveArticlesToXML();
-        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,400));
-        List<Article> classify = new ArrayList<>(exm.getArticles().subList(400,570));
+        List<Article> test = new ArrayList<>(exm.getArticles().subList(0, 100));
+        List<Article> classify = new ArrayList<>(exm.getArticles().subList(100, 140));
 //        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,9000));
 //        List<Article> classify = new ArrayList<>(exm.getArticles().subList(9000,13441));
-        Knn knn = new Knn(test, classify, "reuters", metric,"TFIDF");
+        Knn knn = new Knn(test, classify, "reuters", metric, extractor);
         System.out.println("=======================================\nStarted classification!");
         knn.classify(k);
     }
 
-    static void runOwnText(int k, boolean shuffle, String metric) {
+    static void runOwnText(int k, boolean shuffle, String metric, String extractor) {
         OwnTextParser own = new OwnTextParser();
         List<Article> ownArticles;
         ownArticles = own.parse("resources" + File.separator + "OwnTexts" + File.separator + "ownData7030.sgm");
-        if(shuffle) {
+        if (shuffle) {
             Collections.shuffle(ownArticles);
         }
-        List<Article> test = new ArrayList<>(ownArticles.subList(0,70));
-        List<Article> classify = new ArrayList<>(ownArticles.subList(70,100));
-        Knn knn = new Knn(test, classify, "own", metric,"CountVectorizer");
+        List<Article> test = new ArrayList<>(ownArticles.subList(0, 70));
+        List<Article> classify = new ArrayList<>(ownArticles.subList(70, 100));
+        Knn knn = new Knn(test, classify, "own", metric, extractor);
         System.out.println("=======================================\nStarted classification!");
         knn.classify(k);
     }
