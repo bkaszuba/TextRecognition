@@ -58,4 +58,8 @@ public class ReutersModifier {
         encoder.writeObject(articles);
         encoder.close();
     }
+
+    public List<Article> getArticles() {
+        return this.articles;
+    }
 }

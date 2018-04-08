@@ -6,39 +6,57 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.*;
 
-/**
- * Created by Kaszuba on 10.03.2018.
- */
 public class Knn {
+    public String[] chosen;
+    public String[] own;
     public String[] places;
     private List<Article> testingArticles;
     private List<Article> classificationArticles;
     private HashMap<Double, String> results;
     private HashMap<String, int[]> percentage;
+    private String method;
 
-    public Knn(List<Article> testingValues, List<Article> classificationValues) {
+    public Knn(List<Article> testingValues, List<Article> classificationValues, String whatToClassify, String method) {
         this.testingArticles = testingValues;
         this.classificationArticles = classificationValues;
         places = new String[]{"usa", "japan", "france", "uk", "canada", "west-germany"};
+        own = new String[]{"car", "flower", "animal"};
+        if (whatToClassify.equals("reuters")) {
+            chosen = places;
+        } else {
+            chosen = own;
+        }
+        this.method = method;
         this.percentage = new HashMap<>();
         initializePercentage();
     }
 
     public void classify(int k) {
         double all = 0;
-
         for (Article classifyArt : classificationArticles) {
             all++;
             if (all % 250 == 0)
                 System.out.println(".");
             results = new HashMap<>();
             CountVectorizer countVectorizer = new CountVectorizer(classifyArt);
-
             for (Article testArt : testingArticles) {
-
                 countVectorizer.vectorizeArticle(testArt);
                 countVectorizer.countWords();
-                results.put(chebyshevMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+                switch (method) {
+                    case "euclidean": {
+                        results.put(euclideanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+                        break;
+                    }
+                    case "chebyshev": {
+                        results.put(chebyshevMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+                        break;
+                    }
+                    case "manhattan": {
+                        results.put(manhattanMetric(countVectorizer.getWordsCounter()), testArt.getLabel());
+                        break;
+                    }
+                }
+
 
             }
 
@@ -86,9 +104,9 @@ public class Knn {
         return result;
     }
 
-    private double chebyshevMetric(int[][] values){
+    private double chebyshevMetric(int[][] values) {
         List<Integer> tempResults = new ArrayList<>();
-        for (int i=0; i<values.length; i++){
+        for (int i = 0; i < values.length; i++) {
             tempResults.add(Math.abs(values[i][0] - values[i][1]));
         }
         return Collections.max(tempResults);
@@ -134,8 +152,8 @@ public class Knn {
     }
 
     private void initializePercentage() {
-        for (int i = 0; i < places.length; i++) {
-            percentage.put(places[i], new int[]{0, 0});
+        for (int i = 0; i < chosen.length; i++) {
+            percentage.put(chosen[i], new int[]{0, 0});
         }
     }
 

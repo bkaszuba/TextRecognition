@@ -22,6 +22,8 @@ public class ReutersParser {
     private Path reutersDir;
     public List<Article> articles;
     private List<String> noValueWords;
+    private final static String REUTERS_TAG_END = "</REUTERS";
+    private final static String OWN_TAG_END = "</DATA";
 
     public ReutersParser(Path reutersDir) throws IOException {
         this.reutersDir = reutersDir;
@@ -48,6 +50,10 @@ public class ReutersParser {
 //    Pattern EXTRACTION_PATTERN = Pattern
 //            .compile("<AUTHOR>(.*?)</AUTHOR>|<BODY>(.*?)</BODY>");
 
+//   Pattern EXTRACTION_PATTERN = Pattern
+//           .compile("<LABEL>(.*?)</LABEL>|<BODY>(.*?)</BODY>");
+
+
     private static String[] META_CHARS = {"&", "<", ">", "\"", "'"};
     private static String[] META_CHARS_SERIALIZATIONS = {"&amp;", "&lt;",
             "&gt;", "&quot;", "&apos;"};
@@ -56,9 +62,9 @@ public class ReutersParser {
         try (BufferedReader reader = Files.newBufferedReader(sgmFile, StandardCharsets.ISO_8859_1)) {
             StringBuilder buffer = new StringBuilder(1024);
 
-            String line = null;
+            String line;
             while ((line = reader.readLine()) != null) {
-                if (line.indexOf("</REUTERS") == -1) {
+                if (line.indexOf(REUTERS_TAG_END) == -1) {
                     buffer.append(line).append(' ');
                 } else {
                     Matcher matcher = EXTRACTION_PATTERN.matcher(buffer);
@@ -66,7 +72,7 @@ public class ReutersParser {
                     while (matcher.find()) {
                         for (int i = 1; i <= matcher.groupCount(); i++) {
                             if (matcher.group(i) != null) {
-                                if(!noValueWords.contains(matcher.group(i))) {
+                                if (!noValueWords.contains(matcher.group(i))) {
                                     tempValues.add(matcher.group(i));
                                 }
                             }

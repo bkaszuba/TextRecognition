@@ -135,7 +135,7 @@ banking network in Harris County.
 u f BC-TALKING-POINT/BANKAME   02-26 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TALKING POINT/BANKAMERICA &lt;BAC> EQUITY OFFER</TITLE>
-<AUTHOR>    by Janie Gabbett, Reuters</AUTHOR>
+<AUTHOR>    by Janie Gabbett, TextRecognition</AUTHOR>
 <DATELINE>    LOS ANGELES, Feb 26 - </DATELINE><BODY>BankAmerica Corp is not under
 pressure to act quickly on its proposed equity offering and
 would do well to delay it because of the stock's recent poor
@@ -557,7 +557,7 @@ price would be.
 u f BC--ECONOMIC-SPOTLIGHT--   02-26 0104</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - BANKAMERICA &lt;BAC></TITLE>
-<AUTHOR>    by Janie Gabbett, Reuters</AUTHOR>
+<AUTHOR>    by Janie Gabbett, TextRecognition</AUTHOR>
 <DATELINE>    LOS ANGELES, Feb 26 - </DATELINE><BODY>BankAmerica Corp is not under
 pressure to act quickly on its proposed equity offering and
 would do well to delay it because of the stock's recent poor
@@ -965,13 +965,13 @@ results of its universal life business than first estimated.
 r f AM-REAGAN-IMPACT-(NEWS-A NALYSIS)  02-26 0092</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TOWER REPORT DIMINISHES REAGAN'S HOPES OF REBOUND</TITLE>
-<AUTHOR>    By Michael Gelb, Reuters</AUTHOR>
+<AUTHOR>    By Michael Gelb, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>The Tower Commission report, which
 says President Reagan was ignorant about much of the Iran arms
 deal, just about ends his prospects of regaining political
 dominance in Washington, political analysts said.
     "This is certification of incompetence," private political
-analyst Stephen Hess told Reuters in commenting on the Tower
+analyst Stephen Hess told TextRecognition in commenting on the Tower
 report made public today.
     "It's as if he went before a professional licensing board
 and was denied credentials."
@@ -1482,7 +1482,7 @@ bodies, including the U.S. Bankruptcy Court.
 u f BC-CHEMLAWN-&lt;CHEM>-RISES   02-26 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHEMLAWN &lt;CHEM> RISES ON HOPES FOR HIGHER BIDS</TITLE>
-<AUTHOR>    By Cal Mankowski, Reuters</AUTHOR>
+<AUTHOR>    By Cal Mankowski, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>ChemLawn Corp &lt;CHEM> could attract a
 higher bid than the 27 dlrs per share offered by Waste
 Management Inc &lt;WNX>, Wall Street arbitrageurs said.
@@ -1693,7 +1693,7 @@ land must be enrolled in the program by the end of fiscal 1990.
 by Senate Majority Leader Robert Dole (Kan.), said they would
 consider drafting legislation to increase the reserve by
 between 15 and 20 mln acres.
-    Sen. Charles Grassley (R-Iowa) told Reuters he would offer
+    Sen. Charles Grassley (R-Iowa) told TextRecognition he would offer
 a bill to expand the reserve to 67 mln acres.
  Reuter
 &#3;</BODY></TEXT>
@@ -1754,7 +1754,7 @@ s f BC-EMHART-CORP-&lt;EMH>-QTL   02-26 0024</UNKNOWN>
 u f BC-/U.S.-DATA-POINT-TO-C   02-26 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. DATA POINT TO CAPITAL SPENDING SLOWDOWN</TITLE>
-<AUTHOR>    By Kathleen Hays, Reuters</AUTHOR>
+<AUTHOR>    By Kathleen Hays, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>A surprise 7.5 pct drop in U.S. January
 durable goods orders points to a slowdown in capital spending
 that could presage lackluster real growth in the U.S. economy
@@ -2510,11 +2510,11 @@ f f BC-******NEW-YORK-BANK-D   02-26 0012</UNKNOWN>
 r f BC-QUEBECOR-(PQB)-HEAD-S   02-26 0087</UNKNOWN>
 <TEXT>&#2;
 <TITLE>QUEBECOR &lt;PQB> HEAD SEES NEW VENTURES LIKELY</TITLE>
-<AUTHOR>    By Jane Arraf, Reuters</AUTHOR>
+<AUTHOR>    By Jane Arraf, TextRecognition</AUTHOR>
 <DATELINE>    MONTREAL, Feb 26 - </DATELINE><BODY>Quebecor Inc, one of Canada's largest
 publishing and printing companies, is likely to launch a new
 daily newspaper in Montreal, probably this fall, president
-Pierre Peladeau told Reuters in an interview.
+Pierre Peladeau told TextRecognition in an interview.
     The company, which last week won a bid to buy the Quebec
 government's 55 pct interest in pulp and paper company &lt;Donohue
 Inc>, will also likely go ahead with plans to build a new paper
@@ -3631,7 +3631,7 @@ February 16 week, the Federal Reserve said.
     The previous week's M-1 level was revised to 734.6 billion
 dlrs from 734.2 billion dlrs, while the four-week moving
 average of M-1 rose to 735.0 billion dlrs from 733.5 billion.
-    Economists polled by Reuters said that M-1 should be
+    Economists polled by TextRecognition said that M-1 should be
 anywhere from down four billion dlrs to up 2.3 billion dlrs.
 The average forecast called for a 300 mln dlr M-1 rise.
  Reuter
@@ -4284,7 +4284,7 @@ cash outlays, administration and industry sources said.
     Analysis that the GAO has obtained from the Agriculture
 Department and the Office of Management and Budget suggests
 that certificates cost more than cash payments, a GAO official
-told Reuters.
+told TextRecognition.
     GAO is preparing the certificate study at the specific
 request of Sen. Jesse Helms (R-N.C.), former chairman of the
 senate agriculture committee.
@@ -4534,7 +4534,7 @@ s f BC-ARMOR-ALL-PRODUCTS-CO   02-26 0023</UNKNOWN>
 r f BC-/OPEC-MAY-HAVE-TO-MEE   02-26 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>OPEC MAY HAVE TO MEET TO FIRM PRICES - ANALYSTS</TITLE>
-<AUTHOR>    BY TED D'AFFLISIO, Reuters</AUTHOR>
+<AUTHOR>    BY TED D'AFFLISIO, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>OPEC may be forced to meet before a
 scheduled June session to readdress its production cutting
 agreement if the organization wants to halt the current slide
@@ -4580,7 +4580,7 @@ prompted excesses in its production.
     "Demand for their (OPEC) oil is clearly above 15.8 mln bpd
 and is probably closer to 17 mln bpd or higher now so what we
 are seeing characterized as cheating is OPEC meeting this
-demand through current production," he told Reuters in a
+demand through current production," he told TextRecognition in a
 telephone interview.
  Reuter
 &#3;</BODY></TEXT>
@@ -5424,7 +5424,7 @@ banks do not grant its request.
 r f BC-LNG-IMPORTS-FROM-ALGE   02-26 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>LNG IMPORTS FROM ALGERIA UNLIKELY IN 1987</TITLE>
-<AUTHOR>    BY NAILENE CHOU WIEST, Reuters</AUTHOR>
+<AUTHOR>    BY NAILENE CHOU WIEST, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>Liquefied natural gas imports from
 Algeria are unlikely to happen in 1987 even though its
 economically feasible, U.S. industry analysts sources said.
@@ -5438,7 +5438,7 @@ analyst with Shearson Lehman Bros. said.
     Sonatrach is currently negotiating with two of its former
 customers, Panhandle Eastern &lt;PEL> and Distrigas, a subsidiary
 of Cabot Corp &lt;CBT> to resume LNG export, company officials
-told Reuters. A third, El Paso Gas, a subsidiary of Burlington
+told TextRecognition. A third, El Paso Gas, a subsidiary of Burlington
 Northern &lt;BNI>, has expressed no interest.
     Industry analysts said some imports of Algerian LNG were
 feasible. "On a marginal cost basis, the companies that have
@@ -5548,7 +5548,7 @@ could be developed without Congressional legislation.
 r f AM-REAGAN-CABINET   02-26 0091</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REPORT COULD BE FINAL BLOW FOR REGAN</TITLE>
-<AUTHOR>    By Sue Baker, Reuters</AUTHOR>
+<AUTHOR>    By Sue Baker, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>The Tower Commission's scathing   
 comments on President Reagan's embattled chief of staff Donald
 Regan could signal the death knell to his White House tenure,
@@ -5699,7 +5699,7 @@ the very near future.
     "The grain companies are trying to get this fired up again,"
 an aide to Agriculture Secretary Richard Lyng said. "But there
 just isn't much talk about it, informally or formally."
-    Most analysts interviewed by Reuters were more confident
+    Most analysts interviewed by TextRecognition were more confident
 than USDA officials that bonus wheat would be offered to the
 Soviets, even though U.S. officials did not make such an offer
 when they held grain talks with Soviet counterparts earlier
@@ -6327,7 +6327,7 @@ Circuit Systems said.
 u f BC-FALLING-SOYBEAN-CRUSH   02-26 0123</UNKNOWN>
 <TEXT>&#2;
 <TITLE>FALLING SOYBEAN CRUSH RATIOS CUT OUTPUT</TITLE>
-<AUTHOR>    by John Morrison, Reuters</AUTHOR>
+<AUTHOR>    by John Morrison, TextRecognition</AUTHOR>
 <DATELINE>    CHICAGO, Feb 26 - </DATELINE><BODY>The sharp decline in soybean crush ratios
 seen in the last few weeks, accelerating in recent days, has
 pushed margins below the cost of production at most soybean
@@ -6449,7 +6449,7 @@ and 2-for-1 split May 1985.
 u f BC-FED-DATA-SUGGEST-STAB   02-26 0104</UNKNOWN>
 <TEXT>&#2;
 <TITLE>FED DATA SUGGEST STABLE U.S. MONETARY POLICY</TITLE>
-<AUTHOR>    by Jeremy Solomons, Reuters</AUTHOR>
+<AUTHOR>    by Jeremy Solomons, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>Latest Federal Reserve data suggest that
 the central bank voted to maintain the existing degree of
 pressure on banking reserves at its regular policy-making
@@ -6691,7 +6691,7 @@ firms sold only one per cent of Japan's 55 billion dlr market.
 u f BC-FRANCE-ECONOMY   02-26 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>FRANCE FACES PRESSUE TO CHANGE POLICIES</TITLE>
-<AUTHOR>    By Brian Childs, Reuters</AUTHOR>
+<AUTHOR>    By Brian Childs, TextRecognition</AUTHOR>
 <DATELINE>    PARIS, Feb 26 - </DATELINE><BODY>France's right wing government is facing
 growing pressure to modify its economic policies after revising
 down its 1987 growth targets and revising up its inflation
@@ -6708,7 +6708,7 @@ deregulation, budget-cutting rigour and pay restraint.
     But Trade Union leaders served immediate notice they would
 push to protect the purchasing power of their members, raising
 the spectre of a vicious spiral of wage and price rises.
-    And bank economists contacted by Reuters said they believed
+    And bank economists contacted by TextRecognition said they believed
 Prime Minister Jacques Chirac could be forced by slow growth
 and rising unemployment to reflate the economy later this year,
 perhaps in the autumn, to boost his prospects in Presidential
@@ -7209,7 +7209,7 @@ Conservatives, might call a general election.
 u f BC-ECONOMIC-SPOTLIGHT--   02-26 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - JAPAN EYEING FOREIGN STOCKS</TITLE>
-<AUTHOR>    By Jeff Stearns, Reuters</AUTHOR>
+<AUTHOR>    By Jeff Stearns, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, Feb 27 - </DATELINE><BODY>Japanese life insurers, trust banks and
 corporations, largely responsible for vitalising the U.S. Bond
 market in recent years, are now eyeing stockmarkets in the
@@ -7313,7 +7313,7 @@ u f BC-TAIWAN-OFFSHORE-BANKI   02-26 0106</UNKNOWN>
 banking units (obu) rose to 6.28 billion U.S. Dlrs at end-
 January from 6.21 billion in December and 6.34 billion in
 January 1986, the central bank said.
-    A bank official told Reuters the increase came mainly from
+    A bank official told TextRecognition the increase came mainly from
 increased local obu borrowings from their Asian counterparts.
     He said the assets, held by 15 foreign and local banks,
 were mainly in U.S. Dollars with the remainder in certificates
@@ -7625,7 +7625,7 @@ the administration"s accomplishments outweighed its failures.
 b f BC-PRODUCER-SPLIT-HEATS   03-01 0093</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PRODUCER SPLIT HEATS UP COFFEE QUOTA TALKS</TITLE>
-<AUTHOR>    By Lisa Vaughan, Reuters</AUTHOR>
+<AUTHOR>    By Lisa Vaughan, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 1 - </DATELINE><BODY>Talks on the possibility of reintroducing
 global coffee export quotas have been extended into today, with
 sparks flying yesterday when a dissident group of exporters was
@@ -7904,7 +7904,7 @@ April." But he expected the situation would later improve.
 u f BC-INDONESIA-SEEN-AT-CRO   03-01 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>INDONESIA SEEN AT CROSSROADS OVER ECONOMIC CHANGE</TITLE>
-<AUTHOR>    By Jeremy Clift, Reuters</AUTHOR>
+<AUTHOR>    By Jeremy Clift, TextRecognition</AUTHOR>
 <DATELINE>    JAKARTA, March 1 - </DATELINE><BODY>Indonesia appears to be nearing a
 political crossroads over measures to deregulate its protected
 economy, the U.S. Embassy says in a new report.
@@ -7989,7 +7989,7 @@ paper, said: "The defence cow has never been holier."
 political." It said in a front page commentary the "budget is bad
 for growth, bad for prices, bad for the stock market and
 neutral in respect of everything else."
-    Businessmen polled by Reuters said the budget had done
+    Businessmen polled by TextRecognition said the budget had done
 little for them.
     Gandhi announced small increases in poverty alleviation and
 education outlays but he ordered a hold-down on current
@@ -8647,7 +8647,7 @@ b f BC-SHULTZ-LIKELY-TO-VISI   03-01 0086</UNKNOWN>
 <DATELINE>    PEKING, March 2 - </DATELINE><BODY>U.S. Secretary of State George Shultz is
 likely to visit Moscow soon for talks following new Soviet arms
 control proposals, U.S. Officials said.
-    The officials told Reuters no decision had been reached on
+    The officials told TextRecognition no decision had been reached on
 when the trip might take place, but it was likely to be within
 a month.
     Kremlin leader Mikhail Gorbachev proposed on Saturday that
@@ -8675,7 +8675,7 @@ u f BC-ZAMBIA-TO-RETAIN-CURR   03-01 0112</UNKNOWN>
 auction system despite the suspension of weekly auctions since
 January 24, President Kenneth Kaunda said.
     "We have not run away from the auction. It hasn't been
-abolished at all," he told Reuters in an interview.
+abolished at all," he told TextRecognition in an interview.
     He said the system would be reintroduced after current
 talks with the World Bank and the International Monetary Fund
 and, he hoped, would be backed by fresh foreign aid funds.
@@ -9160,7 +9160,7 @@ largest earth dam in the North Island.
 u f BC-PHILIPPINES-HEADS-CON   03-02 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINES HEADS CONFIDENTLY INTO DEBT TALKS</TITLE>
-<AUTHOR>    By Chaitanya Kalbag, Reuters</AUTHOR>
+<AUTHOR>    By Chaitanya Kalbag, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 2 - </DATELINE><BODY>Philippine Finance Secretary Jaime Ongpin
 starts negotiations with the country's 12-bank advisory
 committee in New York tomorrow, buoyed by an economy on the
@@ -9428,7 +9428,7 @@ authorities. Gordon Macklin, president of the National
 Association of Securities Dealers in Washington, said he was
 very optimistic about an early agreement, possibly by the end
 of this month.
-    Monetary Authority of Singapore (MAS) sources told Reuters
+    Monetary Authority of Singapore (MAS) sources told TextRecognition
 they supported the proposed linking of computer trading systems
 on the three exchanges, and the banking sources said local
 financial support for the plan existed.
@@ -9510,7 +9510,7 @@ calendar 1986, to 5.768 billion dlrs from 5.983 billion in
 u f BC-GERMAN-EUROBOND-MARKE   03-02 0099</UNKNOWN>
 <TEXT>&#2;
 <TITLE>GERMAN EUROBOND MARKET EXPECTS BREATHING SPACE</TITLE>
-<AUTHOR>    By Alice Ratcliffe, Reuters</AUTHOR>
+<AUTHOR>    By Alice Ratcliffe, TextRecognition</AUTHOR>
 <DATELINE>    FRANKFURT, March 2 - </DATELINE><BODY>After an onslaught of new paper, fewer
 mark eurobonds issues are expected this week, bankers said.
     Most managers said they were planning a low issue volume
@@ -9903,7 +9903,7 @@ u f BC-TAIWAN-CENTRAL-BANK-I   03-02 0085</UNKNOWN>
 <DATELINE>    TAIPEI, March 2 - </DATELINE><BODY>The Central Bank issued 2.14 billion
 Taiwan dlrs of certificates of deposit (CD), bringing the total
 so far this year to 86.21 billion, a bank official told
-Reuters.
+TextRecognition.
     The new CD have maturities of six months and one and two
 years and bear interest rates ranging from 3.9 pct to 5.15 pct.
     The issues are aimed at curbing the growth of M-1B money
@@ -10065,7 +10065,7 @@ RB211-535E4 engines would be fitted to the Boeing 757s.
 u f BC-JAPAN-PLANS-MORE-FLEX   03-02 0100</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN PLANS MORE FLEXIBLE CORPORATE BOND ISSUES</TITLE>
-<AUTHOR>    By Yoshiko Mori, Reuters</AUTHOR>
+<AUTHOR>    By Yoshiko Mori, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Japanese securities houses will issue new
 corporate bonds more quickly, accept issue requests throughout
 the month instead of at month-end and introduce a competitive
@@ -10513,7 +10513,7 @@ Financiere Robur share at a price of 210 francs.
 u f BC-JAPANESE-BANKS-COOL-O   03-02 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPANESE BANKS COOL ON NIGERIAN DEBT TALKS</TITLE>
-<AUTHOR>    By Kunio Inoue, Reuters</AUTHOR>
+<AUTHOR>    By Kunio Inoue, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Japanese banks are expected to give
 Nigerian debt negotiators a cool response when they arrive here
 tomorrow for talks, banking sources said.
@@ -10598,7 +10598,7 @@ target will add some 20 mln stg to the system today.
 u f BC-JAPAN-SALES-TAX-MAY-F   03-02 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN SALES TAX MAY FORCE NAKASONE OUT OF OFFICE</TITLE>
-<AUTHOR>    By Yuko Nakamikado, Reuters</AUTHOR>
+<AUTHOR>    By Yuko Nakamikado, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Prime Minister Yasuhiro Nakasone is likely
 to leave office this summer amid opposition to his
 controversial tax-reform package, political analysts said.
@@ -10608,7 +10608,7 @@ sales tax planned for January 1988.
     "Nakasone is trying to carry out a drastic tax reform at the
 end of his administration, which is not only impossible but
 also is very irresponsible as a politican," Rei Shiratori,
-professor of politics at Dokkyo University, told Reuters.
+professor of politics at Dokkyo University, told TextRecognition.
     "Nakasone will almost certainly step down as soon as
 parliament approves the sales tax, probably in the summer,"
 Shiratori said.
@@ -10735,7 +10735,7 @@ from 3.05 mln in mid-January.
 u f BC-ATPC-MEMBERS-FIND-WAY   03-02 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ATPC MEMBERS FIND WAYS TO CURB TIN EXPORTS</TITLE>
-<AUTHOR>    By Rajan Moses, Reuters</AUTHOR>
+<AUTHOR>    By Rajan Moses, TextRecognition</AUTHOR>
 <DATELINE>    KUALA LUMPUR, March 2 - </DATELINE><BODY>Mine and industry officials from
 most member states of the Association of Tin Producing
 Countries (ATPC) say they have found ways to limit group
@@ -10757,7 +10757,7 @@ equal to its expected output this year.
 said only 188 mines will be allowed to operate to ensure that
 output is limited to around 31,500 tonnes in the year started
 March 1.
-    Chief Inspector of Mines Redzuan Sumun told Reuters that
+    Chief Inspector of Mines Redzuan Sumun told TextRecognition that
 excess output of some 3,000 tonnes after exports of 28,500 in
 the one-year quota period would be kept in the national stock.
     Mine owners in Malaysia have welcomed the ATPC export curb
@@ -10769,7 +10769,7 @@ that local mines were not overproducing.
     ATPC chairman and Indonesia's Mining and Energy Minister
 Subroto has pledged his country's support for the export curb.
     A spokesman for the state-owned tin mining company PT
-Tambang Timah told Reuters it would be easy for Indonesia to
+Tambang Timah told TextRecognition it would be easy for Indonesia to
 stick to an export quota of 24,516 tonnes because this was
 close to exports in calendar 1986 of 24,636.
     In Bangkok, Thai Industry Minister Pramual Sabhavasu said
@@ -10783,13 +10783,13 @@ permitted, he said.
 disallow new tin mines opening this year to prevent excessive
 production, industry sources said.
     But Mining Industry Council President Dam Teutong told
-Reuters that if the tin price rose above 18 ringgit a kilo,
+TextRecognition that if the tin price rose above 18 ringgit a kilo,
 Thai miners would press for the opening of more new mines.
     Thailand exported 18,367 tonnes in 1986, up from 17,359 in
 1985, Pramual said.
     Bolivia said it expects to export less tin this year than
 its allocated 13,761 tonne quota.
-    Mining Minister Jaimie Villalobos told Reuters in La Paz
+    Mining Minister Jaimie Villalobos told TextRecognition in La Paz
 that Bolivia expected to export about 9,000 tonnes of tin in
 calendar 1987.
     He said this was due to the sacking after the tin crisis of
@@ -10803,7 +10803,7 @@ achieved. He did not elaborate.
 Lagos that Nigeria would have no difficulty keeping within its
 ATPC quota of 1,461 tonnes because its metals output had
 declined due to poor demand and high production costs.
-    Industry sources told Reuters that Nigeria's output was
+    Industry sources told TextRecognition that Nigeria's output was
 less than 1,000 tonnes last year.
     ATPC officials said they would monitor member countries'
 export figures every three months using customs documents and
@@ -10964,12 +10964,12 @@ Dec 31, 1986 when it had net tangible assets of 563,000 dlrs.
 u f BC-SAN-MIGUEL-BOARD-APPO   03-02 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SAN MIGUEL BOARD APPOINTMENT MAY MEAN CHANGES</TITLE>
-<AUTHOR>    By Rosario Liquicia, Reuters</AUTHOR>
+<AUTHOR>    By Rosario Liquicia, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 2 - </DATELINE><BODY>Disagreement over management of &lt;San
 Miguel Corp> (SMC) may follow the Philippine government's
 appointment of a well-known banker to the SMC board, investment
 analysts said.
-    They told Reuters the presence of &lt;United Coconut Planters
+    They told TextRecognition the presence of &lt;United Coconut Planters
 Bank> (UCPB) president Ramon Sy to the board of SMC may mean
 changes in SMC management, which for decades was controlled by
 the family of its president, Andres Soriano.
@@ -11003,7 +11003,7 @@ clear conflict.
     UCPB, however, sought board representation before Sy's
 appointment, petitioning the PCGG "so that the interests of the
 owners of the 33 mln shares would be adequately protected."
-    Investment analysts polled by Reuters said the UCPB had a
+    Investment analysts polled by TextRecognition said the UCPB had a
 right to a slot on the SMC board as trustee for coconut farmers
 who claim ownership of the disputed shares.
     The analysts said Sy, backed by the government, would
@@ -11102,12 +11102,12 @@ REUTER
 u f BC-INDIAN-BUDGET-DEFICIT   03-02 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>INDIAN BUDGET DEFICIT SEEN FUELING INFLATION</TITLE>
-<AUTHOR>    By Ajoy Sen, Reuters</AUTHOR>
+<AUTHOR>    By Ajoy Sen, TextRecognition</AUTHOR>
 <DATELINE>    NEW DELHI, March 2 - </DATELINE><BODY>Prime Minister Rajiv Gandhi's fiscal
 1987/88 budget has sparked speculation that a large deficit
 will push up India's moderate inflation rate and that the
 country's stock markets will experience prolonged uncertainty,
-economists, politicians and stockbrokers told Reuters.
+economists, politicians and stockbrokers told TextRecognition.
     The projected deficit for fiscal 1987/88, ending March, is
 56.88 billion rupees, down from an upwardly revised estimate of
 a record 82.85 billion in fiscal 1986/87.
@@ -11451,7 +11451,7 @@ dropped 13.1 pct to 31.2 billion guilders from 35.8 billion.
 u f BC-REUTERS-TO-CARRY-JIJI   03-02 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REUTERS TO CARRY JIJI FINANCIAL SERVICES</TITLE>
-<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Reuters Holdings Plc &lt;RTRS.L> said it
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>TextRecognition Holdings Plc &lt;RTRS.L> said it
 would display an English language financial news service
 provided by the Japanese Jiji Press from the second quarter of
 1987.
@@ -11559,7 +11559,7 @@ u f BC-EXCO-BUYS-U.S.-GOVERN   03-02 0114</UNKNOWN>
 British and Commonwealth Shipping Co Plc &lt;BCOM.L>, said it had
 agreed in principle to buy an 80 pct stake in &lt;RMJ Holdings
 Corp> for about 79 mln dlrs.
-    Exco Chairman Richard Lacy told Reuters the acquisition was
+    Exco Chairman Richard Lacy told TextRecognition the acquisition was
 being made from Bank of New York Co Inc &lt;BK.N>, which currently
 holds a 50.1 pct, and from RMJ partners who hold the remainder.
     Bank of New York and the partners will retain about 10 pct
@@ -11679,14 +11679,14 @@ Business would be 67 mln and four mln dlrs respectively.
 r f BC-ECONOMIC-SPOTLIGHT--   03-02 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - AUSTERITY MEASURES IN HUNGARY</TITLE>
-<AUTHOR>    By David Lewis, Reuters</AUTHOR>
+<AUTHOR>    By David Lewis, TextRecognition</AUTHOR>
 <DATELINE>    BUDAPEST, March 2 - </DATELINE><BODY>Hungary is to embark on a new series of
 austerity measures to tackle a budget deficit which tripled
 last year after quadrupling in 1985.
     The target deficit in the 1987 budget approved by
 Parliament last December was 43.8 billion forints.
     But Zoltan Boesze, chief of the Finance Ministry's budget
-financing division, told Reuters the government now saw this as
+financing division, told TextRecognition the government now saw this as
 too high and had decided "quite severe" measures were needed.
     "All the organizations of economic management have been
 charged with elaborating further (savings) measures," he said.
@@ -11743,7 +11743,7 @@ being tightened and firms may fire workers more easily.
 by firms was being raised this year to encourage enterprises to
 shed labour. He gave no exact figures.
     Istvan Nagy, a senior Finance Ministry official responsible
-for drafting the bankrupcy law, told Reuters last year he hoped
+for drafting the bankrupcy law, told TextRecognition last year he hoped
 the law would cut state subsidies to enterprises by 50 pct.
     After subsidies to state enterprises, the largest single
 budget items are social insurance (153 billion forints approved
@@ -11863,7 +11863,7 @@ boycott will take and when it will come into force.
 r f BC-DIGITAL-AUDIO-TAPE-PL   03-02 0113</UNKNOWN>
 <TEXT>&#2;
 <TITLE>DIGITAL AUDIO TAPE PLAYERS GO ON SALE IN JAPAN</TITLE>
-<AUTHOR>    By Steven Brull, Reuters</AUTHOR>
+<AUTHOR>    By Steven Brull, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Japanese consumers hesitated about buying
 the controversial digital audio tape player (DAT) as it went on
 sale in Tokyo today, but said the DAT player's near-perfect
@@ -11919,7 +11919,7 @@ player on the world market later this year.
 r f BC-ECONOMIC-SPOTLIGHT--   03-02 0101</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - ITALIAN BOOM</TITLE>
-<AUTHOR>    By Jane Leach, Reuters</AUTHOR>
+<AUTHOR>    By Jane Leach, TextRecognition</AUTHOR>
 <DATELINE>    ROME, March 2  - </DATELINE><BODY>Italy's strong economic revival has led
 some observers to talk of miracles and created euphoria in some
 quarters about future growth prospects, but many Italian
@@ -12054,7 +12054,7 @@ two at 10-13/16 pct.
 u f BC-JAPAN,-U.S.-SET-TO-BE   03-02 0111</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN, U.S. SET TO BEGIN HIGH-LEVEL TRADE TALKS</TITLE>
-<AUTHOR>    By Rich Miller, Reuters</AUTHOR>
+<AUTHOR>    By Rich Miller, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Japan and the U.S. Kick off top-level
 trade talks tomorrow amid signs officials from both sides are
 growing increasingly irritated with each other.
@@ -12399,7 +12399,7 @@ u f BC-MANILA-OFFICIALS-SPLI   03-02 0100</UNKNOWN>
 officials over debt talks opening tomorrow in New York with
 Economic Planning Secretary Solita Monsod accusing the chief
 negotiator of softening his stand to gain a quick agreement.
-    Monsod told Reuters Finance Secretary Jaime Ongpin had
+    Monsod told TextRecognition Finance Secretary Jaime Ongpin had
 decided not to insist on Manila's creditor banks pledging to
 fund half of a projected 1988/92 financing gap of seven billion
 dlrs.
@@ -12550,12 +12550,12 @@ pumping up to one million bpd over its self-imposed limits.
 r f BC-TAIWAN-PLANS-NEW-TARI   03-02 0089</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TAIWAN PLANS NEW TARIFF CUTS</TITLE>
-<AUTHOR>    By Andrew Browne, Reuters</AUTHOR>
+<AUTHOR>    By Andrew Browne, TextRecognition</AUTHOR>
 <DATELINE>    TAIPEI, March 2 - </DATELINE><BODY>Taiwan plans another round of deep tariff
 cuts this year to help narrow its trade surplus with the U.S.,
 A senior economic planner said.
     Wang Chao-Ming, vice-chairman of the council for economic
-planning and development, told Reuters Taiwan would further
+planning and development, told TextRecognition Taiwan would further
 reduce import tariffs on 1,700 products sometime in the second
 half of this year.
     Cuts of up to 50 pct on those items were made last year and
@@ -12915,7 +12915,7 @@ expects its revenue to approximately double in 1987.
 u f PM-SHEARSON   03-02 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>AMERICAN EXPRESS &lt;AXP> VIEWING SHEARSON OPTIONS</TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>American Express Co, rumored to be
 considering a spinoff of part of Shearson Lehman Brothers Inc,
 said it is studying a range of options for its brokerage unit
@@ -13173,7 +13173,7 @@ Quist in San Francisco, said he had not seen the new computers
 but expected the new products to do well.
     "Apple has recognized the need for a convergence of
 computer functions into one general all-purpose workstation,"
-he told Reuters. "The graphics interface on the Mac products is
+he told TextRecognition. "The graphics interface on the Mac products is
 significantly better than anything IBM has to date."
     International Business Machines is expected to announce
 updated personal computers this spring.
@@ -13668,7 +13668,7 @@ which existing shareholders are excluded.
 r f BC-U.S.-CORPORATE-FINANC   03-02 0112</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. CORPORATE FINANCE - ASSET-BACK MARKET GROWS</TITLE>
-<AUTHOR>    By John Picinich, Reuters</AUTHOR>
+<AUTHOR>    By John Picinich, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>The U.S. asset-backed debt securities
 market, which grew explosively last year, is broadening and
 investment bankers say 1987 could see a variety of issuers.
@@ -14787,7 +14787,7 @@ b f BC-cons-tvx-mining-says   03-02 0015</UNKNOWN>
 u f BC-BRAZIL-CRITICISES-ADV   03-02 0118</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BRAZIL CRITICISES ADVISORY COMMITTEE STRUCTURE</TITLE>
-<AUTHOR>    By Sandy Critchley, Reuters</AUTHOR>
+<AUTHOR>    By Sandy Critchley, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 2 - </DATELINE><BODY>Brazil is not happy with the existing
 structure of the 14-bank advisory committee which coordinates
 its commercial bank debt, Finance Minister Dilson Funaro said.
@@ -16464,14 +16464,14 @@ notes and from a Treasury tax and loan call on banks.
 u f BC-REUTER-DEALING-SERVIC   03-02 0074</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REUTER DEALING SERVICE INTRODUCED IN CHINA</TITLE>
-<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Reuters Holdings Plc &lt;RTRS.L> said it had
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>TextRecognition Holdings Plc &lt;RTRS.L> said it had
 its first subscriber installation in China of its foreign
 exchange dealing service.
     The subscriber is the banking department of the China
 International Trust and Investment Corp's (CITIC) head office
 in Beijing.
     The service is also due to be connected soon at the Bank of
-China's new headquarters in Beijing, Reuters said.
+China's new headquarters in Beijing, TextRecognition said.
  REUTER
 &#3;</BODY></TEXT>
 </REUTERS>
@@ -17080,7 +17080,7 @@ d f BC-MONTEDISON-CONCLUDES   03-02 0093</UNKNOWN>
 <DATELINE>    MILAN, March 2 - </DATELINE><BODY>Montedison Spa &lt;MONI.MI> said it has
 concluded its negotiations with Spanish pharmaceuticals company
 &lt;Antibioticos SA>.
-    A company spokesman told Reuters "We have concluded the
+    A company spokesman told TextRecognition "We have concluded the
 talks and we are now awaiting authorization from Spanish
 authorities." He declined to comment further.
     Earlier today the Italian company postponed a scheduled
@@ -17814,7 +17814,7 @@ development, as against a total of 1,600 billion this year.
 u f BC-EC-COMMISSION-GIVEN-P   03-02 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>EC COMMISSION GIVEN PLAN TO SAVE STEEL INDUSTRY</TITLE>
-<AUTHOR>    By Gerrard Raven, Reuters</AUTHOR>
+<AUTHOR>    By Gerrard Raven, TextRecognition</AUTHOR>
 <DATELINE>    BRUSSELS, March 2 - </DATELINE><BODY>European Community steelmakers
 presented the Executive Commission with a controversial plan
 for the future of the industry which diplomats say it may be
@@ -18213,7 +18213,7 @@ d f BC-MERCURY-ENTERTAINMENT   03-02 0029</UNKNOWN>
 d f BC-CME-PLANS-RULE-CHANGE   03-02 0085</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CME PLANS RULE CHANGES TIGHTENING S/P TRADING</TITLE>
-<AUTHOR>    By Brad Schade, Reuters</AUTHOR>
+<AUTHOR>    By Brad Schade, TextRecognition</AUTHOR>
 <DATELINE>    CHICAGO, March 2 - </DATELINE><BODY>Directors of the Chicago Mercantile
 Exchange will meet Wednesday to consider a membership petition
 asking the exchange to tighten rules covering trading
@@ -18898,7 +18898,7 @@ u f BC-SEC-STAFF-ADVISES-FRA   03-02 0110</UNKNOWN>
 and Exchange Commission (SEC) plans to recommend that the
 Washington Public Power Supply System (WPPSS) be charged with
 securities fraud in connection with its July 1983 default on
-2.25 billion dlrs of bonds, a WPPSS official told Reuters.
+2.25 billion dlrs of bonds, a WPPSS official told TextRecognition.
     WPPSS attorney Ron English said the system was advised by
 SEC staff attorneys that the five SEC commissioners would be
 asked to charge WPPSS in connection with its official
@@ -20823,7 +20823,7 @@ debentures of 1991 as they were called for redemption.
 d f BC-ZIMBABWE'S-MAIZE-MOUN   03-02 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ZIMBABWE'S MAIZE MOUNTAIN POSES ECONOMIC PROBLEM</TITLE>
-<AUTHOR>    By Peter Gregson, Reuters</AUTHOR>
+<AUTHOR>    By Peter Gregson, TextRecognition</AUTHOR>
 <DATELINE>    HARARE, March 2 - </DATELINE><BODY>More than two mln tonnes of surplus maize
 dotted across Zimbabwe in huge piles is posing an economic
 headache for the country.
@@ -20884,7 +20884,7 @@ Agriculture Ministry reported at the end of February.
 d f BC-TECHNOLOGY   03-02 0084</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TECHNOLOGY/CHIP INDUSTRY SEEKS CUSTOM DESIGNS</TITLE>
-<AUTHOR>    By Catherine Arnst, Reuters</AUTHOR>
+<AUTHOR>    By Catherine Arnst, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>U.S. semiconductor manufacturers,
 struggling to stem a river of red ink, are increasingly looking
 toward customized designs rather than mass-market chips for
@@ -21688,13 +21688,13 @@ international as well as domestic flights.
 u f BC-AMC-&lt;AMO>-SAYS-STEPS   03-02 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>AMC &lt;AMO> SAYS STEPS TAKEN AFTER UAW TALKS FAIL</TITLE>
-<AUTHOR>    By Richard Walker, Reuters</AUTHOR>
+<AUTHOR>    By Richard Walker, TextRecognition</AUTHOR>
 <DATELINE>    DETROIT, March 2 - </DATELINE><BODY>American Motors Corp said it will take
 steps to build a proposed new jeep vehicle at an unspecified
 "alternative location" after the weekend breakdown of talks
 with the United Automobile Workers union on a concessionary
 contract covering workers at AMC's Wisconsin operations.
-    AMC spokesman Lloyd Northard told Reuters that the company
+    AMC spokesman Lloyd Northard told TextRecognition that the company
 will not build its new Jeep ZJ sports utility vehicle at its
 Kenosha, Wisc., assembly plant as a result of the talks'
 failure.
@@ -22921,7 +22921,7 @@ companys said. No other terms were disclosed.
 r f BC-NYMEX-WILL-EXPAND-OFF   03-02 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NYMEX WILL EXPAND OFF-HOUR TRADING APRIL ONE</TITLE>
-<AUTHOR>     By BERNICE NAPACH, Reuters</AUTHOR>
+<AUTHOR>     By BERNICE NAPACH, TextRecognition</AUTHOR>
 <DATELINE>     NEW YORK, March 2 - </DATELINE><BODY>The New York Mercantile Exchange set
 April one for the debut of a new procedure in the energy
 complex that will increase the use of energy futures worldwide.
@@ -23202,7 +23202,7 @@ f f BC-embargoed-for-1500est   03-02 0012</UNKNOWN>
 u f BC-TALKING-POINT/VIACOM   03-02 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TALKING POINT/VIACOM INTERNATIONAL &lt;VIA></TITLE>
-<AUTHOR>    By Cal Mankowski, Reuters</AUTHOR>
+<AUTHOR>    By Cal Mankowski, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>A bidding war for Viacom International
 Inc, one of the largest U.S. entertainment companies, pitted a
 management group and other investors against National
@@ -24337,7 +24337,7 @@ company said.
 u f BC-PESCH-SEES-SHAREHOLDE   03-02 0092</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PESCH SEES SHAREHOLDER SUPPORT IN AMI &lt;AMI> BID</TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    New york, March 2 - </DATELINE><BODY>Chicago physician LeRoy Pesch said he
 has had discussions with several American Medical International
 Inc shareholders and sees support for a restructuring of the
@@ -24347,7 +24347,7 @@ takeover bid for American Medical with several large
 shareholders, including the biggest investor, the Bass family
 of Texas. However, the Bass family has not indicated support
 one way or the other for his offer, he said.
-    Pesch, in an interview with Reuters, said based on the
+    Pesch, in an interview with TextRecognition, said based on the
 conversations he held with shareholders, he could not guage
 whether he had majority support. He said, however, there is
 support for his offer.
@@ -24598,7 +24598,7 @@ world coffee market in the face of falling prices appear to
 have failed, senior delegates said after a contact group
 meeting. The full ICO council is due to meet this evening.
     President of the Brazilian Coffee Institute (IBC) Jorio
-Dauster told Reuters after the contact group meeting there had
+Dauster told TextRecognition after the contact group meeting there had
 been no agreement on quotas as consumers had tried to dictate
 market shares rather than negotiate them.
     Dauster said there are no plans yet to renew negotiations
@@ -24710,7 +24710,7 @@ a f BC-LITTLE-PRINCE-PRODUCT   03-02 0029</UNKNOWN>
 h f BC-BRAZIL-CRITICISES-ADV   03-02 0117</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BRAZIL CRITICISES ADVISORY COMMITTEE STRUCTURE</TITLE>
-<AUTHOR>    By Sandy Critchley, Reuters</AUTHOR>
+<AUTHOR>    By Sandy Critchley, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 2 - </DATELINE><BODY>Brazil is not happy with the existing
 structure of the 14-bank advisory committee which coordinates
 its commercial bank debt, Finance Minister Dilson Funaro said.
@@ -27443,7 +27443,7 @@ comment on its enforcement activities.
 u f BC-REGAN-DEPARTURE-MAKES   03-02 0083</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REGAN DEPARTURE MAKES 3RD VOLCKER TERM LIKELY</TITLE>
-<AUTHOR>    By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>    By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>Last week's White House shake-up has
 increased the odds that Federal Reserve Board chairman Paul
 Volcker, a symbol of strength in a government reeling from the
@@ -27601,7 +27601,7 @@ trade officials in New York last week that Moscow would buy as
 much as four mln tonnes of U.S. wheat, much of it before
 mid-year, if it was "competitively priced."
     Alexander Ivlev, an official with Amtorg, a Soviet trading
-organization, told Reuters he had no information to
+organization, told TextRecognition he had no information to
 substantiate the rumors of an imminent wheat subsidy offer, but
 said that Moscow "would consider" buying U.S. wheat if it was
 competitively priced.
@@ -27657,17 +27657,17 @@ jobs.
 r f BC-REUTERS-&lt;RTRSY>-IN-RE   03-02 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REUTERS &lt;RTRSY> IN REAL ESTATE MARKET VENTURE</TITLE>
-<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Reuters Holdings PLC said its Reuters
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>TextRecognition Holdings PLC said its TextRecognition
 Information Services Inc unit will join &lt;Real Estate Financing
 Partnership>, Philadelphia, to offer an electronic market
 access system for commercial property financing.
-    Reuters said the system, named Real Estate Select View
+    TextRecognition said the system, named Real Estate Select View
 Program, or RSVP, will use its private communications network
 to provide a confidential method for the purchasing, selling
 and financing of commercial property.
     The system, set for testing in August in selected U.S.
 cities, is expected to be operational 90 days after initial
-testing, Reuters said.
+testing, TextRecognition said.
  Reuter
 &#3;</BODY></TEXT>
 </REUTERS>
@@ -27787,7 +27787,7 @@ r f BC-DILLARD-DEPARTMENT-ST   03-02 0071</UNKNOWN>
 d f PM-COMMUNITY-FARM   03-02 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>EC MINISTERS BID TO SAVE DAIRY ACCORD</TITLE>
-<AUTHOR>    By Jonathan Clayton, Reuters</AUTHOR>
+<AUTHOR>    By Jonathan Clayton, TextRecognition</AUTHOR>
 <DATELINE>    BRUSSELS, March 3 - </DATELINE><BODY>European Community (EC) farm ministers
 were fighting hard early today to prevent a deal on cutting
 overflowing milk production from turning sour before trying to
@@ -28229,7 +28229,7 @@ federal and state governments and the industry.
 u f BC-COFFEE-TRADERS-EXPECT   03-02 0111</UNKNOWN>
 <TEXT>&#2;
 <TITLE>COFFEE TRADERS EXPECT SELLOFF AFTER ICO TALKS FAIL</TITLE>
-<AUTHOR>    By Lisa Vaughan, Reuters</AUTHOR>
+<AUTHOR>    By Lisa Vaughan, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 3 - </DATELINE><BODY>The failure of the International Coffee
 Organization (ICO) to reach agreement on coffee export quotas
 could trigger a massive selloff in London coffee futures of at
@@ -28732,7 +28732,7 @@ Machiko Suzuki.
 u f BC-JAPAN'S-UNEMPLOYMENT   03-03 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN'S UNEMPLOYMENT RATE SEEN RISING TO 3.5 PCT</TITLE>
-<AUTHOR>    By Jeff Stearns, Reuters</AUTHOR>
+<AUTHOR>    By Jeff Stearns, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 3 - </DATELINE><BODY>Japan's unemployment rate is expected to
 continue to climb to about 3.5 pct within the next year from
 January's three pct record, senior economists, including Susumu
@@ -29074,7 +29074,7 @@ u f BC-NEUTRAL-BUDGET-EXPECT   03-03 0102</UNKNOWN>
 <DATELINE>    SINGAPORE, March 3 - </DATELINE><BODY>Singapore's Finance Minister Richard
 Hu is expected to announce a neutral budget tomorrow with no
 major tax changes for the 1987/88 year starting April 1,
-bankers and economists told Reuters.
+bankers and economists told TextRecognition.
     They said with real growth at an estimated 1.9 pct in
 calendar 1986, indicating signs of recovery from the 1.7 pct
 shrinkage in 1985, the government was likely to hold its course
@@ -29260,10 +29260,10 @@ movements resulted in a small net gain to profits.
 u f BC-PHILIPPINE-PLANNING-C   03-03 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINE PLANNING CHIEF URGES PESO DEVALUATION</TITLE>
-<AUTHOR>    By Chaitanya Kalbag, Reuters</AUTHOR>
+<AUTHOR>    By Chaitanya Kalbag, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 3 - </DATELINE><BODY>The Philippines must devalue the peso if
 it wants its exports to remain competitive, Economic Planning
-Secretary Solita Monsod told Reuters.
+Secretary Solita Monsod told TextRecognition.
     "The peso/dollar rate has to be undercut to make our exports
 more competitive," Monsod said an interview. "No question about
 it. I'm saying you cannot argue with success. Taiwan, South
@@ -29425,7 +29425,7 @@ u f BC-ZAIRE-ACCEPTS-TIN-EXP   03-03 0102</UNKNOWN>
 exports to 1,736 tonnes for 12 months from March 1 in line with
 an Association of Tin Producing Countries (ATPC) plan to curb
 exports, the ATPC said.
-    ATPC Executive Director Victor Siaahan told Reuters he
+    ATPC Executive Director Victor Siaahan told TextRecognition he
 received a telex from Zaire indicating its willingess to take
 part in the plan to limit total ATPC exports to 96,000 tonnes
 for a year from March 1.
@@ -29463,7 +29463,7 @@ u f BC-JAPANESE-BANKS-PLAN-J   03-03 0084</UNKNOWN>
 up a joint company to which they will transfer assets acquired
 by lending to developing countries to build up a reserve
 against possible bad loans, a senior official of a major bank
-told Reuters.
+told TextRecognition.
     He said about 10 banks are likely to finish details of the
 project in a few weeks. The intent is to avoid risk arising
 from unrecoverable debt owed by Third World countries, he said.
@@ -29620,7 +29620,7 @@ mln stg to the system respectively.
 u f BC-JAPAN-LIKELY-TO-LET-U   03-03 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN LIKELY TO LET U.S. BANKS DEAL SECURITIES</TITLE>
-<AUTHOR>    By Tsukasa Maekawa, Reuters</AUTHOR>
+<AUTHOR>    By Tsukasa Maekawa, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 3 - </DATELINE><BODY>Japan looks likely to allow U.S. Banks to
 conduct securities business here, a move that will probably
 cause the barriers separating Japanese commercial banks from
@@ -30090,7 +30090,7 @@ billion francs, notes 1.39 billion and credits 597.5 mln.
 u f BC-CHINA-CALLS-FOR-BETTE   03-03 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHINA CALLS FOR BETTER TRADE DEAL WITH U.S.</TITLE>
-<AUTHOR>    By Mark O'Neill, Reuters</AUTHOR>
+<AUTHOR>    By Mark O'Neill, TextRecognition</AUTHOR>
 <DATELINE>    PEKING, March 3 - </DATELINE><BODY>China called on the United States to
 remove curbs on its exports, to give it favourable trading
 status and ease restrictions on exports of high technology.
@@ -30937,7 +30937,7 @@ f f BC-Unilever-Plc-and-Nv-c   03-03 0013</UNKNOWN>
 u f BC-GERMAN-BANKS-SEEK-GRE   03-03 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>GERMAN BANKS SEEK GREATER BRAZIL LINK WITH IMF</TITLE>
-<AUTHOR>    By Anthony Williams, Reuters</AUTHOR>
+<AUTHOR>    By Anthony Williams, TextRecognition</AUTHOR>
 <DATELINE>    BONN, March 3 - </DATELINE><BODY>West German banks would like Brazil to work
 more closely with the International Monetary Fund (IMF) with a
 view to seeking a solution to the country's debt problems,
@@ -31163,7 +31163,7 @@ the deal is March 20.
 d f BC-JAPAN'S-UNEMPLOYMENT   03-03 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN'S UNEMPLOYMENT RATE SEEN RISING TO 3.5 PCT</TITLE>
-<AUTHOR>    By Jeff Stearns, Reuters</AUTHOR>
+<AUTHOR>    By Jeff Stearns, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 3 - </DATELINE><BODY>Japan's unemployment rate is expected to
 continue to climb to about 3.5 pct within the next year from
 January's three pct record, senior economists, including Susumu
@@ -31384,7 +31384,7 @@ Hotels from the firm's deputy chairman David Liang for 1.06
 billion dlrs. The stock rose 12 H.K. Dlrs to 62 dlrs today.
     Thomas Lau, Evergo's executive director, declined comment
 on whether the group is seeking a further stake in Hk Hotels.
-But he told Reuters the group will hold the 20 pct stake bought
+But he told TextRecognition the group will hold the 20 pct stake bought
 from Liang as long term investment.
     He said Evergo "was attracted by the underlying strength of
 Hk Hotels."
@@ -31447,7 +31447,7 @@ u f BC-OERLIKON-UNIT-REJECTS   03-03 0120</UNKNOWN>
 Gloeilampenfabrieken &lt;PGLO.AS> subsidiary &lt;Hollandse
 Signaalapparaten BV> that it violated patent rights in a radar
 system developed by the latter, a Contraves official said.
-    Max Baumann, a member of the Contraves board, told Reuters
+    Max Baumann, a member of the Contraves board, told TextRecognition
 his company was awaiting judgement in the case before a Zurich
 court "quite calmly," but he declined to discuss it in detail.
     Signaal claims Contraves included the Dutch firm's patented
@@ -31551,7 +31551,7 @@ way Reagan was doing his job.
 u f BC-REGAN-DEPARTURE-MAKES   03-03 0083</UNKNOWN>
 <TEXT>&#2;
 <TITLE>REGAN DEPARTURE MAKES 3RD VOLCKER TERM LIKELY</TITLE>
-<AUTHOR>    By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>    By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>Last week's White House shake-up has
 increased the odds that Federal Reserve Board chairman Paul
 Volcker, a symbol of strength in a government reeling from the
@@ -31766,7 +31766,7 @@ u f BC-NEITHER-SIDE-OPTIMIST   03-03 0101</UNKNOWN>
 to meet again this afternoon to attempt a settlement of the
 six-week-old dispute in Rotterdam's general cargo sector, but
 neither side is optimistic, spokesmen for both sides told
-Reuters.
+TextRecognition.
     Little progress was made in last night's three hours of
 talks, with both sides largely reiterating their positions.
     "There is still a very large gap between the employers and

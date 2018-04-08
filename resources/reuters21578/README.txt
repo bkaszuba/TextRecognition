@@ -1,5 +1,5 @@
 
-          Reuters-21578 text categorization test collection
+          TextRecognition-21578 text categorization test collection
                         Distribution 1.0
                        README file (v 1.2)
                         26 September 1997
@@ -10,26 +10,26 @@
 
 I. Introduction
 
-   This README describes Distribution 1.0 of the Reuters-21578 text
+   This README describes Distribution 1.0 of the TextRecognition-21578 text
 categorization test collection, a resource for research in information
 retrieval, machine learning, and other corpus-based research.
 
 
 II. Copyright & Notification 
 
-   The copyright for the text of newswire articles and Reuters
-annotations in the Reuters-21578 collection resides with Reuters Ltd.
-Reuters Ltd. and Carnegie Group, Inc. have agreed to allow the free
+   The copyright for the text of newswire articles and TextRecognition
+annotations in the TextRecognition-21578 collection resides with TextRecognition Ltd.
+TextRecognition Ltd. and Carnegie Group, Inc. have agreed to allow the free
 distribution of this data *for research purposes only*.  
    If you publish results based on this data set, please acknowledge
-its use, refer to the data set by the name "Reuters-21578,
+its use, refer to the data set by the name "TextRecognition-21578,
 Distribution 1.0", and inform your readers of the current location of
 the data set (see "Availability & Questions").
 
 
 III. Availability & Questions
 
-   The Reuters-21578, Distribution 1.0 test collection is available
+   The TextRecognition-21578, Distribution 1.0 test collection is available
 from David D. Lewis' professional home page, currently:
              http://www.research.att.com/~lewis
 
@@ -50,13 +50,13 @@ lewis@research.att.com.
 
 IV. History & Acknowledgements
 
-   The documents in the Reuters-21578 collection appeared on the
-Reuters newswire in 1987.  The documents were assembled and indexed
-with categories by personnel from Reuters Ltd. (Sam Dobbins, Mike
+   The documents in the TextRecognition-21578 collection appeared on the
+TextRecognition newswire in 1987.  The documents were assembled and indexed
+with categories by personnel from TextRecognition Ltd. (Sam Dobbins, Mike
 Topliss, Steve Weinstein) and Carnegie Group, Inc. (Peggy Andersen,
 Monica Cellio, Phil Hayes, Laura Knecht, Irene Nirenburg) in 1987.  
 
-In 1990, the documents were made available by Reuters and CGI for
+In 1990, the documents were made available by TextRecognition and CGI for
 research purposes to the Information Retrieval Laboratory (W.  Bruce
 Croft, Director) of the Computer and Information Science Department at
 the University of Massachusetts at Amherst.  Formatting of the
@@ -67,7 +67,7 @@ Laboratory.
 Further formatting and data file production was done in 1991 and 1992
 by David D. Lewis and Peter Shoemaker at the Center for Information
 and Language Studies, University of Chicago.  This version of the data
-was made available for anonymous FTP as "Reuters-22173, Distribution
+was made available for anonymous FTP as "TextRecognition-22173, Distribution
 1.0" in January 1993. From 1993 through 1996, Distribution 1.0 was
 hosted at a succession of FTP sites maintained by the Center for
 Intelligent Information Retrieval (W. Bruce Croft, Director) of the
@@ -76,7 +76,7 @@ Amherst.
 
 At the ACM SIGIR '96 conference in August, 1996 a group of text
 categorization researchers discussed how published results on
-Reuters-22173 could be made more comparable across studies.  It was
+TextRecognition-22173 could be made more comparable across studies.  It was
 decided that a new version of collection should be produced with less
 ambiguous formatting, and including documentation carefully spelling
 out standard methods of using the collection.  The opportunity would
@@ -90,8 +90,8 @@ result of the re-examination of the collection was the removal of 595
 documents which were exact duplicates (based on identity of timestamps
 down to the second) of other documents in the collection. The new
 collection therefore has only 21,578 documents, and thus is called the
-Reuters-21578 collection.  This README describes version 1.0 of this
-new collection, which we refer to as "Reuters-21578, Distribution
+TextRecognition-21578 collection.  This README describes version 1.0 of this
+new collection, which we refer to as "TextRecognition-21578, Distribution
 1.0".
 
 In preparing the collection and documentation we have benefited from
@@ -101,8 +101,8 @@ Singer, Amit Singhal, and Yiming Yang, among many others.
 We thank all the people and organizations listed above for their
 efforts and support, without which this collection would not exist.
 
-A variety of other changes were also made in going from Reuters-22173
-to Reuters-21578:
+A variety of other changes were also made in going from TextRecognition-22173
+to TextRecognition-21578:
 
    1. Documents were marked up with SGML tags, and a corresponding
 SGML DTD was produced, so that the boundaries of important sections of
@@ -134,9 +134,9 @@ algorithms developed by a variety of researchers around the world.
 
    Standard test collections have been lacking, however, for text
 categorization. Few data sets have been used by more than one
-researcher, making results hard to compare.  The Reuters-22173 test
+researcher, making results hard to compare.  The TextRecognition-22173 test
 collection has been used in a number of published studies since it was
-made available, and we believe that the Reuters-21578 collection will
+made available, and we believe that the TextRecognition-21578 collection will
 be even more valuable.
 
    The collection may also be of interest to researchers in machine
@@ -154,7 +154,7 @@ collection a poor one to explore temporal issues.
 
 VI. Formatting 
 
-     The Reuters-21578 collection is distributed in 22 files. Each of
+     The TextRecognition-21578 collection is distributed in 22 files. Each of
 the first 21 files (reut2-000.sgm through reut2-020.sgm) contain 1000
 documents, while the last (reut2-021.sgm) contains 578 documents.  
 
@@ -168,7 +168,7 @@ one of the many books and web pages on the subject.
                <!DOCTYPE lewis SYSTEM "lewis.dtd">
 
 The DTD file lewis.dtd is included in the distribution.  Following the
-document type declaration line are individual Reuters articles marked
+document type declaration line are individual TextRecognition articles marked
 up with SGML tags, as described below.
 
 
@@ -201,11 +201,11 @@ marked with the string "bypass" (or a typographical variant on that
 string).
      This poorly-named attribute unfortunately is the subject of much
 confusion. It is meant to indicate whether or not the document had
-TOPICS categories *in the raw Reuters-22173 dataset*.  The sole use of
+TOPICS categories *in the raw TextRecognition-22173 dataset*.  The sole use of
 this attribute is to defining training set splits similar to those
 used in previous research. (See the section on training set splits.)
 The TOPICS attribute does **NOT** indicate anything about whether or
-not the Reuters-21578 document has any TOPICS categories.  (Version
+not the TextRecognition-21578 document has any TOPICS categories.  (Version
 1.0 of this document was errorful on this point.)  That can be
 determined by actually looking at the TOPICS field. A story with
 TOPICS="YES" can have no TOPICS categories, and a story with
@@ -226,7 +226,7 @@ suggesting that some parts of the data set were simply not indexed, or
 not indexed for some categories or category sets.  Also, in a few
 cases, the indexer clearly meant to assign TOPICS categories, but put
 them in the wrong field.  These cases have been corrected in the
-Reuters-21578 data, yielding stories that have TOPICS categories, but
+TextRecognition-21578 data, yielding stories that have TOPICS categories, but
 where TOPICS="NO", because the the category was not assigned in the
 raw version of the data.
      "BYPASS" stories clearly were not indexed, and so are useful only
@@ -246,10 +246,10 @@ set or the test set for the experiments reported in HAYES89 and
 HAYES90b.
 
      4. OLDID : The identification number (ID) the story had in the
-Reuters-22173 collection.
+TextRecognition-22173 collection.
 
      5. NEWID : The identification number (ID) the story has in the
-Reuters-21578, Distribution 1.0 collection.  These IDs are assigned to
+TextRecognition-21578, Distribution 1.0 collection.  These IDs are assigned to
 the stories in chronological order.
 
 In addition, some REUTERS tags have a sixth attribute, CSECS, which
@@ -282,7 +282,7 @@ processing the files without SGML tools.
 of the document, possibly followed by some non-date noise material.
 
      2. <MKNOTE>, </MKNOTE> [VARIABLE] : Notes on certain hand
-corrections that were done to the original Reuters corpus by Steve
+corrections that were done to the original TextRecognition corpus by Steve
 Finch.
 
      3. <TOPICS>, </TOPICS> [ONCE, SAMELINE]: Encloses the list of
@@ -307,7 +307,7 @@ assigned in the collection.
     
      9. <UNKNOWN>, </UNKNOWN> [VARIABLE]: These tags bracket control
 characters and other noisy and/or somewhat mysterious material in the
-Reuters stories.
+TextRecognition stories.
 
      10. <TEXT>, </TEXT> [ONCE]: We have attempted to delimit all the
 textual material of each story between a pair of these tags.  Some
@@ -339,8 +339,8 @@ VII. Categories
 
    A test collection for text categorization contains, at minimum, a
 set of texts and, for each text, a specification of what categories
-that text belongs to.  For the Reuters-21578 collection the documents
-are Reuters newswire stories, and the categories are five different
+that text belongs to.  For the TextRecognition-21578 collection the documents
+are TextRecognition newswire stories, and the categories are five different
 sets of content related categories.  For each document, a human
 indexer decided which categories from which sets that document
 belonged to.  The category sets are as follows:
@@ -358,7 +358,7 @@ TOPICS          135               120                      57
 The TOPICS categories are economic subject categories.  Examples
 include "coconut", "gold", "inventories", and "money-supply".  This
 set of categories is the one that has been used in almost all previous
-research with the Reuters data. HAYES90b discusses some examples of
+research with the TextRecognition data. HAYES90b discusses some examples of
 the policies (not always obvious) used by the human indexers in
 deciding whether a document belonged to a particular TOPIC category.
 
@@ -374,7 +374,7 @@ category, since the entity was required to be a focus of the news
 story [HAYES90b]. Thus these proper name categories are not as simple
 to assign correctly as might be thought.
 
-Reuters-21578, Distribution 1.0 includes five files
+TextRecognition-21578, Distribution 1.0 includes five files
 (all-exchanges-strings.lc.txt, all-orgs-strings.lc.txt,
 all-people-strings.lc.txt, all-places-strings.lc.txt, and
 all-topics-strings.lc.txt) which list the names of *all* legal
@@ -382,9 +382,9 @@ categories in each set.  A sixth file, cat-descriptions_120396.txt
 gives some additional information on the category sets.
 
 Note that a sixth category field, COMPANIES, was present in the
-original Reuters materials distributed by Carnegie Group, but no
+original TextRecognition materials distributed by Carnegie Group, but no
 company information was actually included in these fields. In the
-Reuters-21578 collection this field is always empty.
+TextRecognition-21578 collection this field is always empty.
 
 In the table above we note how many categories appear in at least 1 of
 the 21,578 documents in the collection, and how many appear at least
@@ -396,7 +396,7 @@ Additional details of the documents, categories, and corpus
 preparation process appear in LEWIS92b, and at greater length in
 Section 8.1 of LEWIS91d.
 
-VIII. Using Reuters-21578 for Text Categorization Research
+VIII. Using TextRecognition-21578 for Text Categorization Research
 
      In testing a method for text categorization it is important that
 knowledge of the nature of the test data not unduly influence the
@@ -412,17 +412,17 @@ WEISS91 for a good discussion.
 
      Effectiveness results can only be compared between studies that
 the same training and test set (or that use cross-validation
-procedures).  One problem with the Reuters-22173 collection was that
+procedures).  One problem with the TextRecognition-22173 collection was that
 the ambiguity of formatting and annotation led different researchers
 to use different training/test divisions. This was particularly
 problematic when researchers attempted to remove documents that "had
 no TOPICS", as there were several definitions of what this meant.
 
-     To eliminate these ambiguities from the Reuters-21578 collection
+     To eliminate these ambiguities from the TextRecognition-21578 collection
 we specify exactly which articles are in each of the recommended
 training sets and test sets by specifying the values those articles
 will have on the TOPICS, LEWISSPLIT, and CGISPLIT attributes of the
-REUTERS tags.  We strongly encourage that all studies on Reuters-21578
+REUTERS tags.  We strongly encourage that all studies on TextRecognition-21578
 use one of the following training test divisions (or use multiple
 random splits, e.g. cross-validation):
 
@@ -432,11 +432,11 @@ VIII.A. The Modified Lewis ("ModLewis") Split:
  Test Set (6,188 docs):  LEWISSPLIT="TEST"; TOPICS="YES" or "NO"
  Unused (1,765): LEWISSPLIT="NOT-USED" or TOPICS="BYPASS"
 
-This replaces the 14704/6746 split (723 unused) of the Reuters-22173
+This replaces the 14704/6746 split (723 unused) of the TextRecognition-22173
 collection, which was used in LEWIS91d (Chapters 9 and 10), LEWIS92b,
 LEWIS92c, LEWIS92e, and LEWIS94b. Note the following:
 
-      1. The duplicate documents removed in forming Reuters-21578 are
+      1. The duplicate documents removed in forming TextRecognition-21578 are
 of course not present. 
       2. The documents with TOPICS="BYPASS" are not used, since
 subsequent analysis strongly indicates that they were not categorized
@@ -450,10 +450,10 @@ This split assigns documents from April 7, 1987 and before to the
 training set, and documents from April 8, 1987 and after to the test
 set.
 
-WARNING: Given the many changes in going from Reuters-22173 to
-Reuters-21578, including correction of many typographical errors in
+WARNING: Given the many changes in going from TextRecognition-22173 to
+TextRecognition-21578, including correction of many typographical errors in
 category labels, results on the ModLewis split cannot be compared
-with any published results on the Reuters-22173 collection!
+with any published results on the TextRecognition-22173 collection!
 
 
 VIII.B. The Modified Apte ("ModApte") Split :
@@ -465,12 +465,12 @@ VIII.B. The Modified Apte ("ModApte") Split :
                      or TOPICS="BYPASS"
 
 This replaces the 10645/3672 split (7,856 not used) of the
-Reuters-22173 collection.  These are our best approximation to the
+TextRecognition-22173 collection.  These are our best approximation to the
 training and test splits used in APTE94 and APTE94b. Note the
 following:
 
       1. As with the ModLewis, those documents removed in forming
-Reuters-21578 are not present, and BYPASS documents are not used.  
+TextRecognition-21578 are not present, and BYPASS documents are not used.
       2. The intent in APTE94 and APTE94b was to use the Lewis split,
 but restrict it to documents with at least one TOPICS categories.
 However, but it was not clear exactly what Apte, et al meant by having
@@ -501,10 +501,10 @@ categories by the indexers. (Unfortunately, the amount of time that
 has passed since the collection was created has made it difficult to
 establish exactly what went on during the indexing.)
 
-WARNING: Given the many changes in going from Reuters-22173 to
-Reuters-21578, including correction of many typographical errors in
+WARNING: Given the many changes in going from TextRecognition-22173 to
+TextRecognition-21578, including correction of many typographical errors in
 category labels, results on the ModApte split cannot be compared
-with any published results on the Reuters-22173 collection!
+with any published results on the TextRecognition-22173 collection!
 
 
 VIII.C. The Modified Hayes ("ModHayes") Split: 
@@ -514,10 +514,10 @@ VIII.C. The Modified Hayes ("ModHayes") Split:
 
 This is the best approximation we have to the training and test splits
 used in HAYES89, HAYES90b, and Chapter 8 of LEWIS91d.  It replaces the
-21450/723 split of the Reuters-22173 collection.  Note the following:
+21450/723 split of the TextRecognition-22173 collection.  Note the following:
 
       1. As with the other splits, the duplicate documents removed in
-forming Reuters-21578 are not present. 
+forming TextRecognition-21578 are not present.
 
       2. "Training" in HAYES89 and HAYES90b was actually done by human
 beings looking at the documents and writing categorization rules. 
@@ -558,7 +558,7 @@ and correct appear unlikely to have affected the original Hayes
 results. In particular, it appears that the only errors in the TOPICS
 field were the addition of a few invalid categories that were not
 evaluated on.  However, for completeness we list the changes in the
-Hayes testset documents made going from Reuters-22173 to Reuters-21578
+Hayes testset documents made going from TextRecognition-22173 to TextRecognition-21578
 (all documents are referred to by their NEWID):
 
    Removal of invalid TOPIC "loan" : 13234, 16946, 17111, 17112, 17207,
@@ -596,7 +596,7 @@ researcher has a strong need to test the ability of a system to deal
 with examples belonging to no category. While it is likely that some
 of these examples should indeed belong to a category, the ModLewis
 split is at least better than the corresponding split from
-Reuters-22173, in that it eliminates the "bypass" stories.
+TextRecognition-22173, in that it eliminates the "bypass" stories.
 
      We in particular encourage you to resist the following
 temptations:
@@ -641,12 +641,12 @@ takes on a non-default value. (Usually, but not always, any value but
 documents as feature tuples are aided by ensuring that the same tuple
 representation is used with all methods, thus avoiding conflating
 differences in feature extraction with differences in, say, machine
-learning methods.  For that reason, the Reuters-22173 distribution
-included not only the formatted text of the Reuters stories, but also
+learning methods.  For that reason, the TextRecognition-22173 distribution
+included not only the formatted text of the TextRecognition stories, but also
 feature tuple representations of the stories in each of two feature
 sets, one based on words and one based on noun phrases.  Surprisingly,
 almost no use was made of these files by other researchers, so we have
-not included files of this sort in the Reuters-21578 distribution.
+not included files of this sort in the TextRecognition-21578 distribution.
 
     However, we are willing to make available as part of the
 distribution any tuple representations of this sort that researchers

@@ -161,7 +161,7 @@ f f BC-TAFT   03-30 0013</UNKNOWN>
 u f BC-REFINE-   03-30 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>LOWER REFINERY OPERATIONS SEEN PRODUCING PROFITS</TITLE>
-<AUTHOR>    By BERNICE NAPACH, Reuters</AUTHOR>
+<AUTHOR>    By BERNICE NAPACH, TextRecognition</AUTHOR>
 <DATELINE>    SAN ANTONIO, TEXAS, March 30 - </DATELINE><BODY>U.S. refiners will have to
 reduce operations if they want to be profitable this year, said
 industry officials attending the National Petroleum Refiners
@@ -183,7 +183,7 @@ mln barrels above year-ago levels. Distillate stocks, at 108.7
 mln barrels, are 10.9 mln barrels above last year's level, the
 API said.
      Henry Rosenberg, chairman of Crown Central Petroleum Corp
-&lt;CNP> told Reuters that unless refining and marketing return to
+&lt;CNP> told TextRecognition that unless refining and marketing return to
 profitability, oil companies will have to rely on downstream
 operations to produce an acceptable level of earnings.
      "The jump in refining capacity is a concern if it
@@ -2135,7 +2135,7 @@ f f BC-******U.S.-SELLS-3-MO   03-30 0014</UNKNOWN>
 u f BC-BASS-GROUP-EMERGES-AS   03-30 0080</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BASS GROUP EMERGES AS POSSIBLE TAFT&lt;TFB> BIDDERS</TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    New York, March 30 - </DATELINE><BODY>The Bass Group, once thought by
 analysts to be eager to sell its holdings in Taft Broadcasting
 Co, emerged as another potential bidder for the Ohio
@@ -2233,7 +2233,7 @@ rain-softened highways.
 u f BC-U.S.-TRADE-OFFICIAL-S   03-30 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. TRADE OFFICIAL SAYS JAPAN ACTION FOOLISH</TITLE>
-<AUTHOR>    By Jacqueline Frank, Reuters</AUTHOR>
+<AUTHOR>    By Jacqueline Frank, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>A high level U.S. trade official
 said it would be foolish for Japan to strike back against the
 United States for its sanctions on Japanese semiconductor
@@ -2497,7 +2497,7 @@ at an agreement governing time to be devoted to amendments.
 r f BC-FED'S-POLICY-EASE-MAY   03-30 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>FED'S POLICY EASE MAY END WITH 2ND QTR RATE CUT</TITLE>
-<AUTHOR>    By Martin Cherrin, Reuters</AUTHOR>
+<AUTHOR>    By Martin Cherrin, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>The Federal Reserve's move to easier
 monetary policy, begun with four quick half-point discount rate
 cuts in 1986, will likely end with a final rate drop in the
@@ -2612,7 +2612,7 @@ Dean Witter..........7.00......5.50......7.00..
 r f PM-COMMUNITY-FARM   03-30 0128</UNKNOWN>
 <TEXT>&#2;
 <TITLE>EC MINISTERS DIFFER WIDELY ON FARM PRICE PLAN</TITLE>
-<AUTHOR>    By Gerrard Raven, Reuters</AUTHOR>
+<AUTHOR>    By Gerrard Raven, TextRecognition</AUTHOR>
 <DATELINE>    BRUSSELS, March 30 - </DATELINE><BODY>European Community (EC) agriculture
 ministers gave widely diverging reactions to EC executive
 Commission proposals for a radical reduction of guaranteed
@@ -3597,7 +3597,7 @@ liquified coal and other kinds of synthetic fuels, halted in
 recent years because of cheap and abundant petroleum supplies,
 will become economic again when world oil prices top 30 dlrs a
 barrel, an Exxon Co USA executive said.
-    Joe McMillan, a senior vice president, told Reuters after
+    Joe McMillan, a senior vice president, told TextRecognition after
 addressing a Houston meeting of the American Institute of
 Chemical Engineers, "By early in the next century, synthetics
 should play a significant role in this country's energy
@@ -3679,7 +3679,7 @@ were suitable for fieldwork.
 r f AM-BRAZIL-TRADE   03-30 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BRAZIL TEMPORARILY LEGALISES DLR PARALLEL MARKET</TITLE>
-<AUTHOR>    By Rene Villegas, Reuters</AUTHOR>
+<AUTHOR>    By Rene Villegas, TextRecognition</AUTHOR>
 <DATELINE>    BRASILIA, March 30 - </DATELINE><BODY>Brazilian President Jose Sarney
 announced a move which temporarily legalises the purchase of
 U.S. dollars in the parallel currency market, aimed at
@@ -3785,7 +3785,7 @@ said.
 r f BC-CANADA-BANKS-COULD-SE   03-30 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CANADA BANKS COULD SEE PRESSURE ON BRAZIL LOANS</TITLE>
-<AUTHOR>     By Peter Cooney, Reuters</AUTHOR>
+<AUTHOR>     By Peter Cooney, TextRecognition</AUTHOR>
 <DATELINE>    TORONTO, March 30 - </DATELINE><BODY>Canada's major banks will likely face
 stiff pressure to declare their Brazilian loans non-performing
 if, as expected, major U.S. banks take similar action after the
@@ -3795,7 +3795,7 @@ talks with Brazil increased the likelihood that U.S. banks
 would soon declare their Brazilian loans non-performing.
     Such action "would put a lot of pressure on the Canadian
 banks to do the same," Levesque, Beaubien Inc Toronto-based bank
-analyst Donna Pulcine told Reuters.
+analyst Donna Pulcine told TextRecognition.
     "They (banks) like to appear to be conservative," said
 Pulcine, "and if a major bank puts loans on a non-performing
 basis and the Canadian banks don't, there is going to be a lot
@@ -4153,7 +4153,7 @@ systems for the soft drink and brewing industries.
 u f AM-BRAZIL-TRADE   03-30 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SARNEY TEMPORARILY LEGALISES DLR PARALLEL MARKET</TITLE>
-<AUTHOR>    By Rene Villegas, Reuters</AUTHOR>
+<AUTHOR>    By Rene Villegas, TextRecognition</AUTHOR>
 <DATELINE>    BRASILIA, MARCH 30 - </DATELINE><BODY>Brazilian President Jose Sarney
 announced a move which temporarily legalises the purchase of
 U.S. Dollar currency in the parallel market, aimed at promoting
@@ -4583,7 +4583,7 @@ take advantage of Delaware's flexible corporate laws.
 r f BC-PHILIPPINES-TO-REPAY   03-30 0114</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINES TO REPAY SOME PRINCIPAL IN 1987-89</TITLE>
-<AUTHOR>    By Alan Wheatley, Reuters</AUTHOR>
+<AUTHOR>    By Alan Wheatley, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>The Philippine government has quietly
 agreed to make token payments of principal in each of the next
 three years as part of its 10.3 billion dlr commercial bank
@@ -5400,7 +5400,7 @@ mln dlrs from 178.3 mln, mostly on the Shelf project.
 u f BC-CHINA-GETS-RARE-CRITI   03-31 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHINA GETS RARE CRITICISM DURING PEOPLE'S CONGRESS</TITLE>
-<AUTHOR>    By Stephen Nisbet, Reuters</AUTHOR>
+<AUTHOR>    By Stephen Nisbet, TextRecognition</AUTHOR>
 <DATELINE>    PEKING, March 31 - </DATELINE><BODY>Charges of public sector waste,
 corruption and neglect of agriculture have surfaced amid the
 compliments in debates at the annual session of China's
@@ -5526,7 +5526,7 @@ in July.
 u f BC-TRADE-FRICTION-THREAT   03-31 0093</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TRADE FRICTION THREATENS TO TOPPLE NAKASONE</TITLE>
-<AUTHOR>    By Linda Sieg, Reuters</AUTHOR>
+<AUTHOR>    By Linda Sieg, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Prime Minister Yasuhiro Nakasone may have
 been dealt a fatal political blow by the yen's renewed rapid
 rise and the threat of a trade war with the United States,
@@ -5539,7 +5539,7 @@ Democratic Party (LDP), they said.
     "The close relationship between Nakasone and President
 Reagan was an important element of Nakasone's power base,"
 Waseda University Political Science Professor Mitsuru Uchida
-told Reuters. "So the emergence of U.S. Criticism damages
+told TextRecognition. "So the emergence of U.S. Criticism damages
 Nakasone."
     Even before the latest trade friction flared, Nakasone was
 encountering criticism not only from opposition parties but
@@ -5559,7 +5559,7 @@ analysts said.
 Nakasone hasn't worked effectively," Rei Shiratori, director of
 the Institute for Political Studies in Japan, said.
     This is making the Japanese people doubt Nakasone's
-credibility, Shiratori told Reuters.
+credibility, Shiratori told TextRecognition.
     The cumulative impact of the sales tax issue, the yen's
 rise and mounting trade friction could mean serious LDP losses
 in the April 11 and 26 local elections, analysts said.
@@ -5715,7 +5715,7 @@ against 18 in 1985/86.
 u f BC-CHINA-RURAL-INDUSTRY   03-31 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHINA RURAL INDUSTRY FACES PROBLEMS IN ADVANCING</TITLE>
-<AUTHOR>    By Mark O'Neill, Reuters</AUTHOR>
+<AUTHOR>    By Mark O'Neill, TextRecognition</AUTHOR>
 <DATELINE>    HONGSHAN, China, March 31 - </DATELINE><BODY>Workers in China's rural
 factories are struggling against a variety of problems to
 maintain the momentum of progress since industrialisation of
@@ -5801,7 +5801,7 @@ u f BC-JAPAN-TO-PAY-FIVE-PCT   03-31 0095</UNKNOWN>
 <DATELINE>    NEW DELHI, March 31 - </DATELINE><BODY>Japan will pay five pct less for the
 Indian iron ore it imports in fiscal 1987/88 starting April 1
 than the average 18 dlrs a tonne it paid in 1986/87, a
-government trade official told Reuters.
+government trade official told TextRecognition.
     He said India had agreed to export to Japan about 23 mln
 tonnes of iron ore in 1987/88, about the same as in the current
 year.
@@ -5982,17 +5982,17 @@ prices surged after a drought devastated Brazil's coffee crop.
 u f BC-PHILIPPINES-CONFIRMS   03-31 0099</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINES CONFIRMS PREPAYMENTS ON NEW DEBT PACT</TITLE>
-<AUTHOR>    By Chaitanya Kalbag, Reuters</AUTHOR>
+<AUTHOR>    By Chaitanya Kalbag, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 31 - </DATELINE><BODY>Finance Secretary Jaime Ongpin has
 confirmed the Philippines agreed to make token prepayments of
 principal to foreign banks as part of a 10.3 billion dlr debt
 restructuring package.
-    A Reuters report from New York yesterday quoted bankers as
+    A TextRecognition report from New York yesterday quoted bankers as
 saying Manila will pay 111 mln dlrs over 1987, 1988 and 1989.
     But Ogpin denied Manila was playing down the prepayment
 aspect of the restructuring.
     "They are public documents and there is nothing secret about
-it," he told Reuters.
+it," he told TextRecognition.
     The debt accord, announced last Friday, stretched
 repayments of 10.3 billion dlrs over a 17-year period with a
 seven and a half year grace period and an interest rate margin
@@ -6076,7 +6076,7 @@ showed.
 u f BC-JAPANESE-HESITATE-TO   03-31 0092</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPANESE HESITATE TO INVEST IN WEST GERMAN STOCKS</TITLE>
-<AUTHOR>    By Jeff Stearns, Reuters</AUTHOR>
+<AUTHOR>    By Jeff Stearns, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Japanese investors are reluctant to buy
 West German stocks, now considered one of the most attractive
 buys around after having taken a beating for the past two
@@ -6503,7 +6503,7 @@ and 105.1 in March 1986.
 u f BC-EUROPE-ON-SIDELINES-I   03-31 0115</UNKNOWN>
 <TEXT>&#2;
 <TITLE> EUROPE ON SIDELINES IN U.S-JAPAN MICROCHIP ROW</TITLE>
-<AUTHOR>    By David Ress, Reuters</AUTHOR>
+<AUTHOR>    By David Ress, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 31 - </DATELINE><BODY>Rising imports of Japanese-made cars and
 electronic goods may upset West European officials, but they
 generally seem prepared to stay on the sidelines in the latest
@@ -6547,7 +6547,7 @@ line on Japanese trade issues, government officials in the rest
 of Europe told Reuter correspondents they would let the EC take
 the lead in any response to the U.S.-Japan trade row.
     A spokeswoman for the EC Commission in Brussels told
-Reuters there has been no change in the Community's position
+TextRecognition there has been no change in the Community's position
 since a March 16 meeting of foreign ministers which sent a
 strong warning to Tokyo on trade imbalances.
     In a statement issued after that meeting, EC foreign
@@ -6711,7 +6711,7 @@ statement today on the issue.
 b f BC-BANK-OF-JAPAN-MULLS-O   03-31 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BANK OF JAPAN MULLS OTHER OPTIONS TO STOP YEN RISE</TITLE>
-<AUTHOR>    By Kunio Inoue, Reuters</AUTHOR>
+<AUTHOR>    By Kunio Inoue, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Today's liberalised financial markets are
 making it extremely difficult for Japan's monetary authorities
 to prevent the yen's rise against the dollar, but they have
@@ -6779,12 +6779,12 @@ other towards that end.
 u f BC-CHINA-REFORMS-TO-TAKE   03-31 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHINA REFORMS TO TAKE DECADES, NO ALTERNATIVE</TITLE>
-<AUTHOR>    By Mark O'Neill, Reuters</AUTHOR>
+<AUTHOR>    By Mark O'Neill, TextRecognition</AUTHOR>
 <DATELINE>    PEKING, March 31 - </DATELINE><BODY>China's economic reforms will take
 decades to fulfill and will outlast the life of any leader
 because they are the only way to save the country from poverty,
 an economist in one of the country's top think tanks told
-Reuters.
+TextRecognition.
     But He Weiling, Washington representative of the China
 Economic System Reform Institute, said China's economic reforms
 definitely are not at risk from the nationwide drive since
@@ -7120,13 +7120,13 @@ the Bundesbank did intervene.
 u f BC-ANALYSTS-APPLAUD-CSR'   03-31 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ANALYSTS APPLAUD CSR'S BOLD MOVE TO SELL DELHI</TITLE>
-<AUTHOR>    By Peter Bale, Reuters</AUTHOR>
+<AUTHOR>    By Peter Bale, TextRecognition</AUTHOR>
 <DATELINE>    SYDNEY, March 31 - </DATELINE><BODY>CSR Ltd &lt;CSRA.S> has made a bold move in
 selling its oil and gas interests for almost a billion dlrs and
 ploughing 150 mln into its traditional sugar business, share
 analysts said.
     "It sounds like a good deal," Stuart McKibbin of &lt;A.C. Goode
-and Co> told Reuters.
+and Co> told TextRecognition.
     CSR said it had dropped plans to float its oil and gas
 interests held in the &lt;Delhi Australia Fund> and would instead
 sell it to Exxon Corp &lt;XON> unit &lt;Esso Exploration and
@@ -7202,11 +7202,11 @@ Goldston-Morris said.
 u f BC-TAIWAN-BANKERS-PREDIC   03-31 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TAIWAN BANKERS PREDICT MAJOR FINANCIAL REFORM</TITLE>
-<AUTHOR>    By Andrew Browne, Reuters</AUTHOR>
+<AUTHOR>    By Andrew Browne, TextRecognition</AUTHOR>
 <DATELINE>    TAIPEI, March 31 - </DATELINE><BODY>Taiwan is planning to significantly
 relax foreign exchange controls within the next few months, but
 there is little prospect of a sudden outflow of capital,
-bankers and economists polled by Reuters said.
+bankers and economists polled by TextRecognition said.
     They said a statement by Premier Yu Kuo-Hua last Friday
 that Taiwan might suspend the controls indicated the government
 was ready to allow Taiwanese firms and individuals to hold and
@@ -7284,11 +7284,11 @@ indicates that something dramatic will happen."
 u f BC-BROKERS-SAY-TOKYO-STO   03-31 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BROKERS SAY TOKYO STOCKS WILL RESUME RISE</TITLE>
-<AUTHOR>    By James Kynge, Reuters</AUTHOR>
+<AUTHOR>    By James Kynge, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 31 - </DATELINE><BODY>The Tokyo stock market is likely to
 recover from its recent nervousness, caused by the rise of the
 yen and the threat of a trade war with the U.S., And resume its
-upward climb, brokers polled by Reuters said.
+upward climb, brokers polled by TextRecognition said.
     President Reagan's threat to impose tariffs on Japanese
 electronics exports because of Japan's alleged refusal to abide
 by a bilateral agreement on computer chips, was unlikely to
@@ -7413,7 +7413,7 @@ u f BC-INDIA-EXPORTS-ITS-FIR   03-31 0100</UNKNOWN>
 <TITLE>INDIA EXPORTS ITS FIRST PASSENGER CARS</TITLE>
 <DATELINE>    NEW DELHI, March 31 - </DATELINE><BODY>India today signed an agreement to
 sell 500 mini passenger cars to Hungary, its first export
-contract for cars, an industry ministry spokesman told Reuters.
+contract for cars, an industry ministry spokesman told TextRecognition.
     Under the agreement signed between Maruti Udyog Ltd (MUL) -
 an Indo-Japanese car maker - and Hungary's state-owned Mogurt
 trading company - the cars, valued about two mln dlrs, will be
@@ -7738,7 +7738,7 @@ oriented agreement, U.S. Officials said.
     Canadian officials in Ottawa also said they have
 consistently tried to look at membership of commodity pacts on
 the merits of each case. Malaysian Primary Industries Minister
-Lim Keng Yaik told Reuters in Kuala Lumpur his country, the
+Lim Keng Yaik told TextRecognition in Kuala Lumpur his country, the
 world's top producer of rubber, tin and palm oil, decides its
 participation in international commodity pacts case by case.
     Malaysia is a member of the Association of Tin Producing
@@ -7748,7 +7748,7 @@ for a year from March to cut the tin surplus to 50,000 from
 70,000.
     Economist in the West German Ministry of Agriculture and
 delegate to cocoa, wheat and sugar agreements Peter Baron told
-Reuters in London, "Agreements with economic clauses to
+TextRecognition in London, "Agreements with economic clauses to
 stabilise prices could function if fixed price ranges were
 close to market reality, if there was full participation by
 producers and consumers, and if participants were prepared to
@@ -7782,7 +7782,7 @@ to commodity pacts. France, a large consumer and producer of
 sugar, favours a sugar pact as long as it reflects the real
 market situation, particularly regarding stocks.
     Indonesia's Foreign Minister Mochtar Kusumaatmadja told
-Reuters in Jakarta: "These agreements can work as long as the
+TextRecognition in Jakarta: "These agreements can work as long as the
 problems are cyclical..But it's another matter when there are
 structural problems..But we are still committed to commodity
 agreements as an act of faith." Nicaraguan External Trade
@@ -7792,7 +7792,7 @@ agreements.
     "The political will is not there on the part of some
 consumers to make agreements work," Martinez Cuenca said.
     The head of the economics department in the Brazilian
-Foreign Ministry, Sebastiao do Rego Barros, told Reuters an
+Foreign Ministry, Sebastiao do Rego Barros, told TextRecognition an
 agreement can be successful if it keeps a link with market
 reality. If you have an agreement such as coffee with a system
 of quotas, with a link between prices practised inside the pact
@@ -7817,7 +7817,7 @@ greater demand for industrialised nations' capital goods.
 u f BC-JAPAN-TO-CUT-MICROCHI   03-31 0099</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN TO CUT MICROCHIP OUTPUT, BOOST IMPORTS</TITLE>
-<AUTHOR>    By Steven Brull, Reuters</AUTHOR>
+<AUTHOR>    By Steven Brull, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Leading domestic semiconductor makers
 will boost imports and cut production of key memory microchips
 from next month in line with government attempts to ward off
@@ -8144,7 +8144,7 @@ tonne fob, traders said.
 u f BC-CALL-MONEY-PRESSURE-F   03-31 0110</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CALL MONEY PRESSURE FROM LARGE GERMAN BANKS</TITLE>
-<AUTHOR>    By Allan Saunderson, Reuters</AUTHOR>
+<AUTHOR>    By Allan Saunderson, TextRecognition</AUTHOR>
 <DATELINE>    FRANKFURT, March 31 - </DATELINE><BODY>One or two large West German banks
 effectively drained the domestic money market of liquidity at
 the end of the month in order to achieve higher rates from
@@ -8412,17 +8412,17 @@ valuing the company at 1.3 billion dlrs. NZFP shares ended at
 r f BC-PHILIPPINES-CONFIRMS   03-31 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINES CONFIRMS PREPAYMENTS ON NEW DEBT PACT</TITLE>
-<AUTHOR>    By Chaitanya Kalbag, Reuters</AUTHOR>
+<AUTHOR>    By Chaitanya Kalbag, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 31 - </DATELINE><BODY>Finance Secretary Jaime Ongpin has
 confirmed the Philippines agreed to make token prepayments of
 principal to foreign banks as part of a 10.3 billion dlr debt
 restructuring package.
-    A Reuters report from New York yesterday quoted bankers as
+    A TextRecognition report from New York yesterday quoted bankers as
 saying Manila will pay 111 mln dlrs over 1987, 1988 and 1989.
     But Ogpin denied Manila was playing down the prepayment
 aspect of the restructuring.
     "They are public documents and there is nothing secret about
-it," he told Reuters.
+it," he told TextRecognition.
     The debt accord, announced last Friday, stretched
 repayments of 10.3 billion dlrs over a 17-year period with a
 seven and a half year grace period and an interest rate margin
@@ -9276,7 +9276,7 @@ directors' liability.
 b f BC-ICO-BOARD-PASSES-OVER   03-31 0084</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ICO BOARD PASSES OVER COFFEE QUOTA ISSUE</TITLE>
-<AUTHOR>    By Lisa Vaughan, Reuters</AUTHOR>
+<AUTHOR>    By Lisa Vaughan, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 31 - </DATELINE><BODY>Executive board members of the
 International Coffee Organization, ICO, passed over the issue
 of export quota negotiations at its regular meeting here,
@@ -9302,7 +9302,7 @@ negotiations were to resume, the 1.0 mln bag shortfall Brazil
 was willing to give up in early March if the producer proposal
 was accepted would no longer be on the table.
     "As we said from the start...No agreement, no one million
-bags," he told Reuters.
+bags," he told TextRecognition.
     Shortfalls of 200,000 bags offered by OAMCAF, the African
 and Malagasy Coffee Organization, and 20,000 bags offered by
 Angola, are also no longer valid, delegates said.
@@ -9716,7 +9716,7 @@ u f BC-INTERLINK-SAYS-NOT-PL   03-31 0108</UNKNOWN>
 Express Plc> does not plan to bid for the whole or part of  
 Purolator Courier Corp &lt;PCC.N>, a spokesman said.
     "There is no intention of making any sort of approach to
-Purolator," the spokesman told Reuters, adding, "it would be a
+Purolator," the spokesman told TextRecognition, adding, "it would be a
 case of David versus Goliath."
     Interlink shares started trading in the U.K. Unlisted
 Securities Market in October 1986. It posted pre-tax profits of
@@ -10075,7 +10075,7 @@ d f BC-FERRUZZI-MAY-FLOAT-UP   03-31 0118</UNKNOWN>
 project which could result in a public share offer of up to 49
 pct of its French unit &lt;European Sugar (France)> and could
 raise around 400 mln dlrs, Ferruzzi chairman Raul Gardini said.
-    Gardini told Reuters the operation under consideration was
+    Gardini told TextRecognition the operation under consideration was
 aimed at "international markets" and that the figure of 400 mln
 dlrs given in some press reports "was probably about right."
     European Sugar, wholly-owned by Ferruzzi unit Eridania
@@ -10092,7 +10092,7 @@ gave no details.
 analysts as a means of helping finance the acquisition of the
 CPC business.
     In London yesterday, chairman of Belgian starch producer
-&lt;Amylum NV> Pierre Callebaut told Reuters that since Ferruzzi
+&lt;Amylum NV> Pierre Callebaut told TextRecognition that since Ferruzzi
 was "apparently still organising finance," his company might
 still succeed with its rival bid for the CPC business.
     Gardini, commenting on Callebaut's remarks, said the 630
@@ -10987,7 +10987,7 @@ he added.
 u f BC-EUROTUNNEL-NEEDS-CAPI   03-31 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>EUROTUNNEL NEEDS CAPITAL INCREASE BY END JULY, BENARD SAYS</TITLE>
-<AUTHOR>    By Brian Childs, Reuters</AUTHOR>
+<AUTHOR>    By Brian Childs, TextRecognition</AUTHOR>
 <DATELINE>    CALAIS, March 31 - &lt;Eurotunnel>, the Anglo- </DATELINE><BODY>French channel
 tunnel consortium, needs to launch its planned 7.7-billion
 franc third stage capital increase by end July to cover ongoing
@@ -11706,7 +11706,7 @@ d f BC-FERRUZZI-MAY-FLOAT-UP   03-31 0115</UNKNOWN>
 project which could result in a public share offer of up to 49
 pct of its French unit European Sugar (France) and could raise
 around 400 mln dlrs, Ferruzzi chairman Raul Gardini said.
-    Gardini told Reuters the operation under consideration was
+    Gardini told TextRecognition the operation under consideration was
 aimed at "international markets" and that the figure of 400 mln
 dlrs given in some press reports "was probably about right."
     European Sugar, wholly-owned by Ferruzzi unit Eridania
@@ -14523,7 +14523,7 @@ b f BC-/USDA'S-AMSTUTZ-CONFI   03-31 0097</UNKNOWN>
 Daniel Amstutz said he was confident that a European Community,
 EC, proposal to tax vegetable and marine oils and fats would
 not be approved by the Community.
-    Asked by Reuters if he was confident the plan eventually
+    Asked by TextRecognition if he was confident the plan eventually
 would be defeated, Amstutz said, "Yes, I am, but I also know
 that things like this take constant vigilance."
     The USDA official said the EC Council of Ministers held an
@@ -15237,7 +15237,7 @@ u f BC-TRADERS-CUT-ESTIMATE   03-31 0113</UNKNOWN>
 May/September temporao harvest in Brazil's main cocoa growing
 state of Bahia are now in the 1.5 mln to 2.0 mln 60-kilo bag
 range against 2.0 mln to 2.5 mln two weeks ago.
-    Traders in the state capital Salvador told Reuters the
+    Traders in the state capital Salvador told TextRecognition the
 effects of a dry period in the first six weeks of the year had
 been harsher than thought earlier.
     Although good flowering had followed the onset of rains in
@@ -16164,7 +16164,7 @@ worth.
 r f BC-canada   03-31 0081</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CANADA'S AIRLINE PROFITS SEEN HIGHER</TITLE>
-<AUTHOR>    By Claudia Van Riesen, Reuters</AUTHOR>
+<AUTHOR>    By Claudia Van Riesen, TextRecognition</AUTHOR>
 <DATELINE>    TORONTO, March 31 - </DATELINE><BODY>Canada's airline industry, shaken up by
 a recent merger that creates a powerful new competitor for
 government-owned Air Canada, has begun its first serious drive
@@ -16504,7 +16504,7 @@ year.
 u f BC-TRADE-WAR-FEARS-MAY-P   03-31 0088</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TRADE WAR FEARS MAY PROMPT STOCK MARKETS' DOWNTURN</TITLE>
-<AUTHOR>    By David Ress, Reuters</AUTHOR>
+<AUTHOR>    By David Ress, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 31 - </DATELINE><BODY>The threatened trade war between the
 United States and Japan is just the kind of shock that
 economists say could send world stock markets into a tailspin.
@@ -16692,7 +16692,7 @@ u f BC-SCEPTRE-RESOURCES-LTD   03-31 0032</UNKNOWN>
 u f BC-TALKING-POINT/BORG-WA   03-31 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TALKING POINT/BORG-WARNER CORP &lt;BOR></TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    New York, March 31 - </DATELINE><BODY>Borg-Warner Corp will vigorously
 resist GAF Corp's 46-dlr-per-share takeover offer, but the
 Midwest conglomerate may fall prey to another offer,
@@ -17609,7 +17609,7 @@ r f BC-DIAMOND-&lt;DIA>-SPINOFF   03-31 0113</UNKNOWN>
 <TITLE>DIAMOND &lt;DIA> SPINOFF TO HAVE 60/40 DEBT/EQUITY</TITLE>
 <DATELINE>    SAN ANTONIO, March 31 - </DATELINE><BODY>Roger Hemminghaus, chairman of the
 refining and marketing company that is to spin off from Diamond
-Shamrock Corp told Reuters that the new company will have a
+Shamrock Corp told TextRecognition that the new company will have a
 debt to equity ratio of 60/40.
     Hemminghaus said cash flow between 80 and 120 mln dlrs per
 year will reverse the ratio to 40/60 within two years.
@@ -17635,7 +17635,7 @@ convenience store locations, and five to 10 pct from natural
 gas liquids and storage and marketing.
     "Growth will be defined in building retail volumes, jobber
 volumes and refining capacity after that," Hemminghaus told
-Reuters. He said the new company will have a capital spending
+TextRecognition. He said the new company will have a capital spending
 budget of 35 to 55 mln dlrs a year.
    
  Reuter
@@ -18336,7 +18336,7 @@ pct of the outstanding shares in the company.
     The groups are seeking a special meeting to call for an end
 to sales to the South African police and military, and
 withdrawal from South Africa, it said.
-    Royal Dutch spokesman Eric Steneker told Reuters
+    Royal Dutch spokesman Eric Steneker told TextRecognition
 shareholders were entitled to discuss any matter relating to
 Shell at May's annual general meeting. "In fact, Shell in South
 Africa has been discussed at every meeting of shareholders for
@@ -19154,7 +19154,7 @@ Appropriations Agriculture Subcommittee his department had
 billed DOT 12 mln dlrs, and that interest on that amount and an
 additional charge would begin accruing April 1.
     USDA's Foreign Agricultural Service Administrator Thomas
-Kay told Reuters DOT could owe USDA as much as 20 mln dlrs.
+Kay told TextRecognition DOT could owe USDA as much as 20 mln dlrs.
     The two departments are trying to hammer out an accord on
 how to fund the increasing share of food aid required to be
 shipped on U.S. flag vessels under a 1985 farm bill provision
@@ -20552,7 +20552,7 @@ r f BC-1ST-CENTRAL-FINANCIAL   03-31 0110</UNKNOWN>
 expects earnings to rise significantly in 1987 and said it is
 actively seeking an acquisition.
     The property and casualty insurance company's chairman and
-chief executive officer, Martin J. Simon, told Reuters in an
+chief executive officer, Martin J. Simon, told TextRecognition in an
 interview that he expects earnings of 33 cts a share in 1987
 compared with 25 cts a year ago.
     He said, "the company currently has the sufficient momentum
@@ -20633,7 +20633,7 @@ June 1, a company spokesman said.
     "From our point of view, it's a question of entering into
 negotiations or discussions to make appropriate changes to
 contracts to reflect the changes that are going to take place
-on June 1," spokesman John Cote told Reuters in reply to a
+on June 1," spokesman John Cote told TextRecognition in reply to a
 query.
     Commenting on published reports that Imperial had suspended
 its oil supply contracts, Cote said: "It's not a question of
@@ -21326,7 +21326,7 @@ u f BC-GAF-&lt;GAF>-PLANS-NO-CH   03-31 0096</UNKNOWN>
 <TEXT>&#2;
 <TITLE>GAF &lt;GAF> PLANS NO CHANGES IF OFFER ACCEPTED</TITLE>
 <DATELINE>    HOUSTON, March 31 - </DATELINE><BODY>GAF Corp chairman Samuel Heyman told
-Reuters he did not foresee major changes in Borg-Warner &lt;BOR>
+TextRecognition he did not foresee major changes in Borg-Warner &lt;BOR>
 if GAF's 46 dlr-per-share offer to acquire Borg-Warner is
 successful.
     "We have great respect for Borg-Warner mangagement," Heyman
@@ -23315,7 +23315,7 @@ b f BC-******STANDARD-OIL-RA   03-31 0013</UNKNOWN>
 u f BC-IMF-SEES-INDUSTRIAL-N   03-31 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>IMF SEES INDUSTRIAL NATIONS GROWING ONLY 2.5 PCT</TITLE>
-<AUTHOR>    By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>    By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The International Monetary Fund
 predicts that the industrial world will grow a sluggish 2.5 pct
 in 1987, a sharp drop from the more than three pct forecast six
@@ -23421,7 +23421,7 @@ d f BC-SERVOTRONICS-INC-&lt;SVT   03-31 0036</UNKNOWN>
 u f BC-fin-futures-outlook   03-31 0095</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CURRENCY FUTURES CLIMB LIKELY TO BE CHECKED</TITLE>
-<AUTHOR>    By Leslie Adler, Reuters</AUTHOR>
+<AUTHOR>    By Leslie Adler, TextRecognition</AUTHOR>
 <DATELINE>    CHICAGO, March 31 - </DATELINE><BODY>The surge in currency futures since
 Friday on the heels of the Reagan administration's proposed
 tariffs on Japanese imports is likely to be curtailed in the
@@ -23855,7 +23855,7 @@ the interim rate hike.
 u f BC-ANALYSTS-SEE-SLOW-MOV   03-31 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ANALYSTS SEE SLOW MOVE TO HIGHER U.S. PRIME RATE</TITLE>
-<AUTHOR>    By Martin Cherrin, Reuters</AUTHOR>
+<AUTHOR>    By Martin Cherrin, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Quarter-point prime rate increases to
 7-3/4 pct by Citibank and Chase Manhattan Bank today will be
 followed by other banks only after they see clearer signs of
@@ -24160,7 +24160,7 @@ real estate-related chargeoffs."
 r f BC-U.S.-FED-EXPLORES-COM   03-31 0088</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. FED EXPLORES COMMODITY BASKET INDEX</TITLE>
-<AUTHOR>    By Alver Carlson, Reuters</AUTHOR>
+<AUTHOR>    By Alver Carlson, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, MARCH 31 - </DATELINE><BODY>The complex task of wielding control
 over monetary policy in an increasingly fast-moving global
 economy could be aided by tying policy to commodity prices, the
@@ -24679,7 +24679,7 @@ tonne from 1,950 dlrs, effective immediately.
 u f BC-ECONOMIC-SPOTLIGHT--   03-31 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - CHINA MUST PRESERVE FARMLAND</TITLE>
-<AUTHOR>    By Mark O'Neill, Reuters</AUTHOR>
+<AUTHOR>    By Mark O'Neill, TextRecognition</AUTHOR>
 <DATELINE>    FENGBANG COUNTY, China, April 1 - </DATELINE><BODY>"If we go on using up
 farmland as we have done since 1980, there will be none left in
 20 years to grow grain on."
@@ -25278,7 +25278,7 @@ ties severed by Moscow during the 1967 Arab-Israeli war.
 u f BC-THAI-STOCKS-EXPECTED   04-01 0100</UNKNOWN>
 <TEXT>&#2;
 <TITLE>THAI STOCKS EXPECTED TO CONTINUE RISING</TITLE>
-<AUTHOR>    By Vithoon Amorn, Reuters</AUTHOR>
+<AUTHOR>    By Vithoon Amorn, TextRecognition</AUTHOR>
 <DATELINE>    BANGKOK, April 1 - </DATELINE><BODY>Thai stocks have broken all expectations
 and brokers and securities analysts said the nine-month bull
 market on the Securities Exchange of Thailand (SET) should last
@@ -25382,7 +25382,7 @@ with ailing government-owned Sayam Bank Ltd.
 u f BC-H.K.-INVESTORS-UNLOAD   04-01 0100</UNKNOWN>
 <TEXT>&#2;
 <TITLE>H.K. INVESTORS UNLOAD HOLDINGS AFTER STOCK ISSUES</TITLE>
-<AUTHOR>    By Joshua So, Reuters</AUTHOR>
+<AUTHOR>    By Joshua So, TextRecognition</AUTHOR>
 <DATELINE>    HONG KONG, April 1 - </DATELINE><BODY>Investors are unloading holdings of
 Hong Kong stocks following a spate of new share issues by
 leading local firms, analysts said.
@@ -25498,7 +25498,7 @@ the three) will not be considered until a general principle has
 been established by the Stock Exchange after consultation with
 the Securities Commission."
     An official of the Securities Commissioner's office told
-Reuters the decision to bar the new share issues was made by
+TextRecognition the decision to bar the new share issues was made by
 the Exchange, adding the Commissioner is closely watching
 developments.
     The Hong Kong market fell sharply yesterday and today as
@@ -25756,7 +25756,7 @@ b f BC-BOLIDEN-TO-ANNOUNCE-M   04-01 0090</UNKNOWN>
 group said it will announce a major foreign corporate takeover
 today involving a company with an annual turnover of two
 billion crowns.
-    A Boliden spokesman told Reuters details of the
+    A Boliden spokesman told TextRecognition details of the
 announcement would be given at a news conference by chairman
 Rune Andersson at 1030 gmt today. He said the company involved
 employed 4,000 people, but declined to name the takeover price
@@ -25877,7 +25877,7 @@ on May 21, 1990, and at par on May 21, 1991.
 u f BC-AUSTRALIA-STOCK-EXCHA   04-01 0085</UNKNOWN>
 <TEXT>&#2;
 <TITLE>AUSTRALIA STOCK EXCHANGES ENTER NEW ERA</TITLE>
-<AUTHOR>    By Peter Bale, Reuters</AUTHOR>
+<AUTHOR>    By Peter Bale, TextRecognition</AUTHOR>
 <DATELINE>    SYDNEY, April 1 - </DATELINE><BODY>The Australian Stock
  Exchange Ltd (ASX)
 today took up the responsibility for administering a new
@@ -25905,7 +25905,7 @@ acknowledge that the influx of capital and contacts from
 non-member shareholders has benefited the industry, they said.
     "Deregulation has brought an infusion of additional capital
 and a broader base of products," ASX chairman Ian Roach told
-Reuters.
+TextRecognition.
     Roach said fears that major bank shareholders would impose
 a restrictive and conservative "bank culture" on the dynamic
 sharebroking industry were unfounded.
@@ -26407,7 +26407,7 @@ Funds Investment Trust Plc> was also cleared.
 u f BC-TAIWAN-SEES-SHARP-DEC   04-01 0099</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TAIWAN SEES SHARP DECLINE IN SHIPBREAKING</TITLE>
-<AUTHOR>    By Chen Chien-kuo, Reuters</AUTHOR>
+<AUTHOR>    By Chen Chien-kuo, TextRecognition</AUTHOR>
 <DATELINE>    TAIPEI, April 1 - </DATELINE><BODY>Taiwan's shipbreaking industry is
 expected to decline sharply this year despite the boom in 1986
 because of keener competition from South Korea and China, the
@@ -26417,11 +26417,11 @@ industry sources said.
 vessels totalling 3.69 million light displacement tons (ldt),
 up on 165 of 2.97 million ldt in 1985, Lin Chung-jung, a Taiwan
 Shipbreaking Industry Association (TSIA) spokesman, told
-Reuters.
+TextRecognition.
     China scrapped vessels of some 1.1 mln ldt last year while
 South Korea demolished ships of 910,000 ldt, he said.
     Yao Liu, president of Chi Shun Hwa Steel Co, a leading
-shipbreaker and steel producer in Kaohsiung, told Reuters, "We
+shipbreaker and steel producer in Kaohsiung, told TextRecognition, "We
 expect to scrap fewer ships this year because of an expected
 decline in our steel product exports."
     Lin said many breakers predicted a 20 pct decline in
@@ -26562,7 +26562,7 @@ u f BC-H.K.-BANKS-TO-RAISE-P   04-01 0098</UNKNOWN>
 prime rates by half a percentage point to 6-1/2 pct following a
 one-quarter point prime rate increase by two major U.S. Banks
 yesterday, dealers said.
-    They told Reuters local banks may decide on the increase at
+    They told TextRecognition local banks may decide on the increase at
 this weekend's routine meeting of the Hong Kong Association of
 Banks.
     G.C. Goh, chief dealer of the Standard Chartered Bank, said
@@ -26755,7 +26755,7 @@ up with the aim of centralising MHI's excavator business.
 r f BC-TURKISH-BANKS-ANNOUNC   04-01 0112</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TURKISH BANKS ANNOUNCE HIGHER PROFITS FOR 1986</TITLE>
-<AUTHOR>    By Ragip Erten, Reuters</AUTHOR>
+<AUTHOR>    By Ragip Erten, TextRecognition</AUTHOR>
 <DATELINE>    ISTANBUL, April 1 - </DATELINE><BODY>Turkey's banks are reporting a strong
 recovery in 1986 profits, but a government drive to liberalise
 capital markets poses new challenges to a banking industry
@@ -26787,7 +26787,7 @@ when the government, faced with its worst financial crisis in
 50 years, raised domestic interest rates sharply to fight an
 inflation rate of over 100 pct and launched an export drive.
     Deniz Gokce, associate professor of economics at the
-Bosphorus University, told Reuters that banks were forced to
+Bosphorus University, told TextRecognition that banks were forced to
 pay depositors real interest rates for the first time and
 profits started to fall. Previously, rates had been below
 inflation.
@@ -27517,7 +27517,7 @@ confirmed minutes earlier by a Mitsui spokesman in Tokyo.
 u f BC-MALAYSIA-DECLINES-TO   04-01 0112</UNKNOWN>
 <TEXT>&#2;
 <TITLE>MALAYSIA DECLINES TO STATE POSITION ON COCOA PACT</TITLE>
-<AUTHOR>    By Rajan Moses, Reuters</AUTHOR>
+<AUTHOR>    By Rajan Moses, TextRecognition</AUTHOR>
 <DATELINE>    KUALA LUMPUR, April 1 - </DATELINE><BODY>Government officials in Malaysia, a
 major cocoa producer, have declined to say whether it will join
 the International Cocoa Agreement (ICCA) for which buffer stock
@@ -27526,7 +27526,7 @@ rules were agreed in London last week.
 the cabinet would decide on Malaysia's participation, but so
 far a decision has not been announced. The government is said
 to be in favour of joining the pact, but local cocoa growers
-and traders told Reuters they are against the idea because
+and traders told TextRecognition they are against the idea because
 certain provisions in it may be to their disadvantage.
     Malaysia is the world's fourth largest cocoa producer. The
 government feels that the pact, through its buffer stock
@@ -27694,7 +27694,7 @@ r f BC-H.K.-BANKS-TO-RAISE-P   04-01 0098</UNKNOWN>
 prime rates by half a percentage point to 6-1/2 pct following a
 one-quarter point prime rate increase by two major U.S. Banks
 yesterday, dealers said.
-    They told Reuters local banks may decide on the increase at
+    They told TextRecognition local banks may decide on the increase at
 this weekend's routine meeting of the Hong Kong Association of
 Banks.
     G.C. Goh, chief dealer of the Standard Chartered Bank, said
@@ -27797,7 +27797,7 @@ b f BC-EIB-ISSUES-300-MLN-DA   04-01 0072</UNKNOWN>
 <DATELINE>    COPENHAGEN, April 1 - </DATELINE><BODY>The Luxembourg-based European
 Investment Bank issued a 300 mln Danish crown bullet Eurobond,
 an official at lead manager Den Danske Bank af 1871 A/S told
-Reuters.
+TextRecognition.
     The seven-year bond pays 11 pct and is being issued at 101
 of par, payment date is May 20.
     Denominations are 20,000 crowns, the bond is registered in
@@ -27982,7 +27982,7 @@ tonnes while eastbound volume rose 31 pct to 74,600 tonnes.
 r f BC-LOWER-INTEREST-RATES   04-01 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>LOWER INTEREST RATES SEEN FOLLOWING IRISH BUDGET</TITLE>
-<AUTHOR>    By Paul Majendie, Reuters</AUTHOR>
+<AUTHOR>    By Paul Majendie, TextRecognition</AUTHOR>
 <DATELINE>    DUBLIN, April 1 - </DATELINE><BODY>Financial markets welcomed public
 spending cuts announced by Ireland's new minority government in
 its budget, saying the move would lead to lower interest rates.
@@ -28041,7 +28041,7 @@ Plc &lt;SUNL.L>.
 u f BC-BOLIDEN-SAYS-IT-NOW-L   04-01 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BOLIDEN SAYS IT NOW LEADER IN MINING GEAR</TITLE>
-<AUTHOR>    By Per Isaksson, Reuters</AUTHOR>
+<AUTHOR>    By Per Isaksson, TextRecognition</AUTHOR>
 <DATELINE>    STOCKHOLM, April 1 - </DATELINE><BODY>Swedish mining and metals group
 Boliden AB &lt;BLDS.ST> said the takeover of the U.S.
 Allis-Chalmers Corp's &lt;AH.O> mining machinery division made it
@@ -29053,7 +29053,7 @@ u f BC-JAPAN-REBUFFS-BRITAIN   04-01 0083</UNKNOWN>
 bow to pressure to give foreign telecommunications companies a
 major role in a planned new firm.
     An official at the Ministry of Post and Telecommunications
-told Reuters the ministry's position is unchanged despite
+told TextRecognition the ministry's position is unchanged despite
 mounting pressure from London and Washington. He declined
 comment on local press reports which said the ministry would
 back a plan aimed at cooling British anger on the issue.
@@ -29769,7 +29769,7 @@ Trust.
 u f BC-HOG-REPORT-SHOWS-MORE   04-01 0130</UNKNOWN>
 <TEXT>&#2;
 <TITLE>HOG REPORT SHOWS MORE HOGS ON FARMS</TITLE>
-<AUTHOR>    By Jerry Bieszk, Reuters</AUTHOR>
+<AUTHOR>    By Jerry Bieszk, TextRecognition</AUTHOR>
 <DATELINE>    Chicago, April 1 - </DATELINE><BODY>The USDA quarterly hogs and pig report
 yesterday showed more hogs on U.S. farms compared to last year
 as profitability resulting from low grain prices encouraged
@@ -31989,7 +31989,7 @@ industry by the end of the year. Bausch and Lomb &lt;BOL>, he
 said, was the industry leader.
     "Right now we are trying to solidify the group and bring it
 together under one group," Ghirardi said.
-    Ghiirardi told Reuters the group considered Japan one of
+    Ghiirardi told TextRecognition the group considered Japan one of
 the prime markets in which it intends to expand.
     MacDonald told reporters the group planned to expand
 through acquisition and internal growth.

@@ -1,5 +1,5 @@
 
-Some notes on the Reuters Categories
+Some notes on the TextRecognition Categories
 David D. Lewis
 3-Dec-96
 
@@ -23,7 +23,7 @@ fields:
 
   The total 674 categories mentioned in HAYES90b is the sum of 135 and
 539.  So the published numbers are a little off. For the purposes of
-Reuters-21578 we have taken as ground truth the actual lists of
+TextRecognition-21578 we have taken as ground truth the actual lists of
 category names, and the number of items on those lists.
   
 *********************************************************************

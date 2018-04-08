@@ -306,7 +306,7 @@ less."
 h f BC-SEAWAY (PIX-EXPECTED)  03-20 0130</UNKNOWN>
 <TEXT>&#2;
 <TITLE>STRIKE THREAT, LOWER TRAFFIC MAR SEAWAY OPENING</TITLE>
-<AUTHOR>    By Jane Arraf, Reuters</AUTHOR>
+<AUTHOR>    By Jane Arraf, TextRecognition</AUTHOR>
 <DATELINE>    MONTREAL, March 20, Reuter - </DATELINE><BODY>The St. Lawrence Seaway, set
 to reopen March 31 after the winter, faces another tough year
 because of depressed traffic levels and the possibility of the
@@ -784,7 +784,7 @@ or record on that date.
 u f BC-WALL-STREET-SURVIVES   03-20 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>WALL STREET SURVIVES TRIPLE EXPIRATIONS</TITLE>
-<AUTHOR>    By Cal Mankowski, Reuters</AUTHOR>
+<AUTHOR>    By Cal Mankowski, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 20 -  </DATELINE><BODY>The four-times-a-year "triple
 witching hour" did not jolt Wall Street as much as it has in
 the past.
@@ -980,7 +980,7 @@ s f BC-EASTPARK-REALTY-TRUST   03-20 0024</UNKNOWN>
 h f AM-TRADE   03-20 0138</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CANADA'S CLARK SEES TRADE AS MOST URGENT PROBLEM</TITLE>
-<AUTHOR>    By Dean Lokken, Reuters</AUTHOR>
+<AUTHOR>    By Dean Lokken, TextRecognition</AUTHOR>
 <DATELINE>    SAN FRANCISCO, March 20 - </DATELINE><BODY>Trade is the most urgent problem
 facing U.S.-Canadian relations because of a pressing need to
 reach a new bilateral pact within the coming months, Joe Clark,
@@ -1399,7 +1399,7 @@ whether any officials of the firm were subpoenaed.
 r f BC-NATURAL-GAS-SEEN-RECA   03-20 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NATURAL GAS SEEN RECAPTURING SOME MARKET SHARE</TITLE>
-<AUTHOR>    By NAILENE CHOU-WIEST, Reuters</AUTHOR>
+<AUTHOR>    By NAILENE CHOU-WIEST, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>Higher crude oil prices will raise
 demand for natural gas, helping it to reclaim market share lost
 to heavy oil when prices plunged in 1986, analysts said.
@@ -1409,7 +1409,7 @@ and growing energy requirements.
     "Natural gas stands a good chance to recapture the share of
 oil supplied to electric utilities that it lost to the residual
 fuel industry last year," Michael Smolinski, an energy
-economist with Data Resources Inc, told Reuters.
+economist with Data Resources Inc, told TextRecognition.
     An estimated 200,000 barrels per day of residual fuel went
 into the utilities market at the expense of natural gas last
 year when world oil prices plunged, Smolinski said. 
@@ -1511,7 +1511,7 @@ were due February 1992, the company said.
 r f AM-TRADE-COMPUTERS   03-20 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. SENATORS SAY SANCTIONS LIKELY ON MICROCHIPS</TITLE>
-<AUTHOR>    By Jacqueline Frank, Reuters</AUTHOR>
+<AUTHOR>    By Jacqueline Frank, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>The United States will likely impose
 sanctions soon on imports of Japanese microchips, senators said
 today after a private meeting with Commerce Secretary Malcolm
@@ -1793,7 +1793,7 @@ u f AM-ARMS-KAMPELMAN   03-20 0112</UNKNOWN>
 <TITLE>U.S. ARMS NEGOTIATOR SAID TO HAVE HEART ATTACK</TITLE>
 <DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>U.S. arms negotiator Max Kampelman
 suffered a mild heart attack, an aide said.
-    Nancy Tackett, Kampleman's staff assistant, told Reuters
+    Nancy Tackett, Kampleman's staff assistant, told TextRecognition
 Kampelman was doing well and was expected to leave George
 Washington Hospital in about a week.
     "A full recovery is expected," she said.
@@ -1869,7 +1869,7 @@ losses and became insolvent, the bank board said.
 r f BC-BOLIVIA-PREPARES-FOR   03-20 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - BOLIVIA</TITLE>
-<AUTHOR>    By Paul Iredale, Reuters</AUTHOR>
+<AUTHOR>    By Paul Iredale, TextRecognition</AUTHOR>
 <DATELINE>    LA PAZ, March 20 - </DATELINE><BODY>Bolivia, once Latin America's most
 delinquent debtor, is preparing for a second International
 Monetary Fund agreement after an economic stabilisation program
@@ -1887,7 +1887,7 @@ next 12 months.
 opened the door to rescheduling negotiations with the Paris
 Club and Argentina and Brazil, which hold 2.5 billion dlrs of
 Bolivia's 4.0-billion-dlr foreign debt.
-    Central Bank President Javier Nogales told Reuters the
+    Central Bank President Javier Nogales told TextRecognition the
 negotiations with the Paris Club, which have yet to be
 finalised, had been extremely successful.
     Nogales said the Paris Club had agreed to reschedule
@@ -1942,7 +1942,7 @@ as a basis for such a scheme.
 attractive to Bolivia in the long run, especially as the
 government realises that it will have to attract a large amount
 of new capital in order to grow.
-    Planning Minister Gonzalo Sanchez de Lozada told Reuters
+    Planning Minister Gonzalo Sanchez de Lozada told TextRecognition
 that Bolivia was hoping for five to six billion dlrs in new
 investment over the next 10 to 12 years.
     The government realises that in order to remain viable,
@@ -2451,7 +2451,7 @@ police sou&#127;rces &#127;&#127;said.
 u f BC-WORLD-BANK-LIKELY-TO   03-21 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>WORLD BANK LIKELY TO URGE CHANGES ON JAKARTA</TITLE>
-<AUTHOR>    By Jeremy Clift, Reuters</AUTHOR>
+<AUTHOR>    By Jeremy Clift, TextRecognition</AUTHOR>
 <DATELINE>    JAKARTA, March 22 - </DATELINE><BODY>World Bank President Barber Conable is
 expected to press Indonesia, the Third World's sixth largest
 debtor, to maintain the momentum of economic policy changes to
@@ -2590,7 +2590,7 @@ u f BC-ROSTENKOWSKI-QUESTION   03-21 0091</UNKNOWN>
 <DATELINE>    BOCA RATON, Fla., March 22 - </DATELINE><BODY>U.S. House Ways and Means
 chairman Dan Rostenkowski said he questioned whether a U.S. Tax
 on securities transactions would be appropriate.
-    Rostenkowski, an Illinois Democrat, told Reuters before
+    Rostenkowski, an Illinois Democrat, told TextRecognition before
 addressing the Future Industry Association that such a tax
 could impair the international competitiveness of the U.S.
 Securities business.
@@ -2701,7 +2701,7 @@ policy and plagued by internal feuding.
 u f BC-NIGERIA-CHANGES-AUCTI   03-21 0083</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NIGERIA CHANGES AUCTION RULES TO DEFEND THE NAIRA</TITLE>
-<AUTHOR>    By Nick Kotch, Reuters</AUTHOR>
+<AUTHOR>    By Nick Kotch, TextRecognition</AUTHOR>
 <DATELINE>    LAGOS, March 22 - </DATELINE><BODY>Nigeria's Central Bank has changed the
 rules governing its foreign exchange auctions in what analysts
 see as a means of defending the naira currency, which has
@@ -2844,7 +2844,7 @@ promote closer cooperation among the three regions.
 u f BC-SARNEY-MEETS-BRAZIL-B   03-22 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SARNEY MEETS BRAZIL BUSINESS LEADERS</TITLE>
-<AUTHOR>    By Stephen Powell, Reuters</AUTHOR>
+<AUTHOR>    By Stephen Powell, TextRecognition</AUTHOR>
 <DATELINE>    SAO PAULO, March 22 - </DATELINE><BODY>President Jose Sarney, whose handling
 of the economy is under attack at home and abroad, has held
 private talks with Brazilian business leaders worried that
@@ -2914,7 +2914,7 @@ economic policy, had not been invited to the gathering.
 u f BC-U.S.,-LATIN-NATIONS-D   03-22 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S., LATIN NATIONS DELAY DECISION ON IADB</TITLE>
-<AUTHOR>    By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>    By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>    MIAMI, March 22 - </DATELINE><BODY>The United States and major Latin
 American nations agreed to set aside sharp differences over
 control of the Inter-American Development Bank (IADB) and
@@ -3043,7 +3043,7 @@ as soon as possible.
 u f BC-NEXT-WORLD-TRADE-NEGO   03-22 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NEXT WORLD TRADE NEGOTIATIONS MUST SUCCEED - NZ</TITLE>
-<AUTHOR>    By Christopher Pritchett, Reuters</AUTHOR>
+<AUTHOR>    By Christopher Pritchett, TextRecognition</AUTHOR>
 <DATELINE>    TAUPO, New Zealand, March 22 - </DATELINE><BODY>Ministers from more than 20
 nations were told by New Zealand that the next international
 negotiations on liberalising trade would be the last this
@@ -3622,7 +3622,7 @@ flights to European destinations -- an increase of 27 pct.
 u f BC-SAUDI-ARABIA'S-KING-F   03-22 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SAUDI ARABIA'S KING FAHD VISITS BRITAIN THIS WEEK</TITLE>
-<AUTHOR>    By Deborah Telford, Reuters</AUTHOR>
+<AUTHOR>    By Deborah Telford, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 22 - </DATELINE><BODY>King Fahd of Saudi Arabia begins a
 four-day state visit on Tuesday which will focus on redressing
 Britain's large trade surplus with the kingdom and reaffirming
@@ -3637,7 +3637,7 @@ renounced state-sponsored terrorism. So far they haven't."
     Britain will stress its support for an international peace
 conference on the Middle East and its concern over alleged
 human rights abuses by Israel in the occupied West Bank and
-Gaza, the officials told Reuters.
+Gaza, the officials told TextRecognition.
     The Saudi leader will hold talks with Prime Minister
 Margaret Thatcher and meet Queen Elizabeth and Prince Philip
 during the visit, his first to Britain since he assumed power
@@ -3697,7 +3697,7 @@ from its operations in the country.
 with the new capital requirement -- raised from three mln
 dinars -- by the start of 1986.
     Rafidain's Area Manager Adnan Abdul Karim al-Azzawi told
-Reuters the branch had now registered its capital at the higher
+TextRecognition the branch had now registered its capital at the higher
 level but did not say how long it would take to pay it in. The
 bank's 1986 balance shows paid-up capital of 3.1 mln dinars.
     Banks in Jordan have generally complied with the higher
@@ -3775,7 +3775,7 @@ countries.
 u f BC-U.S.-CREDIT-MARKET-OU   03-22 0100</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. CREDIT MARKET OUTLOOK - MINI-REFUNDING</TITLE>
-<AUTHOR>    By Claire Miller, Reuters</AUTHOR>
+<AUTHOR>    By Claire Miller, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 23 - </DATELINE><BODY>A hefty slice of new U.S. Treasury
 supply is not the most welcome prospect for a slumbering credit
 market, but at least this week's offerings should provide it
@@ -3873,7 +3873,7 @@ to open near that level.
 u f BC-SWISS-BANKERS-PLANNIN   03-22 0104</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SWISS BANKERS PLANNING COMPROMISE ON SECRECY CURBS</TITLE>
-<AUTHOR>    By Peter Conradi, Reuters</AUTHOR>
+<AUTHOR>    By Peter Conradi, TextRecognition</AUTHOR>
 <DATELINE>    ZURICH, March 23 - </DATELINE><BODY>Bankers, concerned about official calls
 for curbs on Switzerland's banking secrecy, are likely to
 propose a compromise plan when they meet regulators today, the
@@ -3883,7 +3883,7 @@ Sonntagsblick the Federation would make proposals to curb the
 anonymity given to some bank clients who hide their identities
 behind lawyers or fiduciary agents.
     "The Sonntagsblick story goes in the right direction, and I
-cannot deny it," Hubschmid told Reuters.
+cannot deny it," Hubschmid told TextRecognition.
     Hubschmid declined to confirm details, saying nothing had
 yet been decided.
     Recent allegations U.S. Officials involved in the
@@ -4217,7 +4217,7 @@ that eventually emerges is another matter."
 u f BC-PREMIER-SAYS-YUGOSLAV   03-22 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PREMIER SAYS YUGOSLAVIA WILL PAY ITS DEBTS</TITLE>
-<AUTHOR>    By Peter Humphrey, Reuters</AUTHOR>
+<AUTHOR>    By Peter Humphrey, TextRecognition</AUTHOR>
 <DATELINE>    BELGRADE, March 23 - </DATELINE><BODY>Yugoslavia, whose economic crisis is
 under close scrutiny by foreign creditors, will not follow
 Brazil by suspending repayments on its large foreign debt,
@@ -4363,7 +4363,7 @@ region.
 u f BC-BRAZIL-BUSINESS-LEADE   03-22 0105</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BRAZIL BUSINESS LEADERS CALL FOR TALKS WITH IMF</TITLE>
-<AUTHOR>    By Stephen Powell, Reuters</AUTHOR>
+<AUTHOR>    By Stephen Powell, TextRecognition</AUTHOR>
 <DATELINE>    SAO PAULO, March 22 - </DATELINE><BODY>Brazilian business leaders attending
 a weekend meeting with President Jose Sarney called on the
 government to seek help from the International Monetary Fund
@@ -5072,7 +5072,7 @@ year-on-year fall in February, he said.
 u f BC-IADB-DISPUTE-HIGHLIGH   03-23 0095</UNKNOWN>
 <TEXT>&#2;
 <TITLE>IADB DISPUTE HIGHLIGHTS LATIN DEBT CONFLICTS</TITLE>
-<AUTHOR>    By Keith Grant, Reuters</AUTHOR>
+<AUTHOR>    By Keith Grant, TextRecognition</AUTHOR>
 <DATELINE>    MIAMI, March 23 - </DATELINE><BODY>Controversy surrounding U.S.-backed
 reforms in the Inter-American Development Bank (IADB)
 underscores the mounting challenge to Washington's current debt
@@ -5287,7 +5287,7 @@ u f BC-TAIWAN-TO-BOOST-FARM   03-23 0100</UNKNOWN>
 <DATELINE>    TAIPEI, March 23 - </DATELINE><BODY>Taiwan is expected to boost agricultural
 imports from the U.S. And Europe in calendar 1987 to help
 balance trade, the Council of Agriculture said.
-    A council official, who declined to be named, told Reuters
+    A council official, who declined to be named, told TextRecognition
 the imports, which will include about seven mln tonnes of
 oilseeds, grains and dairy products, would be worth some four
 billion U.S. Dlrs against 3.72 billion in 1986 and 3.38 billion
@@ -5469,7 +5469,7 @@ r f BC-VW-EXPECTS-HIGHER-GER   03-23 0107</UNKNOWN>
 expects to increase its market share in West Germany in the
 full year 1987 after registering gains in the first two months
 of the year, managing board chairman Carl Hahn said.
-    He told Reuters in an interview that incoming orders in
+    He told TextRecognition in an interview that incoming orders in
 West Germany, VW's largest single market, had been very good in
 early 1987. Its share of the domestic car market rose to 29 pct
 in January and February from 26 pct in the year-ago period.
@@ -5507,7 +5507,7 @@ two companies' loss-making operations in Argentina and Brazil.
 ways of synchronising the two operations, he said. VW's
 operations in Mexico had made again made a profit in 1986, he
 added.
-    Hahn, speaking to Reuters in an interview to mark
+    Hahn, speaking to TextRecognition in an interview to mark
 production of VW's 50 millionth car, said VW had no plans to
 make acquisitions outside the automotive sector.
     It also did not expect to raise capital again in the
@@ -5564,7 +5564,7 @@ company's investment spending.
 u f BC-GERMAN-BOND-YIELDS-SE   03-23 0095</UNKNOWN>
 <TEXT>&#2;
 <TITLE>GERMAN BOND YIELDS SEEN FALLING IN NEAR TERM </TITLE>
-<AUTHOR>    By Alice Ratcliffe, Reuters</AUTHOR>
+<AUTHOR>    By Alice Ratcliffe, TextRecognition</AUTHOR>
 <DATELINE>    FRANKFURT, March 23 - </DATELINE><BODY>West German bond yields could decline
 over the next few months if recent efforts to stabilize
 exchange rates, as seen in last month's Paris pact, extend to
@@ -5693,7 +5693,7 @@ growth in imports, the NCSO said.
 u f BC-NAKASONE-DEFENDS-SALE   03-23 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NAKASONE DEFENDS SALES TAX AS CAMPAIGNING BEGINS</TITLE>
-<AUTHOR>    By Yuko Nakamikado, Reuters</AUTHOR>
+<AUTHOR>    By Yuko Nakamikado, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 23 - </DATELINE><BODY>Prime Minister Yasuhiro Nakasone defended
 his tax reform plans from fierce opposition, even within his
 own party, as campaigning for local elections began.
@@ -6116,7 +6116,7 @@ u f BC-TAIWAN-ISSUES-MORE-CE   03-23 0093</UNKNOWN>
 <DATELINE>    TAIPEI, March 23 - </DATELINE><BODY>The central bank issued 4.03 billion
 Taiwan dlrs of certificates of deposit (cds), bringing cd
 issues so far this year to 134.5 billion dlrs, a bank official
-told Reuters.
+told TextRecognition.
     The new cds, with maturities of six months, one and two
 years, carry interest rates ranging from 4.07 to 5.12 pct, he
 said.
@@ -7355,7 +7355,7 @@ that eventually emerges is another matter."
 d f BC-PREMIER-SAYS-YUGOSLAV   03-23 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PREMIER SAYS YUGOSLAVIA WILL PAY ITS DEBTS</TITLE>
-<AUTHOR>    By Peter Humphrey, Reuters</AUTHOR>
+<AUTHOR>    By Peter Humphrey, TextRecognition</AUTHOR>
 <DATELINE>    BELGRADE, March 23 - </DATELINE><BODY>Yugoslavia, whose economic crisis is
 under close scrutiny by foreign creditors, will not follow
 Brazil by suspending repayments on its large foreign debt,
@@ -7575,7 +7575,7 @@ today's announcement.
 r f BC-BRAZIL-BUSINESS-LEADE   03-23 0104</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BRAZIL BUSINESS LEADERS CALL FOR TALKS WITH IMF</TITLE>
-<AUTHOR>    By Stephen Powell, Reuters</AUTHOR>
+<AUTHOR>    By Stephen Powell, TextRecognition</AUTHOR>
 <DATELINE>    SAO PAULO, March 22 - </DATELINE><BODY>Brazilian business leaders attending
 a weekend meeting with President Jose Sarney called on the
 government to seek help from the International Monetary Fund
@@ -7844,7 +7844,7 @@ Iranian Tanker Co.
 r f BC-NEXT-WORLD-TRADE-NEGO   03-23 0101</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NEXT WORLD TRADE NEGOTIATIONS MUST SUCCEED - NZ</TITLE>
-<AUTHOR>    By Christopher Pritchett, Reuters</AUTHOR>
+<AUTHOR>    By Christopher Pritchett, TextRecognition</AUTHOR>
 <DATELINE>    TAUPO, New Zealand, March 23 - </DATELINE><BODY>Ministers from more than 20
 nations were told by New Zealand that the next international
 negotiations on liberalising trade would be the last this
@@ -8082,7 +8082,7 @@ promote closer cooperation among the three regions.
 r f BC-U.S.,-LATIN-NATIONS-D   03-23 0101</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S., LATIN NATIONS DELAY DECISION ON IADB</TITLE>
-<AUTHOR>    By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>    By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>    MIAMI, March 23 - </DATELINE><BODY>The United States and major Latin
 American nations agreed to set aside sharp differences over
 control of the Inter-American Development Bank (IADB) and
@@ -8145,7 +8145,7 @@ innovative solutions to the debt problem.
 u f BC-BAKER-EXPECTED-TO-DEF   03-23 0089</UNKNOWN>
 <TEXT>&#2;
 <TITLE>BAKER EXPECTED TO DEFEND DEBT STRATEGY</TITLE>
-<AUTHOR>     By Peter Torday, Reuters</AUTHOR>
+<AUTHOR>     By Peter Torday, TextRecognition</AUTHOR>
 <DATELINE>     MIAMI, March 23 - </DATELINE><BODY>Treasury Secretary James Baker, facing
 the toughest challenge to his Third World debt plan so far, is
 expected today to stoutly defend the strategy.
@@ -8314,7 +8314,7 @@ r f AM-TAX   03-23 0114</UNKNOWN>
 <DATELINE>    BOCA RATON, Fla., March 23 - </DATELINE><BODY>House Ways and Means chairman
 Dan Rostenkowski said he questioned whether a U.S. tax on
 securities transactions would be appropriate.
-    The Illinois Democrat told Reuters before addressing the
+    The Illinois Democrat told TextRecognition before addressing the
 Future Industry Association that such a tax may impair the
 international competitiveness of the U.S. securities business.
 House Speaker James Wright has said a tax on securities
@@ -8391,11 +8391,11 @@ producers - Texas, Oklahoma and Kansas.
 r f BC-WORLD-DEPENDENCY-ON-M   03-23 0086</UNKNOWN>
 <TEXT>&#2;
 <TITLE>WORLD DEPENDENCY ON MIDEAST OIL SAID INEVITABLE</TITLE>
-<AUTHOR>    By TED d'AFFLISIO, Reuters</AUTHOR>
+<AUTHOR>    By TED d'AFFLISIO, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 23 - </DATELINE><BODY>The world's dependency on the Mideast
 as the source for its petroleum is growing and nothing is going
 to stop it, Donald K. McIvor, an Exxon Corp &lt;XON> Director and
-senior vice president told Reuters in an interview.
+senior vice president told TextRecognition in an interview.
     "Non-OPEC production will begin to decline and the gap
 between demand and supply will widen so that the trend to
 increasing dependence on OPEC and the Middle East is
@@ -8553,7 +8553,7 @@ March 19 because of a strike over pay claims by watersiders, a
 Waterside Federation spokesman said.
     But industrial action by other port workers is likely to
 cause further disruption, Harbour Workers union secretary Ross
-Wilson told Reuters.
+Wilson told TextRecognition.
     Wilson said his members are holding stopwork meetings this
 morning to consider further stoppages over their pay claim.
     The two disputes are not related.
@@ -9635,7 +9635,7 @@ traded in U.S. markets.
 d f BC-JAPAN-IN-LAST-DITCH-E   03-23 0097</UNKNOWN>
 <TEXT>&#2;
 <TITLE>JAPAN IN LAST DITCH EFFORT TO SAVE CHIP PACT</TITLE>
-<AUTHOR>    By Rich Miller, Reuters</AUTHOR>
+<AUTHOR>    By Rich Miller, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 23 - </DATELINE><BODY>Japan has launched a last-ditch effort to
 salvage its computer micro-chip pact with the United States -
 sending a letter to top American policy makers setting out its
@@ -10239,7 +10239,7 @@ have greater influence within the institution.
 r f BC-U.S.-CORPORATE-FINANC   03-23 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. CORPORATE FINANCE - NOVEL GMAC FINANCING</TITLE>
-<AUTHOR>    By John Picinich, Reuters</AUTHOR>
+<AUTHOR>    By John Picinich, TextRecognition</AUTHOR>
 <DATELINE>    NEW YORK, March 23 - </DATELINE><BODY>Because its novel financing deal sold
 quickly last week, General Motors Corp's &lt;GM> General Motors
 Acceptance Corp unit plans to do more multi-tiered financings,
@@ -11247,7 +11247,7 @@ tranches in May, June, July and August, traders said.
 h f BC-NAKASONE-DEFENDS-SALE   03-23 0102</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NAKASONE DEFENDS SALES TAX AS CAMPAIGNING BEGINS</TITLE>
-<AUTHOR>    By Yuko Nakamikado, Reuters</AUTHOR>
+<AUTHOR>    By Yuko Nakamikado, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 23 - </DATELINE><BODY>Prime Minister Yasuhiro Nakasone defended
 his tax reform plans from fierce opposition, even within his
 own party, as campaigning for local elections began.
@@ -11481,7 +11481,7 @@ u f BC-BRAZIL-DEBT-OFFICIAL   03-23 0094</UNKNOWN>
 Antonio de Padua Seixas, has offered to resign from his post as
 Director for External Debt Management at the Central Bank, a
 bank spokesman said.
-    The spokesman told Reuters by telephone from Brasilia that
+    The spokesman told TextRecognition by telephone from Brasilia that
 Seixas had offered to resign last week but the government had
 not yet responded.
     Seixas, who has played a leading role in negotiations with
@@ -12859,7 +12859,7 @@ Atlanta Inc but it is not seeking to take a stake in the
 airline, a KLM spokesman said.
     "We're not considering taking either a majority or minority
 stake in Air Atlanta, but we are thinking of providing them
-with a loan," the spokesman told Reuters in a comment on a Wall
+with a loan," the spokesman told TextRecognition in a comment on a Wall
 Street Journal report saying debt-laden Air Atlanta could sell
 as much as 25 pct of its stock to the Dutch airline.
     KLM last week denied a Dutch press report saying it was
@@ -14351,7 +14351,7 @@ managers of a publicly-owned Italian savings bank and the vice
 president of another major Italian bank have been arrested on
 embezzlement charges, police said.
     Nicola Calipari, head of Cosenza police investigation
-section, told Reuters &lt;Cassa di Risparmio di Calabria e Luciana
+section, told TextRecognition &lt;Cassa di Risparmio di Calabria e Luciana
 - Carical> president Francesco Sapio and five managers were
 arrested last night. Three others believed involved had also
 been arrested, including Francesco Del Monte, vice president of
@@ -14381,7 +14381,7 @@ expose broad initiatives to change U.S. farm policy.
 allow wheat and feedgrains farmers to receive at least 92 pct
 of their income support payments if flooding last year
 prevented, or will prevent, them from planting their 1987
-crops, Senate staff members told Reuters.
+crops, Senate staff members told TextRecognition.
     Also pending is a bill extend the life of the National
 Commission on Dairy Policy.
     Sen. Rudy Boschwitz, R-Minn., intends to offer an amendment
@@ -14400,7 +14400,7 @@ fear efforts by Midwestern Democrats to force a floor vote on a
 bill that would require large acreage set-asides in return for
 sharply higher support prices.
     However, Sen. Tom Harkin, D-Iowa, sponsor of the bill, told
-Reuters he did not intend to offer his measure as a floor
+TextRecognition he did not intend to offer his measure as a floor
 amendment but to bring it through the committee.
  Reuter
 &#3;</BODY></TEXT>
@@ -14509,7 +14509,7 @@ collapse of the ITC's buffer stock operations in October 1985.
 AMT had until March 26 to lodge its appeal.
     The grounds for the appeal are that the judge erred on
 three points when giving his verdict, Michael Arnold, head of
-the broker creditors group Tinco Realisations, told Reuters.
+the broker creditors group Tinco Realisations, told TextRecognition.
     The judge ruled that the U.K. Court had no jurisdiction to
 wind up the Tin Council, that the ITC was not an association
 within the meaning of the Companies Act, and that the
@@ -14676,14 +14676,14 @@ resumed operations after an 18-month outage.
 r f AM-GULF-AMERICAN   03-23 0093</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. PREPARED TO ESCORT KUWAITI TANKERS</TITLE>
-<AUTHOR>    By CHARLES ALDINGER, Reuters</AUTHOR>
+<AUTHOR>    By CHARLES ALDINGER, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 23 - </DATELINE><BODY>The United States has offered Navy
 warships to escort Kuwaiti oil tankers into and out of the 
 Gulf where they could be threatened by new Iranian anti-ship
 missiles, U.S. defense officials said today.
     "We believe the Kuwaitis have also approached the Soviet
 Union about the possibility of using Soviet tankers" to ship
-their oil, one of the officials told Reuters. "But if there is
+their oil, one of the officials told TextRecognition. "But if there is
 superpower protection, we would rather it come from us," the
 official said.
     The officials, who asked not to be identified, said Kuwait
@@ -15270,7 +15270,7 @@ about 13.3 pct of Caesars World.
 h f BC-TECHNOLOGY   03-23 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TECHNOLOGY/ATT'S &lt;T>  EFFORTS TO SELL COMPUTERS</TITLE>
-<AUTHOR>    By Catherine Arnst, Reuters</AUTHOR>
+<AUTHOR>    By Catherine Arnst, TextRecognition</AUTHOR>
 <DATELINE>    BOSTON, March 23 - </DATELINE><BODY>American Telephone and Telegraph Co is
 another illustration of a maxim already learned by several
 other huge corporations - that success in one segment of the
@@ -15372,7 +15372,7 @@ telephone systems at the expense of the computer division.
 u f AM-GULF-IRAQ 1STLD  03-23 0086</UNKNOWN>
 <TEXT>&#2;
 <TITLE>IRAQ REPORTS ATTACKS ON SUPERTANKER, OIL TARGETS</TITLE>
-<AUTHOR>    By MAAMOUN YOUSSEF, Reuters</AUTHOR>
+<AUTHOR>    By MAAMOUN YOUSSEF, TextRecognition</AUTHOR>
 <DATELINE>    BAGHDAD, March 23 - </DATELINE><BODY>Iraq said today its warplnes had
 attacked a supertanker and four Iranian oil sites and vowed to
 keep up such raids until the Gulf war ends.
@@ -15427,7 +15427,7 @@ occupants and the others fled, it said.
 u f BC-TALKING-POINT/WENDY'S   03-23 0101</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TALKING POINT/WENDY'S INTERNATIONAL &lt;WEN></TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    New York, March 23 - </DATELINE><BODY>Takeover speculation buoyed Wendy's
 International Inc's stock, even after Coca Cola Co took the
 fizz out of market rumors by denying it was an interested
@@ -15573,7 +15573,7 @@ f f BC-export-inspections   03-23 0015</UNKNOWN>
 u f BC-GERMAN-BANKING-AUTHOR   03-23 0112</UNKNOWN>
 <TEXT>&#2;
 <TITLE>GERMAN BANKING AUTHORITIES DRAWN INTO VW CASE</TITLE>
-<AUTHOR>    By Jonathan Lynn, Reuters</AUTHOR>
+<AUTHOR>    By Jonathan Lynn, TextRecognition</AUTHOR>
 <DATELINE>    FRANKFURT, March 23 - </DATELINE><BODY>West Germany's banking authorities
 are being drawn into the currency scandal surrounding
 Volkswagen AG &lt;VOWG.F> as the repercussions and allegations in
@@ -16121,7 +16121,7 @@ agreement totalling 222.3 mln dlrs with 18 commerical banks.
 u f BC-SWISS-BANKERS-ANNOUNC   03-23 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SWISS BANKERS ANNOUNCE CURBS ON BANKING SECRECY</TITLE>
-<AUTHOR>    By Peter Conradi, Reuters</AUTHOR>
+<AUTHOR>    By Peter Conradi, TextRecognition</AUTHOR>
 <DATELINE>    ZURICH, March 23 - </DATELINE><BODY>Swiss bankers announced a series of
 measures aimed at preventing abuses of the country's tight
 banking secrecy laws as part of a revision of a 10-year-old
@@ -16291,7 +16291,7 @@ responsibilities could be paid for with user fees.
     CFTC officials said the two agencies were studying whether
 commodity exchanges, futures commission merchants or market
 users should bear the cost of the surveillance program.
-    Phillips told Reuters that CFTC and OMB were expected to
+    Phillips told TextRecognition that CFTC and OMB were expected to
 complete the study by mid-April.
  Reuter
 &#3;</BODY></TEXT>
@@ -16808,7 +16808,7 @@ said.
 r f BC-uneasy-calm-as-brazil   03-23 0098</UNKNOWN>
 <TEXT>&#2;
 <TITLE>ECONOMIC SPOTLIGHT - BRAZIL DEBT DEADLINES LOOM</TITLE>
-<AUTHOR>    By Alan Wheatley, Reuters</AUTHOR>
+<AUTHOR>    By Alan Wheatley, TextRecognition</AUTHOR>
 <DATELINE>    MIAMI, March 23 - </DATELINE><BODY>Slow progress in talks between Brazil and
 its major foreign creditors has increased the likelihood that
 U.S. banks will declare their loans to Brazil non-performing at
@@ -19306,7 +19306,7 @@ said Leo Melamed, chairman of the Chicago Mercantile
 Exchange's, CME, executive committee.
     "The target zone would not affect our market I think at
 all.... A 10 pct range in the Deutsche mark gives us a healthy
-market," Melamed told Reuters in an interview.
+market," Melamed told TextRecognition in an interview.
     "We were willing to live in the old Smithsonian era with a
 four pct shift," he said, referring to permitted currency
 fluctuations in the early 1970s. "One thing you can adjust is to
@@ -19506,7 +19506,7 @@ of GTE Corp &lt;GTE> and United Telecommunications Inc &lt;UT> set up
 last June, is optimistic despite expecting to report a net loss
 of about 500 mln dlrs this year.
      David M. Holland, president of US Sprint's Dallas-based
-Southwest Division, told Reuters in an interview that he did
+Southwest Division, told TextRecognition in an interview that he did
 not know what it would report for the first quarter, but agreed
 that for the year the company should have about the same
 results as last year when it lost "about 500 mln dlrs."
@@ -20239,7 +20239,7 @@ said the bank still has buying orders in the market.
 u f BC-YEUTTER-SEES-GATT-CON   03-24 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>YEUTTER SEES GATT CONSENSUS ON FARM TRADE REFORM</TITLE>
-<AUTHOR>    By Graham Hillier, Reuters</AUTHOR>
+<AUTHOR>    By Graham Hillier, TextRecognition</AUTHOR>
 <DATELINE>    TAUPO, New Zealand, March 24 - </DATELINE><BODY>U.S. Trade Representative
 Clayton Yeutter said trade ministers meeting here have reached
 a general consensus on agricultural trade reform under the
@@ -20362,12 +20362,12 @@ worrisome drug problem, West German officials said.
 u f BC-SWIRE-SEEN-REPORTING   03-24 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SWIRE SEEN REPORTING 20 PCT RISE IN 1986 PROFIT</TITLE>
-<AUTHOR>    By Allan Ng, Reuters</AUTHOR>
+<AUTHOR>    By Allan Ng, TextRecognition</AUTHOR>
 <DATELINE>    HONG KONG, March 24 - </DATELINE><BODY>Swire Pacific Ltd &lt;SWPC.HKG> is
 likely to show a more than 20 pct rise in 1986 operating
 profits when it reports results tomorrow, reflecting gains in
 its aviation and property businesses, share analysts said.
-    Analysts polled by Reuters estimated after-tax profits from
+    Analysts polled by TextRecognition estimated after-tax profits from
 operations will be between 1.525 billion and 1.8 billion dlrs
 compared with 1.23 billion in 1985.
     They also said Swire will have an extraordinary gain of
@@ -20482,7 +20482,7 @@ world trade be arrested and reversed," he said.
 u f BC-TAIWAN-COMPLAINS-ABOU   03-24 0106</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TAIWAN COMPLAINS ABOUT SIZE OF RESERVES</TITLE>
-<AUTHOR>    By Chen Chien-kuo, Reuters</AUTHOR>
+<AUTHOR>    By Chen Chien-kuo, TextRecognition</AUTHOR>
 <DATELINE>    TAIPEI, March 24 - </DATELINE><BODY>Taiwan's foreign exchange reserves,
 swollen by strong trade surpluses to a record 53 billion U.S.
 Dlrs, are becoming a problem, government officials said.
@@ -20494,7 +20494,7 @@ increase in reserves was the result of heavy intervention by
 the bank on the local interbank market. It bought nearly two
 billion U.S. Dlrs between March 5 and 23, he said.
     Wang Chao-ming, vice chairman of the government's Council
-for Economic Planning and Development, told Reuters the rising
+for Economic Planning and Development, told TextRecognition the rising
 reserves were "a big headache for Taiwan."
     He said the government expects heavier pressure from the
 U.S., Where protectionist bills are being proposed against
@@ -20605,7 +20605,7 @@ u f BC-GATT-ROUND-MAY-STOP-G   03-24 0113</UNKNOWN>
 halt growing bilateral trade problems between major trading
 partners, U.S. Trade Representative Clayton Yeutter said.
     Yeutter, in New Zealand for informal GATT ministerial
-talks, told Reuters bilateral trade disputes are increasing
+talks, told TextRecognition bilateral trade disputes are increasing
 because the multilateral system is inefficient.
     "That is really a strong rationale why we need a new GATT
 round," he said. "The very existence of all these bilateral
@@ -20695,7 +20695,7 @@ in 1987 because of forecast slow economic growth.
 u f BC-SUPERCONDUCTOR-RESEAR   03-24 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>SUPERCONDUCTOR RESEARCH MAY BOOST TOKYO STOCKS</TITLE>
-<AUTHOR>    By James Kynge, Reuters</AUTHOR>
+<AUTHOR>    By James Kynge, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 24 - </DATELINE><BODY>Research into materials that conduct
 electricity with minimal resistance could lead to further gains
 on Tokyo's booming stock market, brokers said.
@@ -21393,7 +21393,7 @@ f f BC-FRENCH-BOND-COMMITTEE   03-24 0013</UNKNOWN>
 u f BC-DOUBTS-ABOUT-ACCORD-S   03-24 0108</UNKNOWN>
 <TEXT>&#2;
 <TITLE>DOUBTS ABOUT ACCORD SEEN WEAKENING DOLLAR FURTHER</TITLE>
-<AUTHOR>    By Kunio Inoue, Reuters</AUTHOR>
+<AUTHOR>    By Kunio Inoue, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 24 - </DATELINE><BODY>The dollar is expected to decline further
 in coming days as scepticism mounts about the effectiveness of
 last month's Paris accord to stabilise currency exchange rates,
@@ -21638,11 +21638,11 @@ in Shanghai, Peking and Harbin.
 u f BC-CHINA-EXPECTED-TO-SHO   03-24 0093</UNKNOWN>
 <TEXT>&#2;
 <TITLE>CHINA EXPECTED TO SHOW BIG 1986 BUDGET DEFICIT</TITLE>
-<AUTHOR>    By Mark O'Neill, Reuters</AUTHOR>
+<AUTHOR>    By Mark O'Neill, TextRecognition</AUTHOR>
 <DATELINE>    PEKING, March 24 - </DATELINE><BODY>China's Finance Minister Wang Bingqian
 will report a 1986 budget deficit of up to nine billion yuan
 and prescribe austerity measures for 1987 in a budget speech on
-Thursday, foreign bankers and diplomats told Reuters.
+Thursday, foreign bankers and diplomats told TextRecognition.
     Chinese officials have said the 1986 deficit is "several
 billion," after a surplus of 2.82 billion in 1985 which followed
 six years of deficits, including a record 17 billion yuan
@@ -21735,7 +21735,7 @@ confused mix of control and market economies."
 u f BC-NIPPON-LIFE,-SHEARSON   03-24 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NIPPON LIFE, SHEARSON TIE-UP SEEN SETTING TREND</TITLE>
-<AUTHOR>    By Steven Brull, Reuters</AUTHOR>
+<AUTHOR>    By Steven Brull, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 24 - </DATELINE><BODY>Nippon Life Insurance Co's 538 mln dlr
 purchase of a 13 pct stake in Shearson Lehman Brothers Inc
 brokerage unit is a shrewd move that other Japanese insurers
@@ -21960,12 +21960,12 @@ added.
 u f BC-INDONESIAN-BANKS-PROF   03-24 0103</UNKNOWN>
 <TEXT>&#2;
 <TITLE>INDONESIAN BANKS PROFITS RISE AFTER DEVALUATION</TITLE>
-<AUTHOR>    By Jeremy Clift, Reuters</AUTHOR>
+<AUTHOR>    By Jeremy Clift, TextRecognition</AUTHOR>
 <DATELINE>    JAKARTA, March 24 - </DATELINE><BODY>Indonesia's September devaluation
 helped bank profits to rise by 28.6 pct in calendar 1986, but
 despite higher world oil prices, banks are likely to see
 profits stabilise or fall in 1987, the head of Indonesia's
-Association of Private Banks told Reuters.
+Association of Private Banks told TextRecognition.
     Association chairman Nyoman Muna said in an interview that
 most banks made windfall profits from the 31 pct devaluation
 against the U.S. Dollar.
@@ -21986,7 +21986,7 @@ mostly due to a loss by Bank of America NT and SA.
 affected by a string of bad debts and other problems during the
 year. It showed a loss of 32.03 billion rupiah, against a loss
 of 3.48 billion in 1985, and 1984 profit of 7.25 billion.
-    A bank spokesman told Reuters he believed Bank of America
+    A bank spokesman told TextRecognition he believed Bank of America
 in Jakarta was now back on track. "The worst is behind us."
     Its assets have fallen to 194.07 billion rupiah in 1986
 from 293 billion in 1985 and 301.5 billion at the end of 1984.
@@ -22021,7 +22021,7 @@ profit was barely higher at 8.5 billion from 8.4 billion.
 as the largest foreign bank, slipped to second place behind
 Bank of Tokyo. It recorded a loss of 480 mln rupiah against a
 1985 profit of 11.9 billion.
-    A Citibank spokesman told Reuters the loss was a
+    A Citibank spokesman told TextRecognition the loss was a
 book-keeping issue and did not represent the true picture, but
 declined to give further figures.
     One western banker said that "Citibank is still definitely
@@ -22090,7 +22090,7 @@ distorted world prices, Carney said.
 not introduce new import barriers not mandated by existing
 legislation and the fifth was that these basic principles must
 be implemented collectively.
-    Carney later told Reuters the Canadian guidelines are
+    Carney later told TextRecognition the Canadian guidelines are
 basically compatible with the seven point Australian proposals
 announced in Davos, Switzerland, in January.
     European trade sources said the conference welcomed the
@@ -22131,7 +22131,7 @@ after issuing 4.03 billion of similar CDs yesterday, bringing
 the total value of CD issues in 1987 to 139.46 billion.
     The new CDs, with maturities of six months, one year and
 two years, carry interest rates ranging from 4.07 pct to 5.12
-pct, a bank official told Reuters.
+pct, a bank official told TextRecognition.
     The issues are designed to help curb the growth of m-1b
 money supply, which is expanding as a result of large foreign
 exchange reserves.
@@ -22153,19 +22153,19 @@ exchange reserves.
 u f BC-PHILIPPINE-TRADE-SECR   03-24 0095</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINE TRADE SECRETARY PLEASED WITH GATT TALKS</TITLE>
-<AUTHOR>    By Christopher Pritchett, Reuters</AUTHOR>
+<AUTHOR>    By Christopher Pritchett, TextRecognition</AUTHOR>
 <DATELINE>    TAUPO, New Zealand, March 24 - </DATELINE><BODY>Philippine Secretary of
 Trade and Industry Jose Concepcion, who two days ago expressed
 doubts about agreements produced at international conferences,
 said he was pleased with the latest gathering here.
-    Concepcion told Reuters in an interview that the informal
+    Concepcion told TextRecognition in an interview that the informal
 General Agreement on Tariffs and Trade (GATT) meeting gave
 ministers from more than 20 nations the chance to examine
 issues with which GATT did not have the political will to deal.
     "Also, the role of the developing countries has been
 emphasised in this particular meeting. Somehow it has been the
 perception of developing countries that GATT is a club of rich
-countries," he added in an interview with Reuters.
+countries," he added in an interview with TextRecognition.
     "In fact many of the issues that have been tabled for
 discussion (in the Uruguay round of trade negotiations) will be
 of more benefit to the developed countries," he said.
@@ -22955,7 +22955,7 @@ February.
 u f BC-YEUTTER-SEES-GATT-CON   03-24 0094</UNKNOWN>
 <TEXT>&#2;
 <TITLE>YEUTTER SEES GATT CONSENSUS ON FARM TRADE REFORM</TITLE>
-<AUTHOR>    By Graham Hillier, Reuters</AUTHOR>
+<AUTHOR>    By Graham Hillier, TextRecognition</AUTHOR>
 <DATELINE>    TAUPO, New Zealand, March 24 - </DATELINE><BODY>U.S. Trade Representative
 Clayton Yeutter said trade ministers meeting here have reached
 a general consensus on agricultural trade reform under the
@@ -23059,7 +23059,7 @@ allegations of Japanese chip dumping in such markets.
 r f BC-DOUBTS-ABOUT-ACCORD-S   03-24 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>DOUBTS ABOUT ACCORD SEEN WEAKENING DOLLAR FURTHER</TITLE>
-<AUTHOR>    By Kunio Inoue, Reuters</AUTHOR>
+<AUTHOR>    By Kunio Inoue, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 24 - </DATELINE><BODY>The dollar is expected to decline further
 in coming days as scepticism mounts about the effectiveness of
 last month's Paris accord to stabilise currency exchange rates,
@@ -23155,7 +23155,7 @@ f f BC-Prudential-Corp-1986   03-24 0011</UNKNOWN>
 r f BC-NIPPON-LIFE,-SHEARSON   03-24 0109</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NIPPON LIFE, SHEARSON TIE-UP SEEN SETTING TREND</TITLE>
-<AUTHOR>    By Steven Brull, Reuters</AUTHOR>
+<AUTHOR>    By Steven Brull, TextRecognition</AUTHOR>
 <DATELINE>    TOKYO, March 24 - </DATELINE><BODY>Nippon Life Insurance Co's 538 mln dlr
 purchase of a 13 pct stake in Shearson Lehman Brothers Inc
 brokerage unit is a shrewd move that other Japanese insurers
@@ -23240,7 +23240,7 @@ distorted world prices, Carney said.
 not introduce new import barriers not mandated by existing
 legislation and the fifth was that these basic principles must
 be implemented collectively.
-    Carney later told Reuters the Canadian guidelines are
+    Carney later told TextRecognition the Canadian guidelines are
 basically compatible with the seven point Australian proposals
 announced in Davos, Switzerland, in January.
     European trade sources said the conference welcomed the
@@ -23516,7 +23516,7 @@ u f BC-U.S.-OFFERS-TO-ESCORT   03-24 0111</UNKNOWN>
 <DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>The U.S. Has offered warships to
 escort Kuwaiti tankers in the Gulf past Iranian anti-ship
 missile batteries, Defence Department officials said.
-    The officials told Reuters yesterday the offer was made
+    The officials told TextRecognition yesterday the offer was made
 last week by Navy Admiral William Crowe, chairman of the
 Pentagon Joint Chiefs of Staff, during a Middle East visit.
     Reagan administration officials said later that Washington
@@ -23967,7 +23967,7 @@ British naval source in the Gulf said.
     The source, who declined to be identified, said Iran had
 fired the Chinese-made missile at a hulk off its southern Gulf
 naval port of Bandar Abbas and scored a hit.
-    "These missiles pack a fairly big punch," he told Reuters.
+    "These missiles pack a fairly big punch," he told TextRecognition.
 "There is no doubt they could be used to target (shipping)
 across the Strait of Hormuz."
     Tension in the Gulf has risen since U.S. Officials last
@@ -24001,7 +24001,7 @@ r f BC-MERRILL-LYNCH-&lt;MER>-I   03-24 0099</UNKNOWN>
 <TITLE>MERRILL LYNCH &lt;MER> IN TALKS ON CANADA PURCHASES</TITLE>
 <DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>Merrill Lynch and Co Inc is holding
 talks on acquiring Canadian brokerage firms, a company
-spokesman told Reuters.
+spokesman told TextRecognition.
     He said one of the firms with which Merrill Lynch is
 negotiating is &lt;Burns Fry Corp> of Toronto, which has already
 received an offer from Security Pacific Corp's &lt;SPC> 83 pct
@@ -24229,7 +24229,7 @@ British naval source in the Gulf said.
     The source, who declined to be identified, said Iran had
 fired the Chinese-made missile at a hulk off its southern Gulf
 naval port of Bandar Abbas and scored a hit.
-    "These missiles pack a fairly big punch," he told Reuters.
+    "These missiles pack a fairly big punch," he told TextRecognition.
 "There is no doubt they could be used to target (shipping)
 across the Strait of Hormuz."
  Reuter
@@ -24252,7 +24252,7 @@ u f BC-BET-WINS-APPROVAL-FOR   03-24 0116</UNKNOWN>
 <DATELINE>    LONDON, March 24 - </DATELINE><BODY>British services company BET Plc
 &lt;BETL.L> said its shareholders had given it approval to raise
 up to 170 mln dlrs through a share issue to U.S. Investors.
-    A company spokesman told Reuters the issue of up to 44 mln
+    A company spokesman told TextRecognition the issue of up to 44 mln
 shares will be in the form of American Depository Receipts
 (ADRs) and that the total amount to be raised will probably be
 75 to 100 mln dlrs, depending on market conditions.
@@ -24849,7 +24849,7 @@ shopkeepers and the catering trade to be on the alert.
 u f BC-DOLLAR-DROP-SEEN-AS-T   03-24 0112</UNKNOWN>
 <TEXT>&#2;
 <TITLE>DOLLAR DROP SEEN AS TEST OF PARIS AGREEMENT</TITLE>
-<AUTHOR>    By Franz-Josef Ebel, Reuters</AUTHOR>
+<AUTHOR>    By Franz-Josef Ebel, TextRecognition</AUTHOR>
 <DATELINE>    FRANKFURT, March 24 - </DATELINE><BODY>The sharp drop in the value of the
 dollar against the yen and the mark is the first serious test
 of last month's Group of Five (G-5) plus Canada agreement to
@@ -25182,7 +25182,7 @@ in today's auction, which a bank spokesman termed "heavy."
     Rates stood at 12.1 pct at the start of the year and have
 been increased to drain liquidity on rising demands for funds,
 the spokesman said.
-    He said in reply to Reuters inquiries that rates could rise
+    He said in reply to TextRecognition inquiries that rates could rise
 further if money supply growth rose above this year's eight pct
 target for M-4, defined as liquid assets in public hands.
     Money supply rose at an annualised rate of 16.7 pct last
@@ -25242,7 +25242,7 @@ u f BC-GATT-ROUND-MAY-STOP-G   03-24 0142</UNKNOWN>
 halt growing bilateral trade problems between major trading
 partners, U.S. Trade Representative Clayton Yeutter said.
     Yeutter, in New Zealand for informal GATT ministerial
-talks, told Reuters bilateral trade disputes are increasing
+talks, told TextRecognition bilateral trade disputes are increasing
 because the multilateral system is inefficient.
     "That is really a strong rationale why we need a new GATT
 round," he said. "The very existence of all these bilateral
@@ -25367,7 +25367,7 @@ country's labour troubles showed no signs of easing.
     A national seamen's strike which began on February 27 is
 still continuing, despite a partial return to work.
     A spokesman at the bankworkers' national strike
-headquarters in Sao Paulo, Lucio Cesar Pires, told Reuters that
+headquarters in Sao Paulo, Lucio Cesar Pires, told TextRecognition that
 about 500,000 of Brazil's 700,000 bankworkers were on strike.
     He said that many private banks were working, particularly
 in Sao Paulo, Rio de Janeiro and Porto Alegre.
@@ -25845,7 +25845,7 @@ u f BC-PETRIE-STORES-CORP-&lt;P   03-24 0062</UNKNOWN>
 r f BC-/U.S.-ECONOMY-SHOWS-P   03-24 0081</UNKNOWN>
 <TEXT>&#2;
 <TITLE>U.S. ECONOMY SHOWS PROMISING SIGNS OF GROWTH</TITLE>
-<AUTHOR>    By Donna Smith, Reuters</AUTHOR>
+<AUTHOR>    By Donna Smith, TextRecognition</AUTHOR>
 <DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>The U.S. economy is showing some
 promising signs of accelerated expansion despite the
 sluggishness of the fourth quarter last year, private
@@ -26484,7 +26484,7 @@ country's labour troubles showed no signs of easing.
     A national seamen's strike which began on February 27 is
 still continuing, despite a partial return to work.
     A spokesman at the bankworkers' national strike
-headquarters in Sao Paulo, Lucio Cesar Pires, told Reuters that
+headquarters in Sao Paulo, Lucio Cesar Pires, told TextRecognition that
 about 500,000 of Brazil's 700,000 bankworkers were on strike.
     He said that many private banks were working, particularly
 in Sao Paulo, Rio de Janeiro and Porto Alegre.
@@ -26594,7 +26594,7 @@ jeopardized by rising oil imports.
 Development Corp &lt;MND> chairman, George Mitchell, Herrington
 said the report did not definitively rule out an oil import
 tarrif. "We intend to keep that debate open," Herrington said.
-    However, following his speech, Herrington told Reuters that
+    However, following his speech, Herrington told TextRecognition that
 the new report shows an oil import fee "is not economical."
     Herrington said, for example, a 10 dlr per barrel tariff on
 oil imports would cause the nation's gross national product to
@@ -26704,12 +26704,12 @@ April 18.
 u f BC-PHILIPPINE-CENTRAL-BA   03-24 0116</UNKNOWN>
 <TEXT>&#2;
 <TITLE>PHILIPPINE CENTRAL BANKER FACES CORRUPTION CHARGES</TITLE>
-<AUTHOR>    By Chaitanya Kalbag, Reuters</AUTHOR>
+<AUTHOR>    By Chaitanya Kalbag, TextRecognition</AUTHOR>
 <DATELINE>    MANILA, March 24 - </DATELINE><BODY>A government-appointed special
 prosecutor has ordered the filing of corruption charges over
 the closure of a private bank against Philippine central bank
 governor Jose Fernandez, who said he would contest the charges.
-    Ombudsman Raul Gonzalez told Reuters there was evidence to
+    Ombudsman Raul Gonzalez told TextRecognition there was evidence to
 indicate that Fernandez had misused his office in ordering the
 closure of &lt;Pacific Banking Corp> in July, 1985.
     He said the charges against Fernandez would be filed "within
@@ -28435,7 +28435,7 @@ b f BC-FINNISH-EXPORT-CREDIT   03-24 0110</UNKNOWN>
 <DATELINE>    COPENHAGEN, March 24 - </DATELINE><BODY>Finnish Export Credit Ltd issued
 bonds for 450 mln Danish crowns in three bullet tranches each
 of 150 mln crowns, an official at joint lead manager Copenhagen
-Handelsbank A/S told Reuters.
+Handelsbank A/S told TextRecognition.
     All three tranches bear an 11 pct coupon, with average
 issue price of 101-1/8 and average fees of 1-1/2 pct, payment
 date May 14, 1987. Denominations are 10,000 crowns and
@@ -28807,7 +28807,7 @@ businesses large and small," said Williams.
 u f BC-TALKING-POINT/U.S.-BR   03-24 0086</UNKNOWN>
 <TEXT>&#2;
 <TITLE>TALKING POINT/U.S. BROKERAGE FIRMS</TITLE>
-<AUTHOR>    By Patti Domm, Reuters</AUTHOR>
+<AUTHOR>    By Patti Domm, TextRecognition</AUTHOR>
 <DATELINE>    New York, March 24 - </DATELINE><BODY>Wall Street's biggest brokerage firms,
 eager for funds and foreign ties to fuel international
 expansion, are expected to find more partnerships among Japan's
@@ -29338,7 +29338,7 @@ u f BC-CHRYSLER,-LAMBORGHINI   03-24 0099</UNKNOWN>
 lead to Chrysler Corp &lt;C> taking a stake in Italian car maker
 &lt;Automobili Lamborghini SpA> are continuing, a Lamborghini
 spokesman said.
-    He told Reuters the two companies are discussing a number
+    He told TextRecognition the two companies are discussing a number
 of topics ranging from "a joint venture in the production area
 to Chrysler becoming a shareholding partner" in the Italian
 firm.
@@ -30216,7 +30216,7 @@ to 36,717 last year.
 u f BC-STERLING-OUTLOOK-CLOU   03-24 0111</UNKNOWN>
 <TEXT>&#2;
 <TITLE>STERLING OUTLOOK CLOUDED BY TEST OF PARIS ACCORD</TITLE>
-<AUTHOR>    By Myra MacDonald, Reuters</AUTHOR>
+<AUTHOR>    By Myra MacDonald, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 24 - </DATELINE><BODY>The move by foreign exchange markets to
 test the strength of the Paris currency accord has thrown into
 question the near-term outlook for sterling, until recently one
@@ -31027,7 +31027,7 @@ Microelettronica SpA> and &lt;Thomson Semiconducteurs> in the
 civil semiconductor field.
     They said the accord, once concluded, would be put for
 approval to the French and Italian authorities.
-    The Olivetti spokesman was responding to a Reuters query
+    The Olivetti spokesman was responding to a TextRecognition query
 about Italian press reports today saying that Olivetti might
 participate in the venture with a two pct stake.
  REUTER
@@ -32051,7 +32051,7 @@ ends at the close of the business day on March 30.
 15, an official said.
     USDA personnel in the corn belt states of Iowa, Illinois,
 and Indiana have been reporting heavy signup activity, an ASCS
-official told Reuters.
+official told TextRecognition.
     A surge of acitivity is expected during this final week of
 signup, the official said.
     "A lot of farmers have been dragging their feet because
@@ -32105,7 +32105,7 @@ Wednesday on its possible dissolution.
     The directors of the company called a special meeting and
 recommended its dissolution last month, citing falling volume
 and increasing costs.
-    Sources close to the organization told Reuters the pullout
+    Sources close to the organization told TextRecognition the pullout
 of Growmark, Inc., which holds more than 70 pct of the capital
 stock, led to the call for dissolution.
     The possible demise of the cooperative has set clearing
@@ -32763,7 +32763,7 @@ disproportiaonate share of cash flow for debt service."
 u f BC-COCOA-COUNCIL-MOVES-C   03-24 0101</UNKNOWN>
 <TEXT>&#2;
 <TITLE>COCOA BUFFER STOCK ACCORD CLOSER, DELEGATES SAY</TITLE>
-<AUTHOR>    By Lisa Vaughan, Reuters</AUTHOR>
+<AUTHOR>    By Lisa Vaughan, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 24 - </DATELINE><BODY>The International Cocoa Organization
 (ICCO) moved closer to an agreement on buffer stock rules, with
 many delegates saying they expect to reach an accord by Friday.
@@ -33460,7 +33460,7 @@ preferred stock dividends.
 u f BC-NEW-S.AFRICA-ACCORD-W   03-24 0107</UNKNOWN>
 <TEXT>&#2;
 <TITLE>NEW S.AFRICA ACCORD WITH BANKS BROUGHT COMPROMISE</TITLE>
-<AUTHOR>    By Marguerite Nugent, Reuters</AUTHOR>
+<AUTHOR>    By Marguerite Nugent, TextRecognition</AUTHOR>
 <DATELINE>    LONDON, March 24 - </DATELINE><BODY>A new agreement covering the repayment
 of part of South Africa's foreign debt represents a compromise
 between that country and its commercial bank creditors
