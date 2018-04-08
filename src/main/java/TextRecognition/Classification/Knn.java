@@ -46,7 +46,7 @@ public class Knn {
         double all = 0;
         for (Article classifyArt : classificationArticles) {
             all++;
-            if (all % 250 == 0)
+            if (all % 100 == 0)
                 System.out.println(".");
             results = new HashMap<>();
             TFIDFCalculator tfidfCalculator = new TFIDFCalculator(articlesWords, classifyArt);
@@ -160,15 +160,19 @@ public class Knn {
             Map.Entry mentry = (Map.Entry) iterator.next();
             succeded += percentage.get(mentry.getKey())[0];
             all += percentage.get(mentry.getKey())[1];
+//            double temp = percentage.get(mentry.getKey())[0] * 100 / percentage.get(mentry.getKey())[1];
+//            if (temp ==0) {
+//                temp = 1;
+//            }
             String v1 = String.format("%1$-10s %2$10d", mentry.getKey(), percentage.get(mentry.getKey())[1]);
             String v2 = String.format("%1$-10s %2$10d", "Success", percentage.get(mentry.getKey())[0]);
             String v3 = String.format("%1$-10s %2$10d", "Fail", (percentage.get(mentry.getKey())[1] - percentage.get(mentry.getKey())[0]));
-            String v4 = String.format("%1$-10s %2$10d", "RESULT", percentage.get(mentry.getKey())[0] * 100 / percentage.get(mentry.getKey())[1]);
-            v4 += "%";
+            //String v4 = String.format("%1$-10s %2$10d", "RESULT", temp);
+            //v4 += "%";
             detailedAnswers.add(v1);
             detailedAnswers.add(v2);
-            detailedAnswers.add(v3);
-            detailedAnswers.add(v4 + "\n");
+            detailedAnswers.add(v3 + "\n");
+            //detailedAnswers.add(v4 + "\n");
         }
         System.out.println("\nClassification succeded in " + succeded * 100 / all + "%");
         saveDetailedResultToFile(detailedAnswers);
