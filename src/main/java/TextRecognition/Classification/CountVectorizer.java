@@ -7,10 +7,10 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class CountVectorizer {
+public class CountVectorizer implements Extractor{
     private HashMap compareA;
     private HashMap compareB;
-    private int[][] wordsCounter;
+    private double[][] wordsCounter;
 
     public CountVectorizer(Article a) {
         this.compareA = extractArticleBody(a);
@@ -38,7 +38,7 @@ public class CountVectorizer {
         Iterator iterator = set.iterator();
         int iter = 0;
 
-        this.wordsCounter = new int[compareA.size()+compareB.size()][2];
+        this.wordsCounter = new double[compareA.size()+compareB.size()][2];
         while (iterator.hasNext()) {
             Map.Entry mentry = (Map.Entry) iterator.next();
             if (compareB.containsKey(mentry.getKey())) {
@@ -61,7 +61,7 @@ public class CountVectorizer {
         }
     }
 
-    public int[][] getWordsCounter() {
+    public double[][] getWordsCounter() {
         return wordsCounter;
     }
 }

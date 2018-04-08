@@ -25,10 +25,10 @@ public class App {
         String chebyshevMetric = "chebyshev";
         String manhattanMetric = "manhattan";
         runReuters(3, euclideanMetric);
-        //runOwnText(1, false,euclideanMetric);
+        //runOwnText(3, true,euclideanMetric);
     }
 
-     static void runReuters(int k, String metric) throws IOException {
+    static void runReuters(int k, String metric) throws IOException {
         Path x = Paths.get("resources" + File.separator + "reuters21578");
         List<Article> reutersArticles;
         ReutersParser ex = new ReutersParser(x);
@@ -42,16 +42,16 @@ public class App {
         exm.getOnlyRequiredPlaces();
         System.out.println("Articles with required chosen: " + reutersArticles.size());
         exm.saveArticlesToXML();
-         List<Article> test = new ArrayList<>(exm.getArticles().subList(0,80));
-         List<Article> classify = new ArrayList<>(exm.getArticles().subList(80,120));
+        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,400));
+        List<Article> classify = new ArrayList<>(exm.getArticles().subList(400,570));
 //        List<Article> test = new ArrayList<>(exm.getArticles().subList(0,9000));
 //        List<Article> classify = new ArrayList<>(exm.getArticles().subList(9000,13441));
-        Knn knn = new Knn(test, classify, "reuters", metric);
+        Knn knn = new Knn(test, classify, "reuters", metric,"TFIDF");
         System.out.println("=======================================\nStarted classification!");
         knn.classify(k);
     }
 
-     static void runOwnText(int k, boolean shuffle, String metric) {
+    static void runOwnText(int k, boolean shuffle, String metric) {
         OwnTextParser own = new OwnTextParser();
         List<Article> ownArticles;
         ownArticles = own.parse("resources" + File.separator + "OwnTexts" + File.separator + "ownData7030.sgm");
@@ -60,7 +60,7 @@ public class App {
         }
         List<Article> test = new ArrayList<>(ownArticles.subList(0,70));
         List<Article> classify = new ArrayList<>(ownArticles.subList(70,100));
-        Knn knn = new Knn(test, classify, "own", metric);
+        Knn knn = new Knn(test, classify, "own", metric,"CountVectorizer");
         System.out.println("=======================================\nStarted classification!");
         knn.classify(k);
     }

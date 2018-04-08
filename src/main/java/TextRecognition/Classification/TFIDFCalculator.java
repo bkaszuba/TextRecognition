@@ -5,13 +5,13 @@ import TextRecognition.Model.Article;
 
 import java.util.*;
 
-public class TFIDFCalculator {
+public class TFIDFCalculator implements Extractor {
     private HashMap textA;
     private HashMap textB;
     private double[][] wordsCounter;
-    private List<List<String>> articlesWords = null;
+    private ArrayDeque<ArrayDeque<String>> articlesWords = null;
 
-    public TFIDFCalculator(List<List<String>> articles, Article a) {
+    public TFIDFCalculator(ArrayDeque<ArrayDeque<String>> articles, Article a) {
         this.articlesWords = articles;
         this.textA = extractArticleBody(a);
     }
@@ -22,32 +22,27 @@ public class TFIDFCalculator {
 
     private HashMap extractArticleBody(Article article) {
         HashMap<String, Double> wordsDictionary = new HashMap<>();
-        String[] words = article.getBody().split("\\s+");
-        //tf
-        double result = 0;
-        for (int i = 0; i < words.length; i++) {
-            for (String word : words) {
-                if (words[i].equalsIgnoreCase(word)) {
+        List<String> wordsList = Arrays.asList(article.getBody().split("\\s+"));
+        ArrayDeque<String> listOfWords = new ArrayDeque<>(wordsList);
+        for (String term : listOfWords) {
+            double result = 0;
+            for (String word : listOfWords) {
+                if (term.equalsIgnoreCase(word)) {
                     result++;
                 }
             }
-            wordsDictionary.put(words[i], result / words.length);
-            result = 0;
-        }
-        //idf
-        double n = 0;
-        for (int i = 0; i < words.length; i++) {
-            for (List<String> text : articlesWords) {
+            double n = 0;
+            for (ArrayDeque<String> text : articlesWords) {
                 for (String word : text) {
-                    if (words[i].equalsIgnoreCase(word)) {
+                    if (term.equalsIgnoreCase(word)) {
                         n++;
                         break;
                     }
                 }
             }
-            wordsDictionary.put(words[i], wordsDictionary.get(words[i]) * Math.log(articlesWords.size() / n));
-            n = 0;
+            wordsDictionary.put(term, (result / listOfWords.size()) * Math.log(articlesWords.size() / n));
         }
+
         return wordsDictionary;
     }
 
