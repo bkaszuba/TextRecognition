@@ -49,7 +49,7 @@ public class Knn {
         double all = 0;
         for (Article classifyArt : classificationArticles) {
             all++;
-            if (all % 50 == 0)
+            if (all % 100 == 0)
                 System.out.println(".");
             results = new HashMap<>();
             switch (extractor) {
