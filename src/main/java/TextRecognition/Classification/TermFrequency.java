@@ -7,12 +7,12 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-public class CountVectorizer implements Extractor{
+public class TermFrequency implements Extractor{
     private HashMap compareA;
     private HashMap compareB;
     private double[][] wordsCounter;
 
-    public CountVectorizer(Article a) {
+    public TermFrequency(Article a) {
         this.compareA = extractArticleBody(a);
     }
 

@@ -53,21 +53,21 @@ public class Knn {
                 System.out.println(".");
             results = new HashMap<>();
             switch (extractor) {
-                case "CountVectorizer": {
-                    CountVectorizer countVectorizer = new CountVectorizer(classifyArt);
+                case "TermFrequency": {
+                    TermFrequency termFrequency = new TermFrequency(classifyArt);
                     for (Article testArt : testingArticles) {
-                        countVectorizer.vectorizeArticle(testArt);
-                        countVectorizer.countWords();
-                        methodMenu(countVectorizer,classifyArt, testArt);
+                        termFrequency.vectorizeArticle(testArt);
+                        termFrequency.countWords();
+                        methodMenu(termFrequency,classifyArt, testArt);
                     }
                     break;
                 }
                 case "TFIDF": {
-                    TFIDFCalculator tfidfCalculator = new TFIDFCalculator(articlesWords, classifyArt);
+                    TFIDF tfidf = new TFIDF(articlesWords, classifyArt);
                     for (Article testArt : testingArticles) {
-                        tfidfCalculator.vectorizeArticle(testArt);
-                        tfidfCalculator.calculateTFIDF();
-                        methodMenu(tfidfCalculator,classifyArt, testArt);
+                        tfidf.vectorizeArticle(testArt);
+                        tfidf.calculateTFIDF();
+                        methodMenu(tfidf,classifyArt, testArt);
                     }
                     break;
                 }

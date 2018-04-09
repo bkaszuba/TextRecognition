@@ -5,13 +5,13 @@ import TextRecognition.Model.Article;
 
 import java.util.*;
 
-public class TFIDFCalculator implements Extractor {
+public class TFIDF implements Extractor {
     private HashMap textA;
     private HashMap textB;
     private double[][] wordsCounter;
     private ArrayDeque<ArrayDeque<String>> articlesWords = null;
 
-    public TFIDFCalculator(ArrayDeque<ArrayDeque<String>> articles, Article a) {
+    public TFIDF(ArrayDeque<ArrayDeque<String>> articles, Article a) {
         this.articlesWords = articles;
         this.textA = extractArticleBody(a);
     }
